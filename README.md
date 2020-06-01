@@ -21,14 +21,14 @@ The dataset used in the analysis was created by merging variables from the follo
 * [Chinese Steel Production Figures](https://www.worldsteel.org/steel-by-topic/statistics/steel-statistical-yearbook.html)
   1. Total production of crude steel in thousand tonnes
  
- The process of wrangling and cleaning the data can be viewed here: 
+ A notebook detailing the process of wrangling and cleaning the data can be viewed [here](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_v3.ipynb). 
 
 ## C. Dependencies:
 
 ### Python Packages
-The steps in the data wrangling/cleaning process are detailed in the Jupyter notebook: *dataset_prep_v2.ipynb*
+The steps in the data wrangling/cleaning process are detailed in the Jupyter notebook: *dataset_prep.ipynb*
 
-To run *dataset_prep_v2.ipynb*, the packages in *requirements.txt* need to the installed.
+To run *dataset_prep.ipynb*, the packages in *requirements.txt* need to the installed.
 
 From the command prompt (cmd):
 1. Install virtual environment manager:
