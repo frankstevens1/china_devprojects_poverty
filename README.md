@@ -10,7 +10,7 @@ Stata 15 with additional packages is used for running the analysis and generatin
 ### A. Python Packages
 The steps in the data wrangling/cleaning process are detailed in the Jupyter notebook: *dataset_prep_v2.ipynb*
 
-To run *dataset_prep_v2.ipynb*, the packages in requirements.txt need to the installed.
+To run *dataset_prep_v2.ipynb*, the packages in *requirements.txt* need to the installed.
 
 From the command prompt (cmd):
 1. Install virtual environment manager:
@@ -29,11 +29,11 @@ cd C:\Users\...\china_devprojects_poverty
 ```
 vitualenv cdpenv
 ```
-5. Activate vitual environment:
+5. Activate virtual environment:
 ```
 .\cdpenv\Scripts\activate
 ```
-6. Install all packages from requirements.txt
+6. Install all packages from *requirements.txt*:
 ```
 pip install -r requirements.txt --upgrade
 ```
@@ -55,9 +55,9 @@ pip install .\dependencies\Fiona-1.8.13-cp38-cp38-win_amd64.whl
 ```
 pip install .\dependencies\Rtree-0.9.4-cp38-cp38-win_amd64.whl
 ```
-10. Setup ipyknernel to recognize mtenv, the virtual environment that now has all required dependencies to run dataset_prep_v2.ipynb:
+10. Setup ipyknernel to recognize cdpenv, the virtual environment that now has all required dependencies to run *dataset_prep_v2.ipynb*:
 ```
-python -m ipykernel install --name=mtenv
+python -m ipykernel install --name=cdpenv
 ```
 ### B. Stata Packages:
 The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correira's REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
