@@ -60,7 +60,7 @@ pip install .\dependencies\Rtree-0.9.4-cp38-cp38-win_amd64.whl
 python -m ipykernel install --name=cdpenv
 ```
 ### B. Stata Packages:
-The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correira's REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
+The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
 1. REGHDFE and its requirements can be installed from SSC, *stata_req.do* contains all the stata packages:
 ```
