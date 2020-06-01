@@ -1,0 +1,1369 @@
+Country,ISO_Code,Level,GDLCODE,Region,"1991","1992","1993","1994","1995","1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010","2011","2012","2013","2014","2015","2016","2017","2018"
+"Afghanistan","AFG","Subnat","AFGr101","Central (Kabul Wardak Kapisa Logar Parwan Panjsher)",,,,,,,,,,,,,,,,,,,,,,,,2274,2247,2219,2192,2165
+"Afghanistan","AFG","Subnat","AFGr102","Central Highlands (Bamyan Daikundi)",,,,,,,,,,,,,,,,,,,,,,,,1380,1364,1349,1333,1318
+"Afghanistan","AFG","Subnat","AFGr103","East (Nangarhar Kunar Laghman Nooristan)",,,,,,,,,,,,,,,,,,,,,,,,1361,1345,1330,1315,1299
+"Afghanistan","AFG","Subnat","AFGr104","North (Samangan Sar-e-Pul Balkh Jawzjan Faryab)",,,,,,,,,,,,,,,,,,,,,,,,2169,2143,2117,2091,2065
+"Afghanistan","AFG","Subnat","AFGr105","North East (Baghlan Takhar Badakhshan Kunduz)",,,,,,,,,,,,,,,,,,,,,,,,1578,1560,1542,1524,1506
+"Afghanistan","AFG","Subnat","AFGr106","South (Uruzgan Helmand Zabul Nimroz Kandahar)",,,,,,,,,,,,,,,,,,,,,,,,1777,1757,1736,1715,1695
+"Afghanistan","AFG","Subnat","AFGr107","South East (Ghazni Paktya Paktika Khost)",,,,,,,,,,,,,,,,,,,,,,,,1678,1659,1640,1620,1601
+"Afghanistan","AFG","Subnat","AFGr108","West (Ghor Herat Badghis Farah)",,,,,,,,,,,,,,,,,,,,,,,,1665,1645,1626,1607,1587
+"Albania","ALB","Subnat","ALBr201"," Berat",,,,,,,,,,,,,,,,,,,,,,,,10053,10503,10953,11402,11852
+"Albania","ALB","Subnat","ALBr202"," Diber",,,,,,,,,,,,,,,,,,,,,,,,10219,10677,11135,11593,12051
+"Albania","ALB","Subnat","ALBr203"," Durres",,,,,,,,,,,,,,,,,,,,,,,,11793,12331,12869,13407,13945
+"Albania","ALB","Subnat","ALBr204"," Elbasan",,,,,,,,,,,,,,,,,,,,,,,,10091,10542,10994,11446,11897
+"Albania","ALB","Subnat","ALBr205"," Fier",,,,,,,,,,,,,,,,,,,,,,,,8691,9072,9454,9835,10217
+"Albania","ALB","Subnat","ALBr206"," Gjirokaster",,,,,,,,,,,,,,,,,,,,,,,,10927,11421,11915,12409,12903
+"Albania","ALB","Subnat","ALBr207"," Korce",,,,,,,,,,,,,,,,,,,,,,,,10758,11243,11728,12213,12699
+"Albania","ALB","Subnat","ALBr208"," Kukes",,,,,,,,,,,,,,,,,,,,,,,,10761,11247,11732,12218,12703
+"Albania","ALB","Subnat","ALBr209"," Lezhe",,,,,,,,,,,,,,,,,,,,,,,,9740,10174,10608,11042,11476
+"Albania","ALB","Subnat","ALBr210"," Shkoder",,,,,,,,,,,,,,,,,,,,,,,,11476,11998,12520,13042,13563
+"Albania","ALB","Subnat","ALBr211"," Tirana",,,,,,,,,,,,,,,,,,,,,,,,10519,10992,11465,11938,12411
+"Albania","ALB","Subnat","ALBr212"," Vlore",,,,,,,,,,,,,,,,,,,,,,,,10627,11105,11584,12062,12541
+"Algeria","DZA","Subnat","DZAr104","Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",,,,,,,,,,,,,,,,,,,,,,,,12345,12331,12316,12302,12288
+"Algeria","DZA","Subnat","DZAr105","Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",,,,,,,,,,,,,,,,,,,,,,,,14012,13995,13978,13962,13945
+"Algeria","DZA","Subnat","DZAr106","Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",,,,,,,,,,,,,,,,,,,,,,,,13119,13103,13088,13072,13057
+"Algeria","DZA","Subnat","DZAr101","Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",,,,,,,,,,,,,,,,,,,,,,,,13723,13707,13691,13674,13658
+"Algeria","DZA","Subnat","DZAr102","Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",,,,,,,,,,,,,,,,,,,,,,,,13630,13614,13597,13581,13565
+"Algeria","DZA","Subnat","DZAr103","Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",,,,,,,,,,,,,,,,,,,,,,,,14017,14000,13983,13967,13950
+"Algeria","DZA","Subnat","DZAr107","Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",,,,,,,,,,,,,,,,,,,,,,,,14146,14129,14113,14096,14079
+"Angola","AGO","Subnat","AGOr218"," Bengo",,,,,,,,,,,,,,,,,,,,,,,,5518,5220,4921,4623,4324
+"Angola","AGO","Subnat","AGOr209"," Benguela",,,,,,,,,,,,,,,,,,,,,,,,5830,5513,5196,4879,4562
+"Angola","AGO","Subnat","AGOr211"," Bie",,,,,,,,,,,,,,,,,,,,,,,,3461,3282,3104,2925,2746
+"Angola","AGO","Subnat","AGOr201"," Cabinda",,,,,,,,,,,,,,,,,,,,,,,,11375,10718,10062,9405,8748
+"Angola","AGO","Subnat","AGOr216"," Cunene",,,,,,,,,,,,,,,,,,,,,,,,3803,3605,3406,3208,3010
+"Angola","AGO","Subnat","AGOr210"," Huambo",,,,,,,,,,,,,,,,,,,,,,,,4958,4692,4427,4161,3896
+"Angola","AGO","Subnat","AGOr215"," Huila",,,,,,,,,,,,,,,,,,,,,,,,4507,4268,4029,3790,3550
+"Angola","AGO","Subnat","AGOr213"," Kuando Kubango",,,,,,,,,,,,,,,,,,,,,,,,4212,3990,3768,3546,3324
+"Angola","AGO","Subnat","AGOr205"," Kuanza Norte",,,,,,,,,,,,,,,,,,,,,,,,4885,4624,4363,4101,3840
+"Angola","AGO","Subnat","AGOr206"," Kuanza Sul",,,,,,,,,,,,,,,,,,,,,,,,3703,3511,3318,3125,2933
+"Angola","AGO","Subnat","AGOr204"," Luanda",,,,,,,,,,,,,,,,,,,,,,,,18352,17250,16148,15046,13943
+"Angola","AGO","Subnat","AGOr208"," Lunda Norte",,,,,,,,,,,,,,,,,,,,,,,,4505,4266,4027,3788,3549
+"Angola","AGO","Subnat","AGOr217"," Lunda Sul",,,,,,,,,,,,,,,,,,,,,,,,5295,5009,4724,4439,4154
+"Angola","AGO","Subnat","AGOr207"," Malange",,,,,,,,,,,,,,,,,,,,,,,,5568,5267,4965,4664,4362
+"Angola","AGO","Subnat","AGOr212"," Moxico",,,,,,,,,,,,,,,,,,,,,,,,3896,3692,3489,3285,3081
+"Angola","AGO","Subnat","AGOr214"," Namibe",,,,,,,,,,,,,,,,,,,,,,,,6563,6202,5841,5480,5119
+"Angola","AGO","Subnat","AGOr203"," Uige",,,,,,,,,,,,,,,,,,,,,,,,3782,3584,3387,3190,2993
+"Angola","AGO","Subnat","AGOr202"," Zaire",,,,,,,,,,,,,,,,,,,,,,,,6976,6590,6205,5819,5433
+"Argentina","ARG","Subnat","ARGr103","Catamarca, La Rioja, San Juan",,,,,,,,,,,,,,,,,,,,,,,,21113,20258,19403,18547,17692
+"Argentina","ARG","Subnat","ARGr106","Chaco, Formosa",,,,,,,,,,,,,,,,,,,,,,,,16344,15697,15049,14402,13754
+"Argentina","ARG","Subnat","ARGr107","Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",,,,,,,,,,,,,,,,,,,,,,,,24419,23418,22416,21414,20412
+"Argentina","ARG","Subnat","ARGr101","City of Buenos Aires",,,,,,,,,,,,,,,,,,,,,,,,24489,23484,22480,21475,20470
+"Argentina","ARG","Subnat","ARGr104","Cordoba",,,,,,,,,,,,,,,,,,,,,,,,22076,21178,20280,19382,18484
+"Argentina","ARG","Subnat","ARGr105","Corrientes, Entre Rios, Misiones",,,,,,,,,,,,,,,,,,,,,,,,20251,19433,18616,17798,16981
+"Argentina","ARG","Subnat","ARGr108","Jujuy, Salta",,,,,,,,,,,,,,,,,,,,,,,,17977,17259,16541,15822,15104
+"Argentina","ARG","Subnat","ARGr109","La Pampa, San Luis, Mendoza",,,,,,,,,,,,,,,,,,,,,,,,23877,22899,21922,20944,19967
+"Argentina","ARG","Subnat","ARGr102","Rest of Buenos Aires",,,,,,,,,,,,,,,,,,,,,,,,20028,19220,18413,17605,16797
+"Argentina","ARG","Subnat","ARGr110","Santa Fe",,,,,,,,,,,,,,,,,,,,,,,,22218,21314,20410,19505,18601
+"Argentina","ARG","Subnat","ARGr111","Santiago del Estero, Tucuman",,,,,,,,,,,,,,,,,,,,,,,,19999,19193,18386,17580,16773
+"Armenia","ARM","Subnat","ARMr101","Aragatsotn",,,,,,,,,,,,,,,,,,,,,,,,7571,7761,7950,8140,8329
+"Armenia","ARM","Subnat","ARMr102","Ararat",,,,,,,,,,,,,,,,,,,,,,,,8027,8229,8432,8634,8836
+"Armenia","ARM","Subnat","ARMr103","Armavir",,,,,,,,,,,,,,,,,,,,,,,,7094,7270,7446,7623,7799
+"Armenia","ARM","Subnat","ARMr104","Gegharkunik",,,,,,,,,,,,,,,,,,,,,,,,6821,6990,7159,7327,7496
+"Armenia","ARM","Subnat","ARMr106","Kotayk",,,,,,,,,,,,,,,,,,,,,,,,9237,9474,9711,9948,10185
+"Armenia","ARM","Subnat","ARMr105","Lori",,,,,,,,,,,,,,,,,,,,,,,,7266,7447,7628,7809,7990
+"Armenia","ARM","Subnat","ARMr107","Shirak",,,,,,,,,,,,,,,,,,,,,,,,8240,8448,8657,8865,9074
+"Armenia","ARM","Subnat","ARMr108","Syunik",,,,,,,,,,,,,,,,,,,,,,,,8333,8545,8756,8967,9178
+"Armenia","ARM","Subnat","ARMr110","Tavush",,,,,,,,,,,,,,,,,,,,,,,,8128,8334,8539,8745,8950
+"Armenia","ARM","Subnat","ARMr109","Vayots Dzor",,,,,,,,,,,,,,,,,,,,,,,,8292,8502,8712,8922,9132
+"Armenia","ARM","Subnat","ARMr111","Yerevan",,,,,,,,,,,,,,,,,,,,,,,,9764,10016,10268,10520,10772
+"Azerbaijan","AZE","Subnat","AZEr102","Absheron",,,,,,,,,,,,,,,,,,,,,,,,22282,22175,22068,21961,21854
+"Azerbaijan","AZE","Subnat","AZEr107","Aran",,,,,,,,,,,,,,,,,,,,,,,,11043,10994,10944,10895,10846
+"Azerbaijan","AZE","Subnat","AZEr101","Baku",,,,,,,,,,,,,,,,,,,,,,,,27204,27071,26938,26805,26672
+"Azerbaijan","AZE","Subnat","AZEr109","Dakhlik Shirvan",,,,,,,,,,,,,,,,,,,,,,,,10890,10842,10793,10745,10696
+"Azerbaijan","AZE","Subnat","AZEr103","Ganja Gazakh",,,,,,,,,,,,,,,,,,,,,,,,11160,11110,11060,11010,10960
+"Azerbaijan","AZE","Subnat","AZEr106","Guba Khachmaz",,,,,,,,,,,,,,,,,,,,,,,,12383,12327,12271,12215,12159
+"Azerbaijan","AZE","Subnat","AZEr105","Lankaran",,,,,,,,,,,,,,,,,,,,,,,,10138,10093,10048,10004,9959
+"Azerbaijan","AZE","Subnat","AZEr104","Shaki Zaqatala",,,,,,,,,,,,,,,,,,,,,,,,11988,11934,11880,11826,11772
+"Azerbaijan","AZE","Subnat","AZEr108","Yukhari Karabakh",,,,,,,,,,,,,,,,,,,,,,,,10878,10829,10781,10732,10684
+"Bangladesh","BGD","Subnat","BGDr214"," Bagerhat, Khulna, Satkhira",,,,,,,,,,,,,,,,,,,,,,,,2339,2538,2736,2935,3134
+"Bangladesh","BGD","Subnat","BGDr204"," Bandarban, Cox s Bazar",,,,,,,,,,,,,,,,,,,,,,,,2143,2322,2502,2681,2860
+"Bangladesh","BGD","Subnat","BGDr202"," Barguna, Bhola, Patuakhali",,,,,,,,,,,,,,,,,,,,,,,,2155,2335,2516,2696,2877
+"Bangladesh","BGD","Subnat","BGDr201"," Barisal, Jhalokati, Pirojpur",,,,,,,,,,,,,,,,,,,,,,,,3475,3790,4105,4420,4735
+"Bangladesh","BGD","Subnat","BGDr219"," Bogra, Gaibandha, Jaypurhat",,,,,,,,,,,,,,,,,,,,,,,,2550,2769,2989,3209,3429
+"Bangladesh","BGD","Subnat","BGDr207"," Brahmanbaria, Chandpur, Comilla",,,,,,,,,,,,,,,,,,,,,,,,3398,3705,4012,4319,4626
+"Bangladesh","BGD","Subnat","BGDr203"," Chittagong",,,,,,,,,,,,,,,,,,,,,,,,4301,4705,5108,5512,5915
+"Bangladesh","BGD","Subnat","BGDr216"," Chuadanga, Jhenaidah, Kushtia, Meherpur",,,,,,,,,,,,,,,,,,,,,,,,3126,3405,3683,3962,4241
+"Bangladesh","BGD","Subnat","BGDr208"," Dhaka",,,,,,,,,,,,,,,,,,,,,,,,6470,7118,7765,8413,9060
+"Bangladesh","BGD","Subnat","BGDr220"," Dinajpur, Nilphamari, Panchagarh, Thakurgaon",,,,,,,,,,,,,,,,,,,,,,,,2388,2592,2796,2999,3203
+"Bangladesh","BGD","Subnat","BGDr212"," Faridpur, Manikganj, Rajbari",,,,,,,,,,,,,,,,,,,,,,,,2557,2777,2997,3218,3438
+"Bangladesh","BGD","Subnat","BGDr206"," Feni, Lakshmipur, Noakhali",,,,,,,,,,,,,,,,,,,,,,,,2992,3257,3522,3787,4051
+"Bangladesh","BGD","Subnat","BGDr209"," Gazipur, Narayanganj, Narsingdi",,,,,,,,,,,,,,,,,,,,,,,,4132,4518,4903,5288,5674
+"Bangladesh","BGD","Subnat","BGDr213"," Gopalganj, Madaripur, Munshiganj, Shariatpur",,,,,,,,,,,,,,,,,,,,,,,,2988,3253,3517,3781,4046
+"Bangladesh","BGD","Subnat","BGDr223"," Habiganj, Sunamganj",,,,,,,,,,,,,,,,,,,,,,,,2135,2313,2492,2670,2849
+"Bangladesh","BGD","Subnat","BGDr210"," Jamalpur, Sherpur, Tangail",,,,,,,,,,,,,,,,,,,,,,,,2483,2696,2910,3123,3336
+"Bangladesh","BGD","Subnat","BGDr215"," Jessore, Magura, Narail",,,,,,,,,,,,,,,,,,,,,,,,2748,2988,3228,3467,3707
+"Bangladesh","BGD","Subnat","BGDr205"," Khagrachhari, Rangamati (Chattagram)",,,,,,,,,,,,,,,,,,,,,,,,2373,2575,2777,2979,3181
+"Bangladesh","BGD","Subnat","BGDr211"," Kishoreganj, Mymensingh, Netrakona",,,,,,,,,,,,,,,,,,,,,,,,2104,2280,2456,2631,2807
+"Bangladesh","BGD","Subnat","BGDr221"," Kurigram, Lalmonirhat, Rangpur",,,,,,,,,,,,,,,,,,,,,,,,2260,2450,2641,2832,3023
+"Bangladesh","BGD","Subnat","BGDr222"," Maulvibazar, Sylhet",,,,,,,,,,,,,,,,,,,,,,,,3110,3387,3664,3941,4218
+"Bangladesh","BGD","Subnat","BGDr217"," Naogaon, Nawabganj, Rajshahi",,,,,,,,,,,,,,,,,,,,,,,,2351,2551,2751,2951,3151
+"Bangladesh","BGD","Subnat","BGDr218"," Natore, Pabna, Sirajganj",,,,,,,,,,,,,,,,,,,,,,,,2649,2879,3109,3339,3568
+"Barbados","BRB","Subnat","BRBr102","Christ Church and St. Philip",,,,,,,,,,,,,,,,,,,,,,,,17223,17096,16969,16841,16714
+"Barbados","BRB","Subnat","BRBr101","St Michael",,,,,,,,,,,,,,,,,,,,,,,,15579,15466,15352,15238,15124
+"Barbados","BRB","Subnat","BRBr103","St. James, St. George, and St. Thomas",,,,,,,,,,,,,,,,,,,,,,,,17246,17119,16991,16864,16736
+"Barbados","BRB","Subnat","BRBr104","St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",,,,,,,,,,,,,,,,,,,,,,,,15785,15669,15553,15438,15322
+"Belarus","BLR","Subnat","BLRr101","Brest region",,,,,,,,,,,,,,,,,,,,,,,,13733,14181,14629,15077,15525
+"Belarus","BLR","Subnat","BLRr103","Gomel region",,,,,,,,,,,,,,,,,,,,,,,,13787,14237,14687,15137,15587
+"Belarus","BLR","Subnat","BLRr104","Grodno region",,,,,,,,,,,,,,,,,,,,,,,,15698,16218,16738,17259,17779
+"Belarus","BLR","Subnat","BLRr105","Minsk region",,,,,,,,,,,,,,,,,,,,,,,,17139,17713,18287,18861,19434
+"Belarus","BLR","Subnat","BLRr106","Mogilev region",,,,,,,,,,,,,,,,,,,,,,,,12982,13403,13824,14245,14666
+"Belarus","BLR","Subnat","BLRr102","Vitebsk region",,,,,,,,,,,,,,,,,,,,,,,,14516,14993,15470,15947,16423
+"Belize","BLZ","Subnat","BLZr102","Belize",,,,,,,,,,,,,,,,,,,,,,,,8173,8267,8361,8454,8548
+"Belize","BLZ","Subnat","BLZr103","Cayo",,,,,,,,,,,,,,,,,,,,,,,,3663,3701,3739,3777,3816
+"Belize","BLZ","Subnat","BLZr101","Corozal, Orange Walk",,,,,,,,,,,,,,,,,,,,,,,,6410,6481,6553,6624,6695
+"Belize","BLZ","Subnat","BLZr104","Stann Creek, Toledo",,,,,,,,,,,,,,,,,,,,,,,,7160,7241,7322,7403,7484
+"Benin","BEN","Subnat","BENr101","Atacora (incl Donga)",,,,,,,,,,,,,,,,,,,,,,,,1437,1556,1675,1794,1913
+"Benin","BEN","Subnat","BENr102","Atlantique (incl Littoral (Cotonou))",,,,,,,,,,,,,,,,,,,,,,,,2776,2848,2920,2992,3064
+"Benin","BEN","Subnat","BENr103","Borgou (incl Alibori)",,,,,,,,,,,,,,,,,,,,,,,,1520,1605,1691,1777,1863
+"Benin","BEN","Subnat","BENr104","Mono (incl Couffo)",,,,,,,,,,,,,,,,,,,,,,,,1387,1457,1527,1597,1667
+"Benin","BEN","Subnat","BENr105","Queme (incl Plateau)",,,,,,,,,,,,,,,,,,,,,,,,1854,1946,2038,2130,2222
+"Benin","BEN","Subnat","BENr106","Zou (incl Collines)",,,,,,,,,,,,,,,,,,,,,,,,1531,1663,1795,1927,2059
+"Bhutan","BTN","Subnat","BTNr101","Bumthang",,,,,,,,,,,,,,,,,,,,,,,,9158,9315,9473,9631,9788
+"Bhutan","BTN","Subnat","BTNr102","Chukha",,,,,,,,,,,,,,,,,,,,,,,,9874,10045,10217,10388,10560
+"Bhutan","BTN","Subnat","BTNr103","Dagana",,,,,,,,,,,,,,,,,,,,,,,,4607,4680,4753,4826,4899
+"Bhutan","BTN","Subnat","BTNr104","Gasa",,,,,,,,,,,,,,,,,,,,,,,,4513,4584,4656,4727,4798
+"Bhutan","BTN","Subnat","BTNr105","Haa",,,,,,,,,,,,,,,,,,,,,,,,10518,10702,10885,11069,11253
+"Bhutan","BTN","Subnat","BTNr106","Lhuntse",,,,,,,,,,,,,,,,,,,,,,,,5275,5360,5445,5530,5615
+"Bhutan","BTN","Subnat","BTNr107","Mongar",,,,,,,,,,,,,,,,,,,,,,,,6294,6397,6501,6605,6708
+"Bhutan","BTN","Subnat","BTNr108","Paro",,,,,,,,,,,,,,,,,,,,,,,,12716,12944,13171,13398,13625
+"Bhutan","BTN","Subnat","BTNr109","Pemagatshel",,,,,,,,,,,,,,,,,,,,,,,,5354,5441,5527,5614,5700
+"Bhutan","BTN","Subnat","BTNr110","Punakha",,,,,,,,,,,,,,,,,,,,,,,,9190,9349,9507,9665,9823
+"Bhutan","BTN","Subnat","BTNr111","Samdrup jongkhar",,,,,,,,,,,,,,,,,,,,,,,,6842,6956,7069,7183,7297
+"Bhutan","BTN","Subnat","BTNr112","Samtse",,,,,,,,,,,,,,,,,,,,,,,,6950,7066,7182,7297,7413
+"Bhutan","BTN","Subnat","BTNr113","Sarpang",,,,,,,,,,,,,,,,,,,,,,,,8993,9147,9301,9456,9610
+"Bhutan","BTN","Subnat","BTNr114","Thimphu",,,,,,,,,,,,,,,,,,,,,,,,17495,17819,18142,18466,18790
+"Bhutan","BTN","Subnat","BTNr115","Trashigang",,,,,,,,,,,,,,,,,,,,,,,,5730,5823,5916,6010,6103
+"Bhutan","BTN","Subnat","BTNr116","Trashiyangtse",,,,,,,,,,,,,,,,,,,,,,,,6414,6520,6626,6731,6837
+"Bhutan","BTN","Subnat","BTNr117","Trongsa",,,,,,,,,,,,,,,,,,,,,,,,5787,5882,5976,6070,6165
+"Bhutan","BTN","Subnat","BTNr118","Tsirang",,,,,,,,,,,,,,,,,,,,,,,,5539,5629,5718,5808,5898
+"Bhutan","BTN","Subnat","BTNr119","Wangdi",,,,,,,,,,,,,,,,,,,,,,,,6992,7109,7226,7342,7459
+"Bhutan","BTN","Subnat","BTNr120","Zhemgang",,,,,,,,,,,,,,,,,,,,,,,,4800,4877,4953,5030,5106
+"Bolivia","BOL","Subnat","BOLr108","Beni",,,,,,,,,,,,,,,,,,,,,,,,4799,4962,5124,5287,5449
+"Bolivia","BOL","Subnat","BOLr101","Chuquisaca",,,,,,,,,,,,,,,,,,,,,,,,4457,4607,4756,4906,5055
+"Bolivia","BOL","Subnat","BOLr103","Cochabamba",,,,,,,,,,,,,,,,,,,,,,,,6315,6537,6758,6980,7202
+"Bolivia","BOL","Subnat","BOLr102","La Paz",,,,,,,,,,,,,,,,,,,,,,,,5601,5795,5988,6182,6376
+"Bolivia","BOL","Subnat","BOLr104","Oruro",,,,,,,,,,,,,,,,,,,,,,,,5715,5913,6111,6309,6507
+"Bolivia","BOL","Subnat","BOLr109","Pando",,,,,,,,,,,,,,,,,,,,,,,,5956,6164,6371,6579,6786
+"Bolivia","BOL","Subnat","BOLr105","Potosi",,,,,,,,,,,,,,,,,,,,,,,,3996,4128,4260,4393,4525
+"Bolivia","BOL","Subnat","BOLr107","Santa Cruz",,,,,,,,,,,,,,,,,,,,,,,,8721,9040,9359,9677,9996
+"Bolivia","BOL","Subnat","BOLr106","Tarija",,,,,,,,,,,,,,,,,,,,,,,,7363,7626,7890,8153,8417
+"Bosnia Herzegovina","BIH","Subnat","BIHr103","Central Bosnia",,,,,,,,,,,,,,,,,,,,,,,,11176,11664,12151,12639,13126
+"Bosnia Herzegovina","BIH","Subnat","BIHr102","Northern Bosnia",,,,,,,,,,,,,,,,,,,,,,,,9815,10236,10657,11079,11500
+"Bosnia Herzegovina","BIH","Subnat","BIHr105","Republica Srpska",,,,,,,,,,,,,,,,,,,,,,,,10340,10787,11234,11680,12127
+"Bosnia Herzegovina","BIH","Subnat","BIHr101","Western Bosnia",,,,,,,,,,,,,,,,,,,,,,,,12372,12918,13465,14011,14558
+"Bosnia Herzegovina","BIH","Subnat","BIHr104","Western herzegovina",,,,,,,,,,,,,,,,,,,,,,,,11806,12324,12843,13361,13880
+"Botswana","BWA","Subnat","BWAr101","Central",,,,,,,,,,,,,,,,,,,,,,,,12687,12993,13298,13604,13910
+"Botswana","BWA","Subnat","BWAr110","Chobe",,,,,,,,,,,,,,,,,,,,,,,,13101,13418,13734,14051,14368
+"Botswana","BWA","Subnat","BWAr102","Ghanzi",,,,,,,,,,,,,,,,,,,,,,,,11623,11900,12177,12454,12731
+"Botswana","BWA","Subnat","BWAr103","Kgalagadi",,,,,,,,,,,,,,,,,,,,,,,,12229,12522,12816,13109,13402
+"Botswana","BWA","Subnat","BWAr104","Kgatleng",,,,,,,,,,,,,,,,,,,,,,,,15775,16164,16554,16943,17333
+"Botswana","BWA","Subnat","BWAr105","Kweneng",,,,,,,,,,,,,,,,,,,,,,,,13120,13437,13754,14072,14389
+"Botswana","BWA","Subnat","BWAr106","North-East",,,,,,,,,,,,,,,,,,,,,,,,17470,17906,18342,18779,19215
+"Botswana","BWA","Subnat","BWAr107","North-West, Ngamiland",,,,,,,,,,,,,,,,,,,,,,,,10315,10557,10800,11042,11285
+"Botswana","BWA","Subnat","BWAr108","South-East",,,,,,,,,,,,,,,,,,,,,,,,24493,25128,25763,26397,27032
+"Botswana","BWA","Subnat","BWAr109","Southern",,,,,,,,,,,,,,,,,,,,,,,,13049,13364,13680,13995,14310
+"Brazil","BRA","Subnat","BRAr102","Acre",,,,,,,,,,,,,,,,,,,,,,,,8388,8442,8496,8550,8604
+"Brazil","BRA","Subnat","BRAr114","Alagoas",,,,,,,,,,,,,,,,,,,,,,,,11139,11213,11286,11360,11434
+"Brazil","BRA","Subnat","BRAr106","Amapa",,,,,,,,,,,,,,,,,,,,,,,,9860,9925,9989,10054,10118
+"Brazil","BRA","Subnat","BRAr103","Amazonas",,,,,,,,,,,,,,,,,,,,,,,,9354,9415,9476,9537,9598
+"Brazil","BRA","Subnat","BRAr116","Bahia",,,,,,,,,,,,,,,,,,,,,,,,11404,11480,11556,11631,11707
+"Brazil","BRA","Subnat","BRAr110","Ceara",,,,,,,,,,,,,,,,,,,,,,,,11499,11575,11652,11728,11805
+"Brazil","BRA","Subnat","BRAr127","Distrito Federal",,,,,,,,,,,,,,,,,,,,,,,,16882,16999,17115,17232,17349
+"Brazil","BRA","Subnat","BRAr118","Espirito Santo",,,,,,,,,,,,,,,,,,,,,,,,14772,14873,14973,15074,15175
+"Brazil","BRA","Subnat","BRAr126","Goias",,,,,,,,,,,,,,,,,,,,,,,,14728,14828,14929,15029,15130
+"Brazil","BRA","Subnat","BRAr108","Maranhao",,,,,,,,,,,,,,,,,,,,,,,,8526,8581,8635,8690,8745
+"Brazil","BRA","Subnat","BRAr125","Mato Grosso",,,,,,,,,,,,,,,,,,,,,,,,13268,13358,13447,13537,13626
+"Brazil","BRA","Subnat","BRAr124","Mato Grosso do Sul",,,,,,,,,,,,,,,,,,,,,,,,14098,14193,14289,14385,14481
+"Brazil","BRA","Subnat","BRAr117","Minas Gerais",,,,,,,,,,,,,,,,,,,,,,,,14621,14720,14820,14920,15020
+"Brazil","BRA","Subnat","BRAr105","Para",,,,,,,,,,,,,,,,,,,,,,,,8416,8470,8524,8578,8632
+"Brazil","BRA","Subnat","BRAr112","Paraiba",,,,,,,,,,,,,,,,,,,,,,,,12113,12194,12275,12356,12437
+"Brazil","BRA","Subnat","BRAr121","Parana",,,,,,,,,,,,,,,,,,,,,,,,15239,15343,15448,15552,15656
+"Brazil","BRA","Subnat","BRAr113","Pernambuco",,,,,,,,,,,,,,,,,,,,,,,,12061,12141,12222,12302,12383
+"Brazil","BRA","Subnat","BRAr109","Piaui",,,,,,,,,,,,,,,,,,,,,,,,9910,9974,10039,10104,10169
+"Brazil","BRA","Subnat","BRAr119","Rio de Janeiro",,,,,,,,,,,,,,,,,,,,,,,,14890,14991,15093,15195,15297
+"Brazil","BRA","Subnat","BRAr111","Rio Grande do Norte",,,,,,,,,,,,,,,,,,,,,,,,13379,13469,13559,13650,13740
+"Brazil","BRA","Subnat","BRAr123","Rio Grande do Sul",,,,,,,,,,,,,,,,,,,,,,,,15128,15232,15335,15439,15542
+"Brazil","BRA","Subnat","BRAr101","Rondonia",,,,,,,,,,,,,,,,,,,,,,,,10298,10365,10433,10501,10568
+"Brazil","BRA","Subnat","BRAr104","Roraima",,,,,,,,,,,,,,,,,,,,,,,,11036,11109,11182,11255,11328
+"Brazil","BRA","Subnat","BRAr122","Santa Catarina",,,,,,,,,,,,,,,,,,,,,,,,15591,15698,15805,15912,16020
+"Brazil","BRA","Subnat","BRAr120","Sao Paulo",,,,,,,,,,,,,,,,,,,,,,,,16402,16515,16628,16742,16855
+"Brazil","BRA","Subnat","BRAr115","Sergipe",,,,,,,,,,,,,,,,,,,,,,,,12776,12862,12948,13034,13120
+"Brazil","BRA","Subnat","BRAr107","Tocantins",,,,,,,,,,,,,,,,,,,,,,,,11718,11796,11874,11952,12030
+"Burkina Faso","BFA","Subnat","BFAr101","Boucle de Mouhoun",,,,,,,,,,,,,,,,,,,,,,,,1209,1262,1315,1368,1421
+"Burkina Faso","BFA","Subnat","BFAr102","Cascades",,,,,,,,,,,,,,,,,,,,,,,,1614,1688,1763,1837,1911
+"Burkina Faso","BFA","Subnat","BFAr103","Centre (incl Ouagadougou)",,,,,,,,,,,,,,,,,,,,,,,,3079,3235,3391,3547,3703
+"Burkina Faso","BFA","Subnat","BFAr104","Centre-Est",,,,,,,,,,,,,,,,,,,,,,,,1396,1459,1522,1584,1647
+"Burkina Faso","BFA","Subnat","BFAr105","Centre-Nord",,,,,,,,,,,,,,,,,,,,,,,,1287,1344,1401,1458,1515
+"Burkina Faso","BFA","Subnat","BFAr106","Centre-Ouest",,,,,,,,,,,,,,,,,,,,,,,,1338,1397,1457,1517,1576
+"Burkina Faso","BFA","Subnat","BFAr107","Centre-Sud",,,,,,,,,,,,,,,,,,,,,,,,1280,1336,1393,1450,1506
+"Burkina Faso","BFA","Subnat","BFAr108","Est",,,,,,,,,,,,,,,,,,,,,,,,1091,1138,1185,1232,1279
+"Burkina Faso","BFA","Subnat","BFAr109","Hauts Bassins",,,,,,,,,,,,,,,,,,,,,,,,1790,1873,1957,2040,2124
+"Burkina Faso","BFA","Subnat","BFAr110","Nord",,,,,,,,,,,,,,,,,,,,,,,,1358,1418,1479,1540,1600
+"Burkina Faso","BFA","Subnat","BFAr111","Plateau Central",,,,,,,,,,,,,,,,,,,,,,,,1407,1471,1534,1597,1660
+"Burkina Faso","BFA","Subnat","BFAr112","Sahel",,,,,,,,,,,,,,,,,,,,,,,,890,927,965,1002,1039
+"Burkina Faso","BFA","Subnat","BFAr113","Sud-Ouest",,,,,,,,,,,,,,,,,,,,,,,,1094,1141,1189,1236,1283
+"Burundi","BDI","Subnat","BDIr103","East (Cankuzo, Rutana, Ruyigi )",,,,,,,,,,,,,,,,,,,,,,,,648,638,629,620,611
+"Burundi","BDI","Subnat","BDIr105","Middle (Gitega, Karuzi, Muramvya, Mwaro)",,,,,,,,,,,,,,,,,,,,,,,,676,667,657,648,638
+"Burundi","BDI","Subnat","BDIr101","North (Kayanza, Kirundo, Muyinga, Ngozi)",,,,,,,,,,,,,,,,,,,,,,,,605,597,588,580,571
+"Burundi","BDI","Subnat","BDIr102","South (Bururi, Makamba)",,,,,,,,,,,,,,,,,,,,,,,,760,749,738,727,716
+"Burundi","BDI","Subnat","BDIr104","West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",,,,,,,,,,,,,,,,,,,,,,,,878,865,852,839,826
+"Cambodia","KHM","Subnat","KHMr101","Banteay Mean Chey",,,,,,,,,,,,,,,,,,,,,,,,3481,3704,3927,4150,4373
+"Cambodia","KHM","Subnat","KHMr113","Bat Dambang-Krong Pailin",,,,,,,,,,,,,,,,,,,,,,,,3424,3643,3861,4080,4299
+"Cambodia","KHM","Subnat","KHMr102","Kampong Cham (incl Tboung Khmum)",,,,,,,,,,,,,,,,,,,,,,,,2492,2644,2796,2947,3099
+"Cambodia","KHM","Subnat","KHMr103","Kampong Chhnang",,,,,,,,,,,,,,,,,,,,,,,,2321,2461,2601,2741,2880
+"Cambodia","KHM","Subnat","KHMr104","Kampong Spueu",,,,,,,,,,,,,,,,,,,,,,,,2435,2583,2731,2879,3026
+"Cambodia","KHM","Subnat","KHMr105","Kampong Thum",,,,,,,,,,,,,,,,,,,,,,,,2315,2454,2593,2732,2872
+"Cambodia","KHM","Subnat","KHMr114","Kampot-Krong Kaeb-Krong Preah Sihanouk",,,,,,,,,,,,,,,,,,,,,,,,2535,2690,2845,3000,3155
+"Cambodia","KHM","Subnat","KHMr106","Kandal",,,,,,,,,,,,,,,,,,,,,,,,3396,3613,3830,4046,4263
+"Cambodia","KHM","Subnat","KHMr107","Kaoh Kong",,,,,,,,,,,,,,,,,,,,,,,,3553,3781,4009,4238,4466
+"Cambodia","KHM","Subnat","KHMr116","Mondol Kiri-Rotanak Kiri",,,,,,,,,,,,,,,,,,,,,,,,2467,2617,2767,2917,3067
+"Cambodia","KHM","Subnat","KHMr108","Phnom Penh",,,,,,,,,,,,,,,,,,,,,,,,7129,7636,8143,8650,9157
+"Cambodia","KHM","Subnat","KHMr110","Pousat",,,,,,,,,,,,,,,,,,,,,,,,2112,2237,2363,2488,2613
+"Cambodia","KHM","Subnat","KHMr115","Preah Vihear-Stueng Traeng-Kracheh",,,,,,,,,,,,,,,,,,,,,,,,1972,2088,2204,2320,2435
+"Cambodia","KHM","Subnat","KHMr109","Prey Veaeng",,,,,,,,,,,,,,,,,,,,,,,,2749,2919,3089,3258,3428
+"Cambodia","KHM","Subnat","KHMr117","Siem Reab-Otdar Mean Chey",,,,,,,,,,,,,,,,,,,,,,,,2488,2640,2791,2943,3094
+"Cambodia","KHM","Subnat","KHMr111","Svay Rieng",,,,,,,,,,,,,,,,,,,,,,,,2646,2809,2972,3134,3297
+"Cambodia","KHM","Subnat","KHMr112","Takaev",,,,,,,,,,,,,,,,,,,,,,,,2858,3036,3213,3391,3569
+"Cameroon","CMR","Subnat","CMRr101","Adamaoua",,,,,,,,,,,,,,,,,,,,,,,,2775,2811,2848,2884,2920
+"Cameroon","CMR","Subnat","CMRr102","Centre (incl Yaounde)",,,,,,,,,,,,,,,,,,,,,,,,4984,5054,5124,5194,5264
+"Cameroon","CMR","Subnat","CMRr103","Est",,,,,,,,,,,,,,,,,,,,,,,,2189,2217,2245,2272,2300
+"Cameroon","CMR","Subnat","CMRr104","Extreme Nord",,,,,,,,,,,,,,,,,,,,,,,,1756,1777,1799,1820,1842
+"Cameroon","CMR","Subnat","CMRr105","Littoral (incl Douala)",,,,,,,,,,,,,,,,,,,,,,,,5749,5831,5913,5996,6078
+"Cameroon","CMR","Subnat","CMRr106","Nord",,,,,,,,,,,,,,,,,,,,,,,,1815,1837,1860,1882,1904
+"Cameroon","CMR","Subnat","CMRr107","Nord Ouest",,,,,,,,,,,,,,,,,,,,,,,,2661,2696,2730,2765,2799
+"Cameroon","CMR","Subnat","CMRr108","Ouest",,,,,,,,,,,,,,,,,,,,,,,,3204,3246,3289,3331,3374
+"Cameroon","CMR","Subnat","CMRr109","Sud",,,,,,,,,,,,,,,,,,,,,,,,3017,3057,3097,3136,3176
+"Cameroon","CMR","Subnat","CMRr110","Sud Ouest",,,,,,,,,,,,,,,,,,,,,,,,3386,3432,3477,3522,3567
+"Cape Verde","CPV","Subnat","CPVr105","Fogo",,,,,,,,,,,,,,,,,,,,,,,,4916,5250,5584,5918,6252
+"Cape Verde","CPV","Subnat","CPVr101","S.Antao",,,,,,,,,,,,,,,,,,,,,,,,4715,5034,5352,5671,5989
+"Cape Verde","CPV","Subnat","CPVr102","S.Vicente",,,,,,,,,,,,,,,,,,,,,,,,6126,6556,6986,7415,7845
+"Cape Verde","CPV","Subnat","CPVr104","Santiago- Praia",,,,,,,,,,,,,,,,,,,,,,,,5870,6280,6689,7099,7508
+"Cape Verde","CPV","Subnat","CPVr103","Santiago-Interior",,,,,,,,,,,,,,,,,,,,,,,,4039,4306,4572,4839,5106
+"Central African Republic CAR","CAF","Subnat","CAFr106","Bangui",,,,,,,,,,,,,,,,,,,,,,,,1342,1388,1433,1478,1524
+"Central African Republic CAR","CAF","Subnat","CAFr101","RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)",,,,,,,,,,,,,,,,,,,,,,,,658,677,697,717,737
+"Central African Republic CAR","CAF","Subnat","CAFr102","RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",,,,,,,,,,,,,,,,,,,,,,,,644,663,682,702,721
+"Central African Republic CAR","CAF","Subnat","CAFr103","RS III (Ouham Pende, Ouham)",,,,,,,,,,,,,,,,,,,,,,,,600,618,636,653,671
+"Central African Republic CAR","CAF","Subnat","CAFr104","RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)",,,,,,,,,,,,,,,,,,,,,,,,593,611,628,646,663
+"Central African Republic CAR","CAF","Subnat","CAFr105","RS V (Basse Kotto, Mbornou, Houte Mbormou)",,,,,,,,,,,,,,,,,,,,,,,,538,554,570,585,601
+"Chad","TCD","Subnat","TCDr101","Zone 1 (N'Djamena)",,,,,,,,,,,,,,,,,,,,,,,,4608,4549,4490,4432,4373
+"Chad","TCD","Subnat","TCDr102","Zone 2 (BET (Borkou, Ennedi, Tibesti), Kanem (incl Barh El Gazal), Lac)",,,,,,,,,,,,,,,,,,,,,,,,1855,1834,1813,1792,1771
+"Chad","TCD","Subnat","TCDr103","Zone 3 (Guera, Batha Est & Ouest, Salamat)",,,,,,,,,,,,,,,,,,,,,,,,1563,1546,1528,1511,1494
+"Chad","TCD","Subnat","TCDr104","Zone 4 (Ouaddai (incl Assongha, Sili), Biltine (new name Wad Fira))",,,,,,,,,,,,,,,,,,,,,,,,1353,1338,1323,1309,1294
+"Chad","TCD","Subnat","TCDr105","Zone 5 (Chari-Baguirmi (Dababa, Baguirmi, Hadjer Lamis))",,,,,,,,,,,,,,,,,,,,,,,,1858,1837,1816,1795,1774
+"Chad","TCD","Subnat","TCDr106","Zone 6 (Mayo-Kebbi (Kabia, Mayo Boneye & Mayo Dala))",,,,,,,,,,,,,,,,,,,,,,,,1679,1660,1642,1623,1604
+"Chad","TCD","Subnat","TCDr107","Zone 7 (Logone Occidental, Logone Oriental (incl Monts de Lam), Tandjile Est & Ouest)",,,,,,,,,,,,,,,,,,,,,,,,1677,1658,1639,1620,1602
+"Chad","TCD","Subnat","TCDr108","Zone 8 (Moyen-Chari (Barh Koh, Mandoul, Lac Iro))",,,,,,,,,,,,,,,,,,,,,,,,1704,1684,1665,1646,1627
+"Chili","CHL","Subnat","CHLr111","Aisen",,,,,,,,,,,,,,,,,,,,,,,,16789,17255,17720,18186,18652
+"Chili","CHL","Subnat","CHLr102","Antofagasta",,,,,,,,,,,,,,,,,,,,,,,,22330,22970,23609,24248,24888
+"Chili","CHL","Subnat","CHLr109","Arbucania",,,,,,,,,,,,,,,,,,,,,,,,15121,15535,15950,16364,16779
+"Chili","CHL","Subnat","CHLr103","Atacama",,,,,,,,,,,,,,,,,,,,,,,,19529,20080,20631,21182,21732
+"Chili","CHL","Subnat","CHLr108","Bio Bio",,,,,,,,,,,,,,,,,,,,,,,,18363,18877,19392,19906,20421
+"Chili","CHL","Subnat","CHLr104","Coquimbo",,,,,,,,,,,,,,,,,,,,,,,,17534,18023,18512,19001,19489
+"Chili","CHL","Subnat","CHLr110","Los Lagos (incl Los Rios)",,,,,,,,,,,,,,,,,,,,,,,,16303,16753,17204,17655,18105
+"Chili","CHL","Subnat","CHLr112","Magallanes and La Antartica Chilena",,,,,,,,,,,,,,,,,,,,,,,,22538,23184,23829,24475,25121
+"Chili","CHL","Subnat","CHLr107","Maule",,,,,,,,,,,,,,,,,,,,,,,,17314,17796,18278,18760,19241
+"Chili","CHL","Subnat","CHLr106","OHiggins",,,,,,,,,,,,,,,,,,,,,,,,19158,19698,20237,20776,21316
+"Chili","CHL","Subnat","CHLr113","Region Metropolitana",,,,,,,,,,,,,,,,,,,,,,,,23330,24001,24672,25343,26014
+"Chili","CHL","Subnat","CHLr101","Tarapaca (incl Arica and Parinacota)",,,,,,,,,,,,,,,,,,,,,,,,20340,20916,21493,22069,22646
+"Chili","CHL","Subnat","CHLr105","Valparaiso (former Aconcagua)",,,,,,,,,,,,,,,,,,,,,,,,21345,21953,22561,23169,23777
+"China","CHN","Subnat","CHYr201"," Beijing, Tianjin, Hebei, Shandong",,,,,,,,,,,,,,,,,,,,,,,,13921,14957,15993,17029,18065
+"China","CHN","Subnat","CHYr206"," Chongqing, Sichuan, Guizhou, Yunnan, Tibet",,,,,,,,,,,,,,,,,,,,,,,,11334,12155,12976,13796,14617
+"China","CHN","Subnat","CHYr204"," Fujian,  Guangdong, Hainan",,,,,,,,,,,,,,,,,,,,,,,,13459,14456,15453,16450,17447
+"China","CHN","Subnat","CHYr208"," Gansu, Qinghai, Ningxia, Xinjiang",,,,,,,,,,,,,,,,,,,,,,,,11362,12185,13008,13831,14654
+"China","CHN","Subnat","CHYr207"," Henan, Shanxi, Shaanxi, Inner Mongolia",,,,,,,,,,,,,,,,,,,,,,,,11638,12483,13329,14174,15020
+"China","CHN","Subnat","CHYr205"," Hubei, Jiangxi, Hunan, Guangxi",,,,,,,,,,,,,,,,,,,,,,,,11716,12568,13420,14272,15124
+"China","CHN","Subnat","CHYr202"," Liaoning, Jilin, Heilongjiang",,,,,,,,,,,,,,,,,,,,,,,,11156,11962,12768,13574,14380
+"China","CHN","Subnat","CHYr203"," Shanghai, Jiangsu, Zhejiang, Anhui",,,,,,,,,,,,,,,,,,,,,,,,13995,15037,16079,17121,18164
+"China","CHN","Subnat","CHYr112","Anhui",,,,,,,,,,,,,,,,,,,,,,,,10992,11785,12578,13370,14163
+"China","CHN","Subnat","CHYr101","Beijing",,,,,,,,,,,,,,,,,,,,,,,,16547,17807,19067,20326,21586
+"China","CHN","Subnat","CHYr122","Chongqing",,,,,,,,,,,,,,,,,,,,,,,,11629,12474,13319,14164,15009
+"China","CHN","Subnat","CHYr113","Fujian",,,,,,,,,,,,,,,,,,,,,,,,14203,15263,16323,17383,18442
+"China","CHN","Subnat","CHYr128","Gansu",,,,,,,,,,,,,,,,,,,,,,,,11055,11852,12650,13448,14245
+"China","CHN","Subnat","CHYr119","Guangdong",,,,,,,,,,,,,,,,,,,,,,,,13099,14066,15033,16000,16967
+"China","CHN","Subnat","CHYr120","Guangxi Zhuang",,,,,,,,,,,,,,,,,,,,,,,,11745,12599,13453,14308,15162
+"China","CHN","Subnat","CHYr124","Guizhou",,,,,,,,,,,,,,,,,,,,,,,,10977,11768,12560,13351,14142
+"China","CHN","Subnat","CHYr121","Hainan",,,,,,,,,,,,,,,,,,,,,,,,9677,10363,11049,11735,12420
+"China","CHN","Subnat","CHYr103","Hebei",,,,,,,,,,,,,,,,,,,,,,,,13094,14061,15027,15994,16960
+"China","CHN","Subnat","CHYr108","Heilongjiang",,,,,,,,,,,,,,,,,,,,,,,,9964,10673,11382,12091,12800
+"China","CHN","Subnat","CHYr116","Henan",,,,,,,,,,,,,,,,,,,,,,,,10823,11602,12381,13160,13939
+"China","CHN","Subnat","CHYr117","Hubei",,,,,,,,,,,,,,,,,,,,,,,,11703,12554,13405,14256,15107
+"China","CHN","Subnat","CHYr118","Hunan",,,,,,,,,,,,,,,,,,,,,,,,11666,12514,13362,14210,15058
+"China","CHN","Subnat","CHYr105","Inner Mongolia",,,,,,,,,,,,,,,,,,,,,,,,12394,13303,14211,15119,16027
+"China","CHN","Subnat","CHYr110","Jiangsu",,,,,,,,,,,,,,,,,,,,,,,,14915,16036,17156,18276,19396
+"China","CHN","Subnat","CHYr114","Jiangxi",,,,,,,,,,,,,,,,,,,,,,,,11267,12082,12897,13712,14527
+"China","CHN","Subnat","CHYr107","Jilin",,,,,,,,,,,,,,,,,,,,,,,,10865,11648,12430,13212,13994
+"China","CHN","Subnat","CHYr106","Liaoning",,,,,,,,,,,,,,,,,,,,,,,,11499,12333,13168,14002,14836
+"China","CHN","Subnat","CHYr130","Ningxia",,,,,,,,,,,,,,,,,,,,,,,,12663,13594,14525,15455,16386
+"China","CHN","Subnat","CHYr129","Qinghai",,,,,,,,,,,,,,,,,,,,,,,,12416,13326,14236,15146,16057
+"China","CHN","Subnat","CHYr127","Shaanxi",,,,,,,,,,,,,,,,,,,,,,,,12857,13803,14750,15697,16644
+"China","CHN","Subnat","CHYr115","Shandong",,,,,,,,,,,,,,,,,,,,,,,,13430,14425,15420,16414,17409
+"China","CHN","Subnat","CHYr109","Shanghai",,,,,,,,,,,,,,,,,,,,,,,,14686,15787,16888,17988,19089
+"China","CHN","Subnat","CHYr104","Shanxi",,,,,,,,,,,,,,,,,,,,,,,,10774,11549,12324,13098,13873
+"China","CHN","Subnat","CHYr123","Sichuan",,,,,,,,,,,,,,,,,,,,,,,,12127,13013,13899,14785,15671
+"China","CHN","Subnat","CHYr102","Tianjin",,,,,,,,,,,,,,,,,,,,,,,,13303,14287,15271,16255,17239
+"China","CHN","Subnat","CHYr131","Xinjiang",,,,,,,,,,,,,,,,,,,,,,,,5434,5789,6145,6500,6855
+"China","CHN","Subnat","CHYr125","Yunnan",,,,,,,,,,,,,,,,,,,,,,,,10831,11611,12390,13169,13949
+"China","CHN","Subnat","CHYr111","Zhejiang",,,,,,,,,,,,,,,,,,,,,,,,13731,14751,15771,16791,17811
+"Colombia","COL","Subnat","COLr129","Amazonas",,,,,,,,,,,,,,,,,,,,,,,,7671,7633,7596,7559,7522
+"Colombia","COL","Subnat","COLr101","Antioquia (incl Medellin)",,,,,,,,,,,,,,,,,,,,,,,,14432,14357,14283,14208,14134
+"Colombia","COL","Subnat","COLr125","Arauca",,,,,,,,,,,,,,,,,,,,,,,,12127,12066,12004,11943,11881
+"Colombia","COL","Subnat","COLr102","Atlantico (incl Barranquilla)",,,,,,,,,,,,,,,,,,,,,,,,14297,14223,14149,14075,14002
+"Colombia","COL","Subnat","COLr103","Bogota D.C.",,,,,,,,,,,,,,,,,,,,,,,,16769,16681,16593,16506,16418
+"Colombia","COL","Subnat","COLr104","Bolivar (Sur and Norte)",,,,,,,,,,,,,,,,,,,,,,,,10707,10654,10600,10546,10493
+"Colombia","COL","Subnat","COLr105","Boyaca",,,,,,,,,,,,,,,,,,,,,,,,12254,12192,12130,12068,12005
+"Colombia","COL","Subnat","COLr106","Caldas",,,,,,,,,,,,,,,,,,,,,,,,14821,14744,14667,14591,14514
+"Colombia","COL","Subnat","COLr107","Caqueta",,,,,,,,,,,,,,,,,,,,,,,,9637,9589,9541,9493,9446
+"Colombia","COL","Subnat","COLr126","Casanare",,,,,,,,,,,,,,,,,,,,,,,,11384,11326,11269,11211,11154
+"Colombia","COL","Subnat","COLr108","Cauca",,,,,,,,,,,,,,,,,,,,,,,,9412,9366,9319,9273,9226
+"Colombia","COL","Subnat","COLr109","Cesar",,,,,,,,,,,,,,,,,,,,,,,,9967,9917,9867,9818,9768
+"Colombia","COL","Subnat","COLr112","Choco",,,,,,,,,,,,,,,,,,,,,,,,6143,6114,6085,6056,6027
+"Colombia","COL","Subnat","COLr110","Cordoba",,,,,,,,,,,,,,,,,,,,,,,,8758,8715,8672,8629,8586
+"Colombia","COL","Subnat","COLr111","Cundinamarca",,,,,,,,,,,,,,,,,,,,,,,,14101,14028,13955,13883,13810
+"Colombia","COL","Subnat","COLr130","Guainja",,,,,,,,,,,,,,,,,,,,,,,,4788,4766,4745,4723,4701
+"Colombia","COL","Subnat","COLr114","Guajira",,,,,,,,,,,,,,,,,,,,,,,,7322,7287,7252,7217,7182
+"Colombia","COL","Subnat","COLr131","Guaviare",,,,,,,,,,,,,,,,,,,,,,,,11197,11141,11085,11028,10972
+"Colombia","COL","Subnat","COLr113","Huila",,,,,,,,,,,,,,,,,,,,,,,,12820,12754,12689,12623,12558
+"Colombia","COL","Subnat","COLr115","Magdalena",,,,,,,,,,,,,,,,,,,,,,,,9679,9631,9583,9535,9487
+"Colombia","COL","Subnat","COLr116","Meta",,,,,,,,,,,,,,,,,,,,,,,,13353,13284,13216,13147,13079
+"Colombia","COL","Subnat","COLr117","Narino",,,,,,,,,,,,,,,,,,,,,,,,9521,9474,9426,9379,9332
+"Colombia","COL","Subnat","COLr118","Norte de Santander",,,,,,,,,,,,,,,,,,,,,,,,13290,13222,13154,13086,13017
+"Colombia","COL","Subnat","COLr127","Putumayo",,,,,,,,,,,,,,,,,,,,,,,,9886,9837,9788,9739,9690
+"Colombia","COL","Subnat","COLr119","Quindio",,,,,,,,,,,,,,,,,,,,,,,,16030,15946,15863,15779,15695
+"Colombia","COL","Subnat","COLr120","Risaralda",,,,,,,,,,,,,,,,,,,,,,,,15123,15045,14966,14888,14809
+"Colombia","COL","Subnat","COLr128","San Andres",,,,,,,,,,,,,,,,,,,,,,,,14201,14128,14054,13981,13908
+"Colombia","COL","Subnat","COLr121","Santander",,,,,,,,,,,,,,,,,,,,,,,,14623,14547,14471,14396,14320
+"Colombia","COL","Subnat","COLr122","Sucre",,,,,,,,,,,,,,,,,,,,,,,,10322,10270,10219,10167,10116
+"Colombia","COL","Subnat","COLr123","Tolima",,,,,,,,,,,,,,,,,,,,,,,,11209,11152,11096,11039,10983
+"Colombia","COL","Subnat","COLr124","Valle (incl Cali)",,,,,,,,,,,,,,,,,,,,,,,,15901,15818,15735,15652,15569
+"Colombia","COL","Subnat","COLr132","Vaupis",,,,,,,,,,,,,,,,,,,,,,,,3343,3328,3313,3299,3284
+"Colombia","COL","Subnat","COLr133","Vichada",,,,,,,,,,,,,,,,,,,,,,,,12193,12131,12069,12007,11945
+"Comoros","COM","Subnat","COMr103","Anjouan (Ndzouani)",,,,,,,,,,,,,,,,,,,,,,,,2551,2471,2390,2310,2229
+"Comoros","COM","Subnat","COMr101","Grande Comore (Ngazidja)",,,,,,,,,,,,,,,,,,,,,,,,3080,2981,2882,2782,2683
+"Comoros","COM","Subnat","COMr102","Moheli",,,,,,,,,,,,,,,,,,,,,,,,2576,2495,2413,2332,2250
+"Congo Brazzaville","COG","Subnat","COGr204"," Bouenza",,,,,,,,,,,,,,,,,,,,,,,,3901,3760,3618,3476,3334
+"Congo Brazzaville","COG","Subnat","COGr211"," Brazzaville",,,,,,,,,,,,,,,,,,,,,,,,11509,11043,10578,10113,9647
+"Congo Brazzaville","COG","Subnat","COGr207"," Cuvette",,,,,,,,,,,,,,,,,,,,,,,,4318,4159,4001,3842,3683
+"Congo Brazzaville","COG","Subnat","COGr208"," Cuvette Ouest",,,,,,,,,,,,,,,,,,,,,,,,2607,2517,2426,2335,2244
+"Congo Brazzaville","COG","Subnat","COGr201"," Kouilou",,,,,,,,,,,,,,,,,,,,,,,,2932,2829,2725,2622,2519
+"Congo Brazzaville","COG","Subnat","COGr203"," Lekoumou",,,,,,,,,,,,,,,,,,,,,,,,2861,2761,2660,2560,2459
+"Congo Brazzaville","COG","Subnat","COGr210"," Likouala",,,,,,,,,,,,,,,,,,,,,,,,2844,2745,2645,2545,2445
+"Congo Brazzaville","COG","Subnat","COGr202"," Niari",,,,,,,,,,,,,,,,,,,,,,,,4404,4242,4079,3917,3755
+"Congo Brazzaville","COG","Subnat","COGr206"," Plateaux",,,,,,,,,,,,,,,,,,,,,,,,3055,2947,2839,2731,2622
+"Congo Brazzaville","COG","Subnat","COGr212"," Pointe Noire",,,,,,,,,,,,,,,,,,,,,,,,9771,9382,8993,8604,8214
+"Congo Brazzaville","COG","Subnat","COGr205"," Pool",,,,,,,,,,,,,,,,,,,,,,,,2512,2425,2338,2250,2163
+"Congo Brazzaville","COG","Subnat","COGr209"," Sangha",,,,,,,,,,,,,,,,,,,,,,,,3779,3642,3505,3368,3231
+"Congo Democratic Republic","COD","Subnat","CODr103","Bandundu",,,,,,,,,,,,,,,,,,,,,,,,598,608,618,628,638
+"Congo Democratic Republic","COD","Subnat","CODr102","Bas-Congo",,,,,,,,,,,,,,,,,,,,,,,,799,813,827,841,855
+"Congo Democratic Republic","COD","Subnat","CODr104","Equateur",,,,,,,,,,,,,,,,,,,,,,,,584,594,604,613,623
+"Congo Democratic Republic","COD","Subnat","CODr111","Kasai Occidental",,,,,,,,,,,,,,,,,,,,,,,,592,602,612,621,631
+"Congo Democratic Republic","COD","Subnat","CODr110","Kasai Oriental",,,,,,,,,,,,,,,,,,,,,,,,656,667,678,689,700
+"Congo Democratic Republic","COD","Subnat","CODr109","Katanga",,,,,,,,,,,,,,,,,,,,,,,,832,846,861,875,890
+"Congo Democratic Republic","COD","Subnat","CODr101","Kinshasa",,,,,,,,,,,,,,,,,,,,,,,,2505,2556,2607,2659,2710
+"Congo Democratic Republic","COD","Subnat","CODr108","Maniema",,,,,,,,,,,,,,,,,,,,,,,,697,709,721,732,744
+"Congo Democratic Republic","COD","Subnat","CODr106","Nord-Kivu",,,,,,,,,,,,,,,,,,,,,,,,764,778,791,804,817
+"Congo Democratic Republic","COD","Subnat","CODr105","Orientale",,,,,,,,,,,,,,,,,,,,,,,,696,708,719,731,743
+"Congo Democratic Republic","COD","Subnat","CODr107","Sud-Kivu",,,,,,,,,,,,,,,,,,,,,,,,676,687,698,710,721
+"Costa Rica","CRI","Subnat","CRIr102","Alajuela",,,,,,,,,,,,,,,,,,,,,,,,14658,14836,15014,15192,15370
+"Costa Rica","CRI","Subnat","CRIr103","Cartago",,,,,,,,,,,,,,,,,,,,,,,,14834,15015,15195,15376,15556
+"Costa Rica","CRI","Subnat","CRIr105","Guanacaste",,,,,,,,,,,,,,,,,,,,,,,,12618,12769,12920,13071,13222
+"Costa Rica","CRI","Subnat","CRIr104","Heredia",,,,,,,,,,,,,,,,,,,,,,,,14953,15136,15318,15500,15682
+"Costa Rica","CRI","Subnat","CRIr107","Limon",,,,,,,,,,,,,,,,,,,,,,,,12681,12833,12985,13136,13288
+"Costa Rica","CRI","Subnat","CRIr106","Puntarenas",,,,,,,,,,,,,,,,,,,,,,,,12485,12634,12783,12932,13081
+"Costa Rica","CRI","Subnat","CRIr101","San Jose",,,,,,,,,,,,,,,,,,,,,,,,14702,14880,15059,15238,15417
+"Cote d'Ivoire","CIV","Subnat","CIVr101","Centre",,,,,,,,,,,,,,,,,,,,,,,,2355,2483,2610,2737,2864
+"Cote d'Ivoire","CIV","Subnat","CIVr102","Centre Est",,,,,,,,,,,,,,,,,,,,,,,,3028,3197,3367,3537,3707
+"Cote d'Ivoire","CIV","Subnat","CIVr103","Centre Nord",,,,,,,,,,,,,,,,,,,,,,,,3136,3313,3490,3667,3844
+"Cote d'Ivoire","CIV","Subnat","CIVr104","Centre Ouest",,,,,,,,,,,,,,,,,,,,,,,,2584,2725,2867,3009,3150
+"Cote d'Ivoire","CIV","Subnat","CIVr105","Nord",,,,,,,,,,,,,,,,,,,,,,,,2294,2418,2541,2665,2788
+"Cote d'Ivoire","CIV","Subnat","CIVr106","Nord Est",,,,,,,,,,,,,,,,,,,,,,,,1998,2103,2208,2313,2419
+"Cote d'Ivoire","CIV","Subnat","CIVr107","Nord Ouest",,,,,,,,,,,,,,,,,,,,,,,,2405,2535,2666,2796,2926
+"Cote d'Ivoire","CIV","Subnat","CIVr108","Ouest",,,,,,,,,,,,,,,,,,,,,,,,1970,2073,2177,2280,2384
+"Cote d'Ivoire","CIV","Subnat","CIVr110","Sud Ouest",,,,,,,,,,,,,,,,,,,,,,,,2050,2159,2267,2376,2484
+"Cote d'Ivoire","CIV","Subnat","CIVr109","Sud, Abidjan",,,,,,,,,,,,,,,,,,,,,,,,4516,4785,5054,5323,5591
+"Cuba","CUB","Subnat","CUBr103","Centro",,,,,,,,,,,,,,,,,,,,,,,,7471,7556,7641,7726,7811
+"Cuba","CUB","Subnat","CUBr102","Ciudad Habana",,,,,,,,,,,,,,,,,,,,,,,,7471,7556,7641,7726,7811
+"Cuba","CUB","Subnat","CUBr101","Occidente",,,,,,,,,,,,,,,,,,,,,,,,7471,7556,7641,7726,7811
+"Cuba","CUB","Subnat","CUBr104","Oriente",,,,,,,,,,,,,,,,,,,,,,,,7471,7556,7641,7726,7811
+"Djibouti","DJI","Subnat","DJIr101","Djibouti",,,,,,,,,,,,,,,,,,,,,,,,3426,3575,3724,3873,4022
+"Djibouti","DJI","Subnat","DJIr102","Other Districts",,,,,,,,,,,,,,,,,,,,,,,,1788,1858,1929,2000,2070
+"Dominican Republic","DOM","Subnat","DOMr101","Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",,,,,,,,,,,,,,,,,,,,,,,,12839,13827,14814,15801,16788
+"Dominican Republic","DOM","Subnat","DOMr102","Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",,,,,,,,,,,,,,,,,,,,,,,,10598,11392,12186,12981,13775
+"Dominican Republic","DOM","Subnat","DOMr103","Region II (Espaillat, Puerto Plata, Santiago)",,,,,,,,,,,,,,,,,,,,,,,,13011,14013,15015,16018,17020
+"Dominican Republic","DOM","Subnat","DOMr104","Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",,,,,,,,,,,,,,,,,,,,,,,,11172,12015,12858,13701,14544
+"Dominican Republic","DOM","Subnat","DOMr105","Region IV (Independencia, Bahoruco, Barahona, Pedernales)",,,,,,,,,,,,,,,,,,,,,,,,8145,8734,9322,9911,10499
+"Dominican Republic","DOM","Subnat","DOMr106","Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",,,,,,,,,,,,,,,,,,,,,,,,10261,11027,11792,12558,13323
+"Dominican Republic","DOM","Subnat","DOMr107","Region VI (San Juan, Elias Pina)",,,,,,,,,,,,,,,,,,,,,,,,8886,9536,10186,10836,11486
+"Dominican Republic","DOM","Subnat","DOMr108","Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",,,,,,,,,,,,,,,,,,,,,,,,9272,9954,10636,11318,12001
+"Dominican Republic","DOM","Subnat","DOMr109","Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",,,,,,,,,,,,,,,,,,,,,,,,11893,12799,13704,14609,15514
+"Ecuador","ECU","Subnat","ECUr101","Coste",,,,,,,,,,,,,,,,,,,,,,,,9947,9872,9797,9723,9648
+"Ecuador","ECU","Subnat","ECUr103","Oriente",,,,,,,,,,,,,,,,,,,,,,,,7422,7368,7314,7260,7205
+"Ecuador","ECU","Subnat","ECUr102","Sierra",,,,,,,,,,,,,,,,,,,,,,,,12258,12164,12069,11975,11881
+"Egypt","EGY","Subnat","EGYr102","Alexandria",,,,,,,,,,,,,,,,,,,,,,,,10562,10862,11161,11460,11760
+"Egypt","EGY","Subnat","EGYr118","Assuit",,,,,,,,,,,,,,,,,,,,,,,,8572,8809,9046,9283,9520
+"Egypt","EGY","Subnat","EGYr121","Aswan",,,,,,,,,,,,,,,,,,,,,,,,9286,9545,9804,10064,10323
+"Egypt","EGY","Subnat","EGYr112","Behera",,,,,,,,,,,,,,,,,,,,,,,,9858,10135,10412,10689,10966
+"Egypt","EGY","Subnat","EGYr115","Beni Suef",,,,,,,,,,,,,,,,,,,,,,,,9373,9635,9896,10158,10420
+"Egypt","EGY","Subnat","EGYr101","Cairo",,,,,,,,,,,,,,,,,,,,,,,,10423,10718,11013,11308,11603
+"Egypt","EGY","Subnat","EGYr106","Dakahlia",,,,,,,,,,,,,,,,,,,,,,,,10063,10346,10630,10913,11197
+"Egypt","EGY","Subnat","EGYr105","Damietta",,,,,,,,,,,,,,,,,,,,,,,,10538,10836,11135,11434,11732
+"Egypt","EGY","Subnat","EGYr116","Fayoum",,,,,,,,,,,,,,,,,,,,,,,,9049,9300,9552,9804,10056
+"Egypt","EGY","Subnat","EGYr122","Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",,,,,,,,,,,,,,,,,,,,,,,,9705,9977,10250,10522,10794
+"Egypt","EGY","Subnat","EGYr110","Gharbia",,,,,,,,,,,,,,,,,,,,,,,,9844,10121,10398,10675,10951
+"Egypt","EGY","Subnat","EGYr114","Giza",,,,,,,,,,,,,,,,,,,,,,,,9861,10138,10415,10693,10970
+"Egypt","EGY","Subnat","EGYr113","Ismailia",,,,,,,,,,,,,,,,,,,,,,,,10388,10682,10976,11270,11564
+"Egypt","EGY","Subnat","EGYr109","Kafr El-Sheikh",,,,,,,,,,,,,,,,,,,,,,,,10347,10640,10932,11225,11517
+"Egypt","EGY","Subnat","EGYr108","Kalyubia",,,,,,,,,,,,,,,,,,,,,,,,9258,9517,9775,10033,10292
+"Egypt","EGY","Subnat","EGYr111","Menoufia",,,,,,,,,,,,,,,,,,,,,,,,9812,10088,10363,10639,10915
+"Egypt","EGY","Subnat","EGYr117","Menya",,,,,,,,,,,,,,,,,,,,,,,,8643,8883,9122,9361,9600
+"Egypt","EGY","Subnat","EGYr103","Port Said",,,,,,,,,,,,,,,,,,,,,,,,11302,11625,11948,12271,12594
+"Egypt","EGY","Subnat","EGYr120","Qena",,,,,,,,,,,,,,,,,,,,,,,,9103,9356,9610,9863,10117
+"Egypt","EGY","Subnat","EGYr107","Sharkia",,,,,,,,,,,,,,,,,,,,,,,,9423,9686,9950,10213,10477
+"Egypt","EGY","Subnat","EGYr119","Souhag",,,,,,,,,,,,,,,,,,,,,,,,8515,8751,8986,9221,9456
+"Egypt","EGY","Subnat","EGYr104","Suez",,,,,,,,,,,,,,,,,,,,,,,,11146,11464,11782,12100,12418
+"El Salvador","SLV","Subnat","SLVr102","Central I",,,,,,,,,,,,,,,,,,,,,,,,7719,7893,8066,8240,8414
+"El Salvador","SLV","Subnat","SLVr103","Central II",,,,,,,,,,,,,,,,,,,,,,,,5363,5478,5593,5709,5824
+"El Salvador","SLV","Subnat","SLVr101","Occidental",,,,,,,,,,,,,,,,,,,,,,,,5641,5763,5886,6008,6130
+"El Salvador","SLV","Subnat","SLVr104","Oriental",,,,,,,,,,,,,,,,,,,,,,,,5259,5372,5485,5598,5711
+"Equatorial Guinea","GNQ","Subnat","GNQr101","Annobon, Bioko",,,,,,,,,,,,,,,,,,,,,,,,58486,54188,49890,45592,41294
+"Equatorial Guinea","GNQ","Subnat","GNQr102","Centro Sur",,,,,,,,,,,,,,,,,,,,,,,,13703,12799,11894,10990,10086
+"Equatorial Guinea","GNQ","Subnat","GNQr103","Kie Ntem",,,,,,,,,,,,,,,,,,,,,,,,13246,12374,11502,10631,9759
+"Equatorial Guinea","GNQ","Subnat","GNQr104","Litoral",,,,,,,,,,,,,,,,,,,,,,,,27464,25551,23638,21725,19812
+"Equatorial Guinea","GNQ","Subnat","GNQr105","Wele Nzas",,,,,,,,,,,,,,,,,,,,,,,,13542,12649,11756,10863,9970
+"Eritrea","ERI","Subnat","ERIr104","Anseba",,,,,,,,,,,,,,,,,,,,,,,,1205,1232,1260,1288,1316
+"Eritrea","ERI","Subnat","ERIr106","Debub (Southern)",,,,,,,,,,,,,,,,,,,,,,,,1234,1263,1291,1320,1348
+"Eritrea","ERI","Subnat","ERIr101","Debubawi Keyih Bahri (Southern Red Sea)",,,,,,,,,,,,,,,,,,,,,,,,2506,2570,2634,2698,2762
+"Eritrea","ERI","Subnat","ERIr105","Gash Barka",,,,,,,,,,,,,,,,,,,,,,,,1009,1032,1055,1077,1100
+"Eritrea","ERI","Subnat","ERIr102","Maekel (Central including Asmara)",,,,,,,,,,,,,,,,,,,,,,,,3813,3917,4020,4123,4226
+"Eritrea","ERI","Subnat","ERIr103","Semenawi Keyih Bahri (Northern Red Sea)",,,,,,,,,,,,,,,,,,,,,,,,1191,1218,1245,1273,1300
+"Eswatini","SWZ","Subnat","SWZr101","Hhohho",,,,,,,,,,,,,,,,,,,,,,,,10714,10672,10631,10589,10547
+"Eswatini","SWZ","Subnat","SWZr104","Lubombo",,,,,,,,,,,,,,,,,,,,,,,,8624,8591,8558,8525,8493
+"Eswatini","SWZ","Subnat","SWZr102","Manzini",,,,,,,,,,,,,,,,,,,,,,,,10426,10385,10345,10304,10264
+"Eswatini","SWZ","Subnat","SWZr103","Shiselweni",,,,,,,,,,,,,,,,,,,,,,,,6963,6937,6912,6886,6860
+"Ethiopia","ETH","Subnat","ETHr110","Addis",,,,,,,,,,,,,,,,,,,,,,,,7748,8187,8627,9066,9505
+"Ethiopia","ETH","Subnat","ETHr102","Affar",,,,,,,,,,,,,,,,,,,,,,,,1574,1645,1716,1787,1858
+"Ethiopia","ETH","Subnat","ETHr103","Amhara",,,,,,,,,,,,,,,,,,,,,,,,1317,1375,1433,1490,1548
+"Ethiopia","ETH","Subnat","ETHr106","Ben-Gumz",,,,,,,,,,,,,,,,,,,,,,,,1365,1425,1485,1546,1606
+"Ethiopia","ETH","Subnat","ETHr111","Dire Dawa",,,,,,,,,,,,,,,,,,,,,,,,3377,3548,3718,3889,4059
+"Ethiopia","ETH","Subnat","ETHr108","Gambela",,,,,,,,,,,,,,,,,,,,,,,,1818,1901,1985,2069,2152
+"Ethiopia","ETH","Subnat","ETHr109","Harari",,,,,,,,,,,,,,,,,,,,,,,,3417,3590,3762,3935,4108
+"Ethiopia","ETH","Subnat","ETHr104","Oromiya",,,,,,,,,,,,,,,,,,,,,,,,1418,1481,1544,1607,1670
+"Ethiopia","ETH","Subnat","ETHr107","SNNP",,,,,,,,,,,,,,,,,,,,,,,,1328,1386,1445,1503,1561
+"Ethiopia","ETH","Subnat","ETHr105","Somali",,,,,,,,,,,,,,,,,,,,,,,,1348,1407,1466,1526,1585
+"Ethiopia","ETH","Subnat","ETHr101","Tigray",,,,,,,,,,,,,,,,,,,,,,,,1682,1758,1835,1911,1988
+"Fiji","FJI","Subnat","FJIr108","Ba",,,,,,,,,,,,,,,,,,,,,,,,10394,10821,11248,11675,12102
+"Fiji","FJI","Subnat","FJIr106","Cakaudrove, Bua",,,,,,,,,,,,,,,,,,,,,,,,3789,3926,4062,4199,4335
+"Fiji","FJI","Subnat","FJIr105","Kadavu, Lau, Lomaiviti, Rotuma",,,,,,,,,,,,,,,,,,,,,,,,3681,3813,3945,4077,4209
+"Fiji","FJI","Subnat","FJIr107","Macuata",,,,,,,,,,,,,,,,,,,,,,,,6846,7113,7379,7646,7913
+"Fiji","FJI","Subnat","FJIr109","Nadroga or Navosa",,,,,,,,,,,,,,,,,,,,,,,,6187,6425,6663,6901,7139
+"Fiji","FJI","Subnat","FJIr101","Naitasiri",,,,,,,,,,,,,,,,,,,,,,,,9883,10287,10690,11093,11497
+"Fiji","FJI","Subnat","FJIr110","Ra",,,,,,,,,,,,,,,,,,,,,,,,4392,4553,4715,4876,5037
+"Fiji","FJI","Subnat","FJIr102","Rewa",,,,,,,,,,,,,,,,,,,,,,,,10750,11193,11636,12080,12523
+"Fiji","FJI","Subnat","FJIr103","Serua, Namosi",,,,,,,,,,,,,,,,,,,,,,,,7522,7818,8115,8412,8708
+"Fiji","FJI","Subnat","FJIr104","Tailevu",,,,,,,,,,,,,,,,,,,,,,,,6509,6761,7013,7265,7517
+"Gabon","GAB","Subnat","GABr101","Estuaire",,,,,,,,,,,,,,,,,,,,,,,,15574,15205,14836,14467,14097
+"Gabon","GAB","Subnat","GABr102","Haut Ogooue",,,,,,,,,,,,,,,,,,,,,,,,14312,13975,13639,13302,12966
+"Gabon","GAB","Subnat","GABr110","Libreville-Port Gentil",,,,,,,,,,,,,,,,,,,,,,,,23907,23317,22727,22138,21548
+"Gabon","GAB","Subnat","GABr103","Moyen Ogooue",,,,,,,,,,,,,,,,,,,,,,,,9869,9646,9422,9198,8974
+"Gabon","GAB","Subnat","GABr104","Ngounie",,,,,,,,,,,,,,,,,,,,,,,,9164,8957,8751,8545,8339
+"Gabon","GAB","Subnat","GABr105","Nyanga",,,,,,,,,,,,,,,,,,,,,,,,9142,8937,8731,8525,8319
+"Gabon","GAB","Subnat","GABr106","Ogooue Ivindo",,,,,,,,,,,,,,,,,,,,,,,,7475,7310,7146,6981,6816
+"Gabon","GAB","Subnat","GABr107","Ogooue Lolo",,,,,,,,,,,,,,,,,,,,,,,,9398,9186,8974,8762,8550
+"Gabon","GAB","Subnat","GABr108","Ogooue Maritime",,,,,,,,,,,,,,,,,,,,,,,,12828,12530,12231,11933,11634
+"Gabon","GAB","Subnat","GABr109","Woleu Ntem",,,,,,,,,,,,,,,,,,,,,,,,9958,9732,9506,9280,9054
+"Gambia","GMB","Subnat","GMBr101","Banjul LGA",,,,,,,,,,,,,,,,,,,,,,,,2457,2568,2678,2789,2899
+"Gambia","GMB","Subnat","GMBr107","Central River, Janjabureh LGA",,,,,,,,,,,,,,,,,,,,,,,,811,841,872,902,933
+"Gambia","GMB","Subnat","GMBr106","Central River, Kuntaur LGA",,,,,,,,,,,,,,,,,,,,,,,,673,698,722,747,771
+"Gambia","GMB","Subnat","GMBr102","Kanifing LGA",,,,,,,,,,,,,,,,,,,,,,,,2075,2166,2257,2348,2439
+"Gambia","GMB","Subnat","GMBr104","Lower River, Mansakonko LGA",,,,,,,,,,,,,,,,,,,,,,,,829,860,892,923,954
+"Gambia","GMB","Subnat","GMBr105","North Bank, Kerewan LGA",,,,,,,,,,,,,,,,,,,,,,,,876,910,943,976,1010
+"Gambia","GMB","Subnat","GMBr108","Upper River, Basse LGA",,,,,,,,,,,,,,,,,,,,,,,,869,902,935,968,1001
+"Gambia","GMB","Subnat","GMBr103","Western, Brikama LGA",,,,,,,,,,,,,,,,,,,,,,,,1388,1445,1502,1559,1616
+"Georgia","GEO","Subnat","GEOr102","Ajaria",,,,,,,,,,,,,,,,,,,,,,,,9159,9662,10165,10667,11170
+"Georgia","GEO","Subnat","GEOr103","Guria",,,,,,,,,,,,,,,,,,,,,,,,5669,5961,6253,6545,6837
+"Georgia","GEO","Subnat","GEOr104","Imereti",,,,,,,,,,,,,,,,,,,,,,,,7053,7427,7801,8175,8549
+"Georgia","GEO","Subnat","GEOr105","Kakheti",,,,,,,,,,,,,,,,,,,,,,,,5986,6297,6607,6918,7228
+"Georgia","GEO","Subnat","GEOr106","Kvemo Kartli",,,,,,,,,,,,,,,,,,,,,,,,6763,7120,7476,7833,8189
+"Georgia","GEO","Subnat","GEOr107","Mtskheta-Mtianeti",,,,,,,,,,,,,,,,,,,,,,,,7033,7406,7779,8152,8524
+"Georgia","GEO","Subnat","GEOr108","Racha-Lochkhumi-Kvemo Svaneti",,,,,,,,,,,,,,,,,,,,,,,,6076,6392,6708,7023,7339
+"Georgia","GEO","Subnat","GEOr109","Samegrelo-Zemo Svateni",,,,,,,,,,,,,,,,,,,,,,,,5463,5743,6022,6302,6582
+"Georgia","GEO","Subnat","GEOr110","Samtskhe-Javakheti",,,,,,,,,,,,,,,,,,,,,,,,6436,6773,7110,7447,7784
+"Georgia","GEO","Subnat","GEOr111","Shida Kartli",,,,,,,,,,,,,,,,,,,,,,,,5446,5725,6003,6282,6561
+"Georgia","GEO","Subnat","GEOr112","Tbilisi",,,,,,,,,,,,,,,,,,,,,,,,13601,14387,15172,15958,16744
+"Ghana","GHA","Subnat","GHAr106","Ashanti",,,,,,,,,,,,,,,,,,,,,,,,3957,4138,4319,4500,4681
+"Ghana","GHA","Subnat","GHAr107","Brong Ahafo",,,,,,,,,,,,,,,,,,,,,,,,2738,2857,2975,3094,3213
+"Ghana","GHA","Subnat","GHAr102","Central",,,,,,,,,,,,,,,,,,,,,,,,3264,3409,3554,3700,3845
+"Ghana","GHA","Subnat","GHAr105","Eastern",,,,,,,,,,,,,,,,,,,,,,,,2951,3081,3211,3340,3470
+"Ghana","GHA","Subnat","GHAr103","Greater Accra",,,,,,,,,,,,,,,,,,,,,,,,5410,5668,5926,6185,6443
+"Ghana","GHA","Subnat","GHAr108","Northern",,,,,,,,,,,,,,,,,,,,,,,,2402,2504,2606,2708,2811
+"Ghana","GHA","Subnat","GHAr110","Upper East",,,,,,,,,,,,,,,,,,,,,,,,2116,2204,2293,2381,2470
+"Ghana","GHA","Subnat","GHAr109","Upper West",,,,,,,,,,,,,,,,,,,,,,,,2275,2371,2467,2563,2659
+"Ghana","GHA","Subnat","GHAr104","Volta",,,,,,,,,,,,,,,,,,,,,,,,2630,2743,2857,2970,3084
+"Ghana","GHA","Subnat","GHAr101","Western",,,,,,,,,,,,,,,,,,,,,,,,3491,3648,3805,3962,4119
+"Guatemala","GTM","Subnat","GTMr105","Central",,,,,,,,,,,,,,,,,,,,,,,,7972,8081,8191,8300,8409
+"Guatemala","GTM","Subnat","GTMr101","Metropolitan",,,,,,,,,,,,,,,,,,,,,,,,11630,11797,11964,12130,12297
+"Guatemala","GTM","Subnat","GTMr102","North",,,,,,,,,,,,,,,,,,,,,,,,3535,3578,3622,3666,3710
+"Guatemala","GTM","Subnat","GTMr107","North-Occidental",,,,,,,,,,,,,,,,,,,,,,,,5151,5219,5286,5353,5420
+"Guatemala","GTM","Subnat","GTMr103","North-Oriental",,,,,,,,,,,,,,,,,,,,,,,,6842,6935,7027,7119,7211
+"Guatemala","GTM","Subnat","GTMr108","Peten",,,,,,,,,,,,,,,,,,,,,,,,4923,4987,5050,5114,5178
+"Guatemala","GTM","Subnat","GTMr106","South-Occidental",,,,,,,,,,,,,,,,,,,,,,,,6750,6841,6932,7023,7114
+"Guatemala","GTM","Subnat","GTMr104","South-Oriental",,,,,,,,,,,,,,,,,,,,,,,,6545,6633,6721,6809,6896
+"Guinea","GIN","Subnat","GINr101","Boke",,,,,,,,,,,,,,,,,,,,,,,,2077,2071,2065,2059,2053
+"Guinea","GIN","Subnat","GINr102","Conakry",,,,,,,,,,,,,,,,,,,,,,,,6626,6518,6410,6302,6193
+"Guinea","GIN","Subnat","GINr103","Faranah",,,,,,,,,,,,,,,,,,,,,,,,1502,1536,1570,1605,1639
+"Guinea","GIN","Subnat","GINr104","Kankan",,,,,,,,,,,,,,,,,,,,,,,,1865,1929,1994,2058,2122
+"Guinea","GIN","Subnat","GINr105","Kindia",,,,,,,,,,,,,,,,,,,,,,,,1962,1998,2033,2069,2105
+"Guinea","GIN","Subnat","GINr106","Labe",,,,,,,,,,,,,,,,,,,,,,,,1465,1479,1492,1506,1519
+"Guinea","GIN","Subnat","GINr107","Mamou",,,,,,,,,,,,,,,,,,,,,,,,1626,1679,1732,1785,1839
+"Guinea","GIN","Subnat","GINr108","N Zerekore",,,,,,,,,,,,,,,,,,,,,,,,1516,1518,1519,1521,1522
+"Guinea Bissau","GNB","Subnat","GNBr106","Bafata",,,,,,,,,,,,,,,,,,,,,,,,1259,1269,1279,1290,1300
+"Guinea Bissau","GNB","Subnat","GNBr104","Biombo",,,,,,,,,,,,,,,,,,,,,,,,1114,1124,1133,1142,1151
+"Guinea Bissau","GNB","Subnat","GNBr109","Bissau",,,,,,,,,,,,,,,,,,,,,,,,2597,2621,2645,2669,2693
+"Guinea Bissau","GNB","Subnat","GNBr105","Bolama",,,,,,,,,,,,,,,,,,,,,,,,1035,1043,1052,1060,1068
+"Guinea Bissau","GNB","Subnat","GNBr108","Cacheu",,,,,,,,,,,,,,,,,,,,,,,,1259,1269,1280,1290,1301
+"Guinea Bissau","GNB","Subnat","GNBr107","Gabu",,,,,,,,,,,,,,,,,,,,,,,,1276,1286,1297,1308,1318
+"Guinea Bissau","GNB","Subnat","GNBr103","Oio",,,,,,,,,,,,,,,,,,,,,,,,1139,1149,1158,1167,1177
+"Guinea Bissau","GNB","Subnat","GNBr102","Quinara",,,,,,,,,,,,,,,,,,,,,,,,1194,1204,1213,1223,1233
+"Guinea Bissau","GNB","Subnat","GNBr101","Tombali",,,,,,,,,,,,,,,,,,,,,,,,1213,1223,1233,1243,1253
+"Guyana","GUY","Subnat","GUYr101","Barima-Waini",,,,,,,,,,,,,,,,,,,,,,,,3111,3181,3251,3321,3391
+"Guyana","GUY","Subnat","GUYr107","Cuyuni-Mazaruni",,,,,,,,,,,,,,,,,,,,,,,,4087,4182,4278,4373,4469
+"Guyana","GUY","Subnat","GUYr104","Demerara-Mahaica",,,,,,,,,,,,,,,,,,,,,,,,8101,8307,8512,8718,8924
+"Guyana","GUY","Subnat","GUYr106","East Berbice-Corentyne",,,,,,,,,,,,,,,,,,,,,,,,7123,7302,7480,7658,7837
+"Guyana","GUY","Subnat","GUYr103","Essequibo Islands-West Demerara",,,,,,,,,,,,,,,,,,,,,,,,7078,7255,7432,7609,7786
+"Guyana","GUY","Subnat","GUYr105","Mahaica-Berbice",,,,,,,,,,,,,,,,,,,,,,,,6547,6710,6872,7034,7196
+"Guyana","GUY","Subnat","GUYr102","Pomeroon-Supenaam",,,,,,,,,,,,,,,,,,,,,,,,5242,5368,5494,5621,5747
+"Guyana","GUY","Subnat","GUYr108","Potaro-Siparuni",,,,,,,,,,,,,,,,,,,,,,,,1524,1555,1586,1617,1648
+"Guyana","GUY","Subnat","GUYr110","Upper Demerara-Berbice",,,,,,,,,,,,,,,,,,,,,,,,7199,7379,7559,7740,7920
+"Guyana","GUY","Subnat","GUYr109","Upper Takutu-Upper Essequibo",,,,,,,,,,,,,,,,,,,,,,,,1957,1998,2039,2080,2122
+"Haiti","HTI","Subnat","HTIr105","Artibonite",,,,,,,,,,,,,,,,,,,,,,,,1299,1300,1300,1301,1301
+"Haiti","HTI","Subnat","HTIr106","Centre",,,,,,,,,,,,,,,,,,,,,,,,1174,1174,1175,1175,1176
+"Haiti","HTI","Subnat","HTIr108","Grande-Anse, Nippes",,,,,,,,,,,,,,,,,,,,,,,,1129,1130,1130,1131,1131
+"Haiti","HTI","Subnat","HTIr103","North",,,,,,,,,,,,,,,,,,,,,,,,1695,1696,1696,1697,1698
+"Haiti","HTI","Subnat","HTIr104","North-East",,,,,,,,,,,,,,,,,,,,,,,,1524,1525,1525,1526,1527
+"Haiti","HTI","Subnat","HTIr109","North-West",,,,,,,,,,,,,,,,,,,,,,,,1278,1278,1279,1279,1280
+"Haiti","HTI","Subnat","HTIr107","South",,,,,,,,,,,,,,,,,,,,,,,,1324,1324,1325,1326,1326
+"Haiti","HTI","Subnat","HTIr102","South-East",,,,,,,,,,,,,,,,,,,,,,,,1363,1364,1364,1365,1365
+"Haiti","HTI","Subnat","HTIr101","West (incl Metropolitain area)",,,,,,,,,,,,,,,,,,,,,,,,2355,2356,2357,2358,2360
+"Honduras","HND","Subnat","HNDr101","Atlantida",,,,,,,,,,,,,,,,,,,,,,,,4511,4644,4777,4910,5043
+"Honduras","HND","Subnat","HNDr106","Choluteca",,,,,,,,,,,,,,,,,,,,,,,,2551,2621,2690,2760,2829
+"Honduras","HND","Subnat","HNDr102","Colon",,,,,,,,,,,,,,,,,,,,,,,,4034,4151,4268,4385,4502
+"Honduras","HND","Subnat","HNDr103","Comayagua",,,,,,,,,,,,,,,,,,,,,,,,3982,4098,4213,4329,4444
+"Honduras","HND","Subnat","HNDr104","Copan",,,,,,,,,,,,,,,,,,,,,,,,3135,3223,3311,3399,3487
+"Honduras","HND","Subnat","HNDr105","Cortes",,,,,,,,,,,,,,,,,,,,,,,,5351,5513,5674,5835,5997
+"Honduras","HND","Subnat","HNDr107","El Paraiso",,,,,,,,,,,,,,,,,,,,,,,,2586,2656,2727,2798,2868
+"Honduras","HND","Subnat","HNDr108","Francisco Morazan",,,,,,,,,,,,,,,,,,,,,,,,4912,5058,5204,5351,5497
+"Honduras","HND","Subnat","HNDr109","Gracias a Dios",,,,,,,,,,,,,,,,,,,,,,,,1441,1477,1513,1549,1585
+"Honduras","HND","Subnat","HNDr110","Intibuca",,,,,,,,,,,,,,,,,,,,,,,,2246,2306,2367,2427,2487
+"Honduras","HND","Subnat","HNDr111","Islas de la Bahia",,,,,,,,,,,,,,,,,,,,,,,,5325,5485,5645,5806,5966
+"Honduras","HND","Subnat","HNDr112","La Paz",,,,,,,,,,,,,,,,,,,,,,,,2640,2712,2784,2857,2929
+"Honduras","HND","Subnat","HNDr113","Lempira",,,,,,,,,,,,,,,,,,,,,,,,2038,2092,2146,2199,2253
+"Honduras","HND","Subnat","HNDr114","Ocotepeque",,,,,,,,,,,,,,,,,,,,,,,,3445,3543,3641,3739,3837
+"Honduras","HND","Subnat","HNDr115","Olancho",,,,,,,,,,,,,,,,,,,,,,,,3031,3116,3200,3285,3370
+"Honduras","HND","Subnat","HNDr116","Santa Barbara",,,,,,,,,,,,,,,,,,,,,,,,3382,3478,3574,3670,3766
+"Honduras","HND","Subnat","HNDr117","Valle",,,,,,,,,,,,,,,,,,,,,,,,2936,3018,3100,3181,3263
+"Honduras","HND","Subnat","HNDr118","Yoro",,,,,,,,,,,,,,,,,,,,,,,,3789,3899,4008,4117,4226
+"India","IND","Subnat","INDr136","Andaman and Nicobar Islands",,,,,,,,,,,,,,,,,,,,,,,,9565,10317,11069,11821,12573
+"India","IND","Subnat","INDr101","Andhra Pradesh",,,,,,,,,,,,,,,,,,,,,,,,6301,6768,7235,7702,8169
+"India","IND","Subnat","INDr125","Arunachal Pradesh",,,,,,,,,,,,,,,,,,,,,,,,5962,6401,6839,7277,7715
+"India","IND","Subnat","INDr102","Assam",,,,,,,,,,,,,,,,,,,,,,,,3433,3665,3898,4130,4363
+"India","IND","Subnat","INDr103","Bihar",,,,,,,,,,,,,,,,,,,,,,,,2618,2788,2958,3128,3298
+"India","IND","Subnat","INDr131","Chandigarth",,,,,,,,,,,,,,,,,,,,,,,,13909,15060,16211,17362,18514
+"India","IND","Subnat","INDr129","Chhattisgarh",,,,,,,,,,,,,,,,,,,,,,,,4054,4336,4617,4899,5180
+"India","IND","Subnat","INDr132","Dadra and Nagar Haveli",,,,,,,,,,,,,,,,,,,,,,,,5424,5817,6210,6603,6996
+"India","IND","Subnat","INDr134","Daman and Diu",,,,,,,,,,,,,,,,,,,,,,,,8961,9659,10357,11055,11753
+"India","IND","Subnat","INDr104","Goa",,,,,,,,,,,,,,,,,,,,,,,,12402,13413,14423,15434,16444
+"India","IND","Subnat","INDr105","Gujarat",,,,,,,,,,,,,,,,,,,,,,,,7937,8545,9153,9761,10369
+"India","IND","Subnat","INDr106","Haryana",,,,,,,,,,,,,,,,,,,,,,,,10001,10792,11583,12374,13165
+"India","IND","Subnat","INDr107","Himachal Pradesh",,,,,,,,,,,,,,,,,,,,,,,,10053,10849,11645,12440,13236
+"India","IND","Subnat","INDr108","Jammu and Kashmir",,,,,,,,,,,,,,,,,,,,,,,,7767,8359,8952,9545,10138
+"India","IND","Subnat","INDr128","Jharkhand",,,,,,,,,,,,,,,,,,,,,,,,3161,3372,3583,3795,4006
+"India","IND","Subnat","INDr109","Karnataka",,,,,,,,,,,,,,,,,,,,,,,,6595,7087,7579,8071,8563
+"India","IND","Subnat","INDr110","Kerala",,,,,,,,,,,,,,,,,,,,,,,,11251,12156,13061,13965,14870
+"India","IND","Subnat","INDr135","Lakshadweep",,,,,,,,,,,,,,,,,,,,,,,,11263,12169,13074,13980,14886
+"India","IND","Subnat","INDr111","Madhya Pradesh",,,,,,,,,,,,,,,,,,,,,,,,4022,4301,4580,4859,5138
+"India","IND","Subnat","INDr112","Maharashtra",,,,,,,,,,,,,,,,,,,,,,,,6973,7497,8021,8545,9069
+"India","IND","Subnat","INDr113","Manipur",,,,,,,,,,,,,,,,,,,,,,,,4717,5052,5387,5722,6057
+"India","IND","Subnat","INDr114","Meghalaya",,,,,,,,,,,,,,,,,,,,,,,,4918,5270,5621,5973,6324
+"India","IND","Subnat","INDr115","Mizoram",,,,,,,,,,,,,,,,,,,,,,,,9340,10072,10804,11535,12267
+"India","IND","Subnat","INDr116","Nagaland",,,,,,,,,,,,,,,,,,,,,,,,5842,6270,6698,7126,7555
+"India","IND","Subnat","INDr124","New Delhi",,,,,,,,,,,,,,,,,,,,,,,,11639,12579,13519,14459,15399
+"India","IND","Subnat","INDr117","Orissa",,,,,,,,,,,,,,,,,,,,,,,,3405,3635,3865,4095,4326
+"India","IND","Subnat","INDr133","Puducherry",,,,,,,,,,,,,,,,,,,,,,,,9398,10135,10872,11609,12346
+"India","IND","Subnat","INDr118","Punjab",,,,,,,,,,,,,,,,,,,,,,,,11687,12632,13576,14521,15465
+"India","IND","Subnat","INDr119","Rajasthan",,,,,,,,,,,,,,,,,,,,,,,,5576,5982,6387,6793,7199
+"India","IND","Subnat","INDr120","Sikkim",,,,,,,,,,,,,,,,,,,,,,,,9366,10100,10834,11568,12302
+"India","IND","Subnat","INDr121","Tamil Nadu",,,,,,,,,,,,,,,,,,,,,,,,7245,7793,8341,8888,9436
+"India","IND","Subnat","INDr130","Telangana",,,,,,,,,,,,,,,,,,,,,,,,6860,7375,7890,8404,8919
+"India","IND","Subnat","INDr126","Tripura",,,,,,,,,,,,,,,,,,,,,,,,4051,4333,4614,4895,5176
+"India","IND","Subnat","INDr123","Uttar Pradesh",,,,,,,,,,,,,,,,,,,,,,,,3706,3959,4213,4467,4721
+"India","IND","Subnat","INDr127","Uttaranchal",,,,,,,,,,,,,,,,,,,,,,,,7007,7534,8061,8588,9115
+"India","IND","Subnat","INDr122","West Bengal",,,,,,,,,,,,,,,,,,,,,,,,4314,4617,4919,5222,5524
+"Indonesia","IDN","Subnat","IDNr116","Bali",,,,,,,,,,,,,,,,,,,,,,,,12761,13383,14005,14628,15250
+"Indonesia","IDN","Subnat","IDNr109","Bangka Belitung",,,,,,,,,,,,,,,,,,,,,,,,11902,12478,13053,13629,14204
+"Indonesia","IDN","Subnat","IDNr115","Banten",,,,,,,,,,,,,,,,,,,,,,,,10685,11195,11705,12215,12724
+"Indonesia","IDN","Subnat","IDNr107","Bengkulu",,,,,,,,,,,,,,,,,,,,,,,,8470,8863,9255,9647,10040
+"Indonesia","IDN","Subnat","IDNr112","Central Java",,,,,,,,,,,,,,,,,,,,,,,,9130,9557,9984,10411,10837
+"Indonesia","IDN","Subnat","IDNr121","Central Kalimantan",,,,,,,,,,,,,,,,,,,,,,,,8349,8734,9120,9506,9892
+"Indonesia","IDN","Subnat","IDNr125","Central Sulawesi",,,,,,,,,,,,,,,,,,,,,,,,7053,7372,7691,8010,8329
+"Indonesia","IDN","Subnat","IDNr101","DI Aceh",,,,,,,,,,,,,,,,,,,,,,,,8293,8676,9059,9442,9825
+"Indonesia","IDN","Subnat","IDNr113","DI Yogyakarta",,,,,,,,,,,,,,,,,,,,,,,,10861,11380,11899,12418,12937
+"Indonesia","IDN","Subnat","IDNr110","DKI Jakarta",,,,,,,,,,,,,,,,,,,,,,,,15737,16524,17312,18099,18887
+"Indonesia","IDN","Subnat","IDNr114","East Java",,,,,,,,,,,,,,,,,,,,,,,,9502,9949,10395,10842,11288
+"Indonesia","IDN","Subnat","IDNr123","East Kalimantan",,,,,,,,,,,,,,,,,,,,,,,,12457,13063,13669,14275,14881
+"Indonesia","IDN","Subnat","IDNr118","East Nusa Tenggara",,,,,,,,,,,,,,,,,,,,,,,,4473,4663,4853,5043,5234
+"Indonesia","IDN","Subnat","IDNr128","Gorontalo",,,,,,,,,,,,,,,,,,,,,,,,6534,6827,7119,7412,7704
+"Indonesia","IDN","Subnat","IDNr130","Irian Jaya (Papua and Papua Barat)",,,,,,,,,,,,,,,,,,,,,,,,4138,4312,4486,4660,4835
+"Indonesia","IDN","Subnat","IDNr105","Jambi",,,,,,,,,,,,,,,,,,,,,,,,8534,8929,9325,9720,10116
+"Indonesia","IDN","Subnat","IDNr108","Lampung",,,,,,,,,,,,,,,,,,,,,,,,8076,8447,8819,9191,9563
+"Indonesia","IDN","Subnat","IDNr129","Maluku",,,,,,,,,,,,,,,,,,,,,,,,6981,7296,7611,7927,8242
+"Indonesia","IDN","Subnat","IDNr124","North Sulawesi",,,,,,,,,,,,,,,,,,,,,,,,9110,9536,9962,10388,10814
+"Indonesia","IDN","Subnat","IDNr102","North Sumatra",,,,,,,,,,,,,,,,,,,,,,,,9043,9465,9888,10310,10732
+"Indonesia","IDN","Subnat","IDNr104","Riau (incl. Riau islands)",,,,,,,,,,,,,,,,,,,,,,,,10443,10939,11436,11933,12429
+"Indonesia","IDN","Subnat","IDNr122","South Kalimantan",,,,,,,,,,,,,,,,,,,,,,,,9569,10020,10470,10920,11370
+"Indonesia","IDN","Subnat","IDNr126","South Sulawesi (incl Sulawesi Barat)",,,,,,,,,,,,,,,,,,,,,,,,8831,9243,9654,10065,10476
+"Indonesia","IDN","Subnat","IDNr106","South Sumatra",,,,,,,,,,,,,,,,,,,,,,,,9081,9506,9930,10355,10779
+"Indonesia","IDN","Subnat","IDNr127","Southeast Sulawesi",,,,,,,,,,,,,,,,,,,,,,,,7283,7614,7945,8276,8607
+"Indonesia","IDN","Subnat","IDNr111","West Java",,,,,,,,,,,,,,,,,,,,,,,,10876,11396,11916,12436,12956
+"Indonesia","IDN","Subnat","IDNr120","West Kalimantan",,,,,,,,,,,,,,,,,,,,,,,,8322,8707,9091,9476,9860
+"Indonesia","IDN","Subnat","IDNr117","West Nusa Tenggara",,,,,,,,,,,,,,,,,,,,,,,,6422,6709,6996,7283,7569
+"Indonesia","IDN","Subnat","IDNr103","West Sumatra",,,,,,,,,,,,,,,,,,,,,,,,9713,10170,10628,11086,11544
+"Iran","IRN","Subnat","IRNr125","Ardebil",,,,,,,,,,,,,,,,,,,,,,,,19627,18778,17930,17082,16234
+"Iran","IRN","Subnat","IRNr119","Bushehr",,,,,,,,,,,,,,,,,,,,,,,,25179,24067,22956,21845,20734
+"Iran","IRN","Subnat","IRNr115","Chaharmahal and Bakhtiyari",,,,,,,,,,,,,,,,,,,,,,,,22647,21656,20666,19675,18684
+"Iran","IRN","Subnat","IRNr104","EastAzarbayejan",,,,,,,,,,,,,,,,,,,,,,,,22205,21236,20266,19296,18326
+"Iran","IRN","Subnat","IRNr111","Esfahan",,,,,,,,,,,,,,,,,,,,,,,,28838,27551,26264,24977,23690
+"Iran","IRN","Subnat","IRNr108","Fars",,,,,,,,,,,,,,,,,,,,,,,,23236,22217,21198,20180,19161
+"Iran","IRN","Subnat","IRNr102","Gilan",,,,,,,,,,,,,,,,,,,,,,,,19208,18379,17551,16722,15894
+"Iran","IRN","Subnat","IRNr128","Golestan",,,,,,,,,,,,,,,,,,,,,,,,19467,18626,17785,16945,16104
+"Iran","IRN","Subnat","IRNr114","Hamedan",,,,,,,,,,,,,,,,,,,,,,,,22041,21079,20117,19155,18193
+"Iran","IRN","Subnat","IRNr123","Hormozgan",,,,,,,,,,,,,,,,,,,,,,,,18521,17724,16928,16132,15335
+"Iran","IRN","Subnat","IRNr117","Ilam",,,,,,,,,,,,,,,,,,,,,,,,22321,21346,20371,19396,18420
+"Iran","IRN","Subnat","IRNr109","Kerman",,,,,,,,,,,,,,,,,,,,,,,,18132,17354,16576,15797,15019
+"Iran","IRN","Subnat","IRNr106","Kermanshah",,,,,,,,,,,,,,,,,,,,,,,,25095,23987,22880,21773,20666
+"Iran","IRN","Subnat","IRNr110","Khorasan-e-Razavi",,,,,,,,,,,,,,,,,,,,,,,,21869,20915,19962,19008,18054
+"Iran","IRN","Subnat","IRNr107","Khuzestan",,,,,,,,,,,,,,,,,,,,,,,,27153,25947,24741,23535,22329
+"Iran","IRN","Subnat","IRNr118","Kohgiluyeh and Boyerahmad",,,,,,,,,,,,,,,,,,,,,,,,19561,18716,17871,17026,16181
+"Iran","IRN","Subnat","IRNr113","Kordestan",,,,,,,,,,,,,,,,,,,,,,,,24224,23158,22092,21027,19961
+"Iran","IRN","Subnat","IRNr116","Lorestan",,,,,,,,,,,,,,,,,,,,,,,,21048,20133,19218,18303,17388
+"Iran","IRN","Subnat","IRNr101","Markazi",,,,,,,,,,,,,,,,,,,,,,,,21627,20684,19742,18800,17857
+"Iran","IRN","Subnat","IRNr103","Mazandaran",,,,,,,,,,,,,,,,,,,,,,,,22180,21212,20243,19275,18306
+"Iran","IRN","Subnat","IRNr129","North Khorasan",,,,,,,,,,,,,,,,,,,,,,,,17066,16337,15609,14880,14151
+"Iran","IRN","Subnat","IRNr127","Qazvin",,,,,,,,,,,,,,,,,,,,,,,,23098,22086,21074,20062,19050
+"Iran","IRN","Subnat","IRNr126","Qom",,,,,,,,,,,,,,,,,,,,,,,,23488,22457,21426,20396,19365
+"Iran","IRN","Subnat","IRNr121","Semnan",,,,,,,,,,,,,,,,,,,,,,,,22842,21842,20842,19842,18842
+"Iran","IRN","Subnat","IRNr112","Sistanand Baluchestan",,,,,,,,,,,,,,,,,,,,,,,,12951,12411,11872,11332,10793
+"Iran","IRN","Subnat","IRNr130","South Khorasan",,,,,,,,,,,,,,,,,,,,,,,,17918,17149,16381,15613,14845
+"Iran","IRN","Subnat","IRNr124","Tehran and Alborz",,,,,,,,,,,,,,,,,,,,,,,,21562,20623,19684,18745,17805
+"Iran","IRN","Subnat","IRNr105","WestAzarbayejan",,,,,,,,,,,,,,,,,,,,,,,,22164,21196,20228,19261,18293
+"Iran","IRN","Subnat","IRNr122","Yazd",,,,,,,,,,,,,,,,,,,,,,,,25785,24645,23505,22364,21224
+"Iran","IRN","Subnat","IRNr120","Zanjan",,,,,,,,,,,,,,,,,,,,,,,,18295,17509,16723,15937,15151
+"Iraq","IRQ","Subnat","IRQr107","Anbar",,,,,,,,,,,,,,,,,,,,,,,,15205,14842,14480,14118,13756
+"Iraq","IRQ","Subnat","IRQr109","Babylon",,,,,,,,,,,,,,,,,,,,,,,,14722,14231,13739,13248,12757
+"Iraq","IRQ","Subnat","IRQr108","Baghdad",,,,,,,,,,,,,,,,,,,,,,,,18527,18100,17673,17246,16819
+"Iraq","IRQ","Subnat","IRQr118","Basra",,,,,,,,,,,,,,,,,,,,,,,,15859,15208,14558,13907,13256
+"Iraq","IRQ","Subnat","IRQr106","Diala",,,,,,,,,,,,,,,,,,,,,,,,15210,15399,15588,15777,15966
+"Iraq","IRQ","Subnat","IRQr101","Dohouk",,,,,,,,,,,,,,,,,,,,,,,,18642,18558,18474,18391,18307
+"Iraq","IRQ","Subnat","IRQr105","Erbil",,,,,,,,,,,,,,,,,,,,,,,,17475,17659,17843,18028,18212
+"Iraq","IRQ","Subnat","IRQr110","Kerbela",,,,,,,,,,,,,,,,,,,,,,,,15408,14919,14430,13941,13452
+"Iraq","IRQ","Subnat","IRQr117","Maysan",,,,,,,,,,,,,,,,,,,,,,,,14423,13901,13380,12858,12336
+"Iraq","IRQ","Subnat","IRQr115","Muthanna",,,,,,,,,,,,,,,,,,,,,,,,14650,14805,14960,15114,15269
+"Iraq","IRQ","Subnat","IRQr113","Najaf",,,,,,,,,,,,,,,,,,,,,,,,14349,13523,12697,11871,11044
+"Iraq","IRQ","Subnat","IRQr102","Nenava",,,,,,,,,,,,,,,,,,,,,,,,16817,16596,16375,16154,15933
+"Iraq","IRQ","Subnat","IRQr114","Qadisiya",,,,,,,,,,,,,,,,,,,,,,,,14632,14737,14842,14947,15052
+"Iraq","IRQ","Subnat","IRQr112","Salaheldeen",,,,,,,,,,,,,,,,,,,,,,,,16924,16906,16889,16871,16854
+"Iraq","IRQ","Subnat","IRQr103","Suleimaniya",,,,,,,,,,,,,,,,,,,,,,,,16906,16912,16918,16924,16931
+"Iraq","IRQ","Subnat","IRQr104","Ta-amem-Karkuk",,,,,,,,,,,,,,,,,,,,,,,,17183,17184,17185,17186,17187
+"Iraq","IRQ","Subnat","IRQr116","Thi-Qar",,,,,,,,,,,,,,,,,,,,,,,,15615,15590,15566,15541,15516
+"Iraq","IRQ","Subnat","IRQr111","Wasit",,,,,,,,,,,,,,,,,,,,,,,,13566,13093,12620,12147,11675
+"Jamaica","JAM","Subnat","JAMr101","Kingston, St Andrew",,,,,,,,,,,,,,,,,,,,,,,,9192,9267,9342,9418,9493
+"Jamaica","JAM","Subnat","JAMr106","Manchester, Clarendon",,,,,,,,,,,,,,,,,,,,,,,,6289,6338,6388,6437,6486
+"Jamaica","JAM","Subnat","JAMr103","St Ann, St Catherine",,,,,,,,,,,,,,,,,,,,,,,,8896,8968,9041,9113,9186
+"Jamaica","JAM","Subnat","JAMr105","St James, Hanover, Westmoreland",,,,,,,,,,,,,,,,,,,,,,,,6849,6903,6958,7012,7066
+"Jamaica","JAM","Subnat","JAMr102","St Thomas, Portland, St Mary",,,,,,,,,,,,,,,,,,,,,,,,6444,6495,6545,6596,6646
+"Jamaica","JAM","Subnat","JAMr104","Trelawny, St Elizabeth",,,,,,,,,,,,,,,,,,,,,,,,6829,6883,6937,6991,7045
+"Jordan","JOR","Subnat","JORr108","Aljoun",,,,,,,,,,,,,,,,,,,,,,,,7701,7714,7728,7741,7754
+"Jordan","JOR","Subnat","JORr101","Amman",,,,,,,,,,,,,,,,,,,,,,,,8762,8778,8793,8809,8824
+"Jordan","JOR","Subnat","JORr112","Aqaba",,,,,,,,,,,,,,,,,,,,,,,,8415,8429,8444,8459,8473
+"Jordan","JOR","Subnat","JORr102","Balqa",,,,,,,,,,,,,,,,,,,,,,,,7867,7881,7894,7908,7922
+"Jordan","JOR","Subnat","JORr105","Irbid",,,,,,,,,,,,,,,,,,,,,,,,7753,7766,7779,7793,7806
+"Jordan","JOR","Subnat","JORr107","Jarash",,,,,,,,,,,,,,,,,,,,,,,,7782,7796,7809,7823,7836
+"Jordan","JOR","Subnat","JORr109","Karak",,,,,,,,,,,,,,,,,,,,,,,,8441,8456,8471,8486,8501
+"Jordan","JOR","Subnat","JORr111","Ma'an",,,,,,,,,,,,,,,,,,,,,,,,8127,8141,8156,8170,8184
+"Jordan","JOR","Subnat","JORr104","Madaba",,,,,,,,,,,,,,,,,,,,,,,,8104,8118,8132,8146,8160
+"Jordan","JOR","Subnat","JORr106","Mafraq",,,,,,,,,,,,,,,,,,,,,,,,6824,6836,6848,6859,6871
+"Jordan","JOR","Subnat","JORr110","Tafiela",,,,,,,,,,,,,,,,,,,,,,,,8327,8341,8356,8370,8385
+"Jordan","JOR","Subnat","JORr103","Zarqa",,,,,,,,,,,,,,,,,,,,,,,,7978,7992,8006,8020,8034
+"Kazakhstan","KAZ","Subnat","KAZr101","Almaty city",,,,,,,,,,,,,,,,,,,,,,,,26880,27062,27243,27425,27606
+"Kazakhstan","KAZ","Subnat","KAZr104","Central region (Karagandinskaya)",,,,,,,,,,,,,,,,,,,,,,,,23282,23437,23592,23747,23902
+"Kazakhstan","KAZ","Subnat","KAZr106","East region (East-Kazakhstanskaya)",,,,,,,,,,,,,,,,,,,,,,,,20736,20873,21009,21146,21282
+"Kazakhstan","KAZ","Subnat","KAZr105","North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",,,,,,,,,,,,,,,,,,,,,,,,21552,21695,21837,21979,22122
+"Kazakhstan","KAZ","Subnat","KAZr102","South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",,,,,,,,,,,,,,,,,,,,,,,,20544,20679,20814,20949,21084
+"Kazakhstan","KAZ","Subnat","KAZr103","West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",,,,,,,,,,,,,,,,,,,,,,,,20523,20658,20793,20928,21063
+"Kenya","KEN","Subnat","KENr102","Central",,,,,,,,,,,,,,,,,,,,,,,,3403,3561,3719,3876,4034
+"Kenya","KEN","Subnat","KENr103","Coast",,,,,,,,,,,,,,,,,,,,,,,,2889,3020,3151,3282,3413
+"Kenya","KEN","Subnat","KENr104","Eastern",,,,,,,,,,,,,,,,,,,,,,,,2226,2324,2421,2518,2615
+"Kenya","KEN","Subnat","KENr101","Nairobi",,,,,,,,,,,,,,,,,,,,,,,,5868,6162,6455,6749,7043
+"Kenya","KEN","Subnat","KENr108","North Eastern",,,,,,,,,,,,,,,,,,,,,,,,1446,1505,1564,1623,1682
+"Kenya","KEN","Subnat","KENr105","Nyanza",,,,,,,,,,,,,,,,,,,,,,,,1969,2053,2138,2222,2306
+"Kenya","KEN","Subnat","KENr106","Rift Valley",,,,,,,,,,,,,,,,,,,,,,,,2232,2329,2426,2524,2621
+"Kenya","KEN","Subnat","KENr107","Western",,,,,,,,,,,,,,,,,,,,,,,,1677,1747,1817,1887,1958
+"Kosovo","XKO","Subnat","KSVr107","Ferizaj",,,,,,,,,,,,,,,,,,,,,,,,9209,9472,9735,9998,10261
+"Kosovo","XKO","Subnat","KSVr101","Gjakova",,,,,,,,,,,,,,,,,,,,,,,,9528,9801,10074,10347,10621
+"Kosovo","XKO","Subnat","KSVr102","Gjilan",,,,,,,,,,,,,,,,,,,,,,,,8427,8665,8903,9141,9379
+"Kosovo","XKO","Subnat","KSVr103","Mitrovica",,,,,,,,,,,,,,,,,,,,,,,,9044,9302,9560,9818,10075
+"Kosovo","XKO","Subnat","KSVr104","Peja",,,,,,,,,,,,,,,,,,,,,,,,9008,9265,9521,9778,10035
+"Kosovo","XKO","Subnat","KSVr106","Pristina",,,,,,,,,,,,,,,,,,,,,,,,9756,10037,10317,10598,10878
+"Kosovo","XKO","Subnat","KSVr105","Prizren",,,,,,,,,,,,,,,,,,,,,,,,8981,9237,9493,9748,10004
+"Kuwait","KWT","Subnat","KWTr102","Ahmadi",,,,,,,,,,,,,,,,,,,,,,,,80316,77777,75239,72700,70161
+"Kuwait","KWT","Subnat","KWTr101","Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",,,,,,,,,,,,,,,,,,,,,,,,82280,79674,77068,74463,71857
+"Kuwait","KWT","Subnat","KWTr103","Al-Jahra",,,,,,,,,,,,,,,,,,,,,,,,78894,76404,73914,71424,68934
+"Kyrgyzstan","KGZ","Subnat","KGZr108","Batken",,,,,,,,,,,,,,,,,,,,,,,,2100,2375,2651,2927,3203
+"Kyrgyzstan","KGZ","Subnat","KGZr101","Bishkek",,,,,,,,,,,,,,,,,,,,,,,,3620,3736,3853,3970,4086
+"Kyrgyzstan","KGZ","Subnat","KGZr103","East (Naryn)",,,,,,,,,,,,,,,,,,,,,,,,3232,3307,3382,3456,3531
+"Kyrgyzstan","KGZ","Subnat","KGZr105","Jalal-Abad",,,,,,,,,,,,,,,,,,,,,,,,2517,2605,2693,2780,2868
+"Kyrgyzstan","KGZ","Subnat","KGZr107","Naryn",,,,,,,,,,,,,,,,,,,,,,,,2028,2216,2405,2593,2781
+"Kyrgyzstan","KGZ","Subnat","KGZr102","North (Issyk-Kul, Chuy, Talas)",,,,,,,,,,,,,,,,,,,,,,,,2658,2856,3054,3252,3450
+"Kyrgyzstan","KGZ","Subnat","KGZr106","Osh",,,,,,,,,,,,,,,,,,,,,,,,2811,2812,2813,2814,2815
+"Kyrgyzstan","KGZ","Subnat","KGZr104","South (Osh, Batken, Jalal-Abad)",,,,,,,,,,,,,,,,,,,,,,,,2682,2783,2885,2986,3087
+"Lao","LAO","Subnat","LAOr117","Attapeu",,,,,,,,,,,,,,,,,,,,,,,,4194,4466,4737,5009,5281
+"Lao","LAO","Subnat","LAOr105","Bokeo",,,,,,,,,,,,,,,,,,,,,,,,5058,5395,5732,6069,6405
+"Lao","LAO","Subnat","LAOr111","Borikhamxay",,,,,,,,,,,,,,,,,,,,,,,,7074,7569,8063,8557,9051
+"Lao","LAO","Subnat","LAOr116","Champasack",,,,,,,,,,,,,,,,,,,,,,,,5462,5830,6198,6566,6933
+"Lao","LAO","Subnat","LAOr107","Huaphanh",,,,,,,,,,,,,,,,,,,,,,,,3220,3421,3621,3822,4022
+"Lao","LAO","Subnat","LAOr112","Khammuane",,,,,,,,,,,,,,,,,,,,,,,,4896,5220,5545,5869,6194
+"Lao","LAO","Subnat","LAOr103","Luangnamtha",,,,,,,,,,,,,,,,,,,,,,,,4472,4765,5057,5350,5643
+"Lao","LAO","Subnat","LAOr106","Luangprabang",,,,,,,,,,,,,,,,,,,,,,,,3769,4009,4249,4490,4730
+"Lao","LAO","Subnat","LAOr104","Oudomxay",,,,,,,,,,,,,,,,,,,,,,,,3659,3892,4124,4357,4589
+"Lao","LAO","Subnat","LAOr102","Phongsaly",,,,,,,,,,,,,,,,,,,,,,,,2944,3125,3306,3487,3668
+"Lao","LAO","Subnat","LAOr114","Saravane",,,,,,,,,,,,,,,,,,,,,,,,3095,3286,3478,3670,3861
+"Lao","LAO","Subnat","LAOr113","Savannakhet",,,,,,,,,,,,,,,,,,,,,,,,4381,4667,4952,5238,5524
+"Lao","LAO","Subnat","LAOr108","Sayabury",,,,,,,,,,,,,,,,,,,,,,,,6008,6418,6828,7238,7649
+"Lao","LAO","Subnat","LAOr115","Sekong",,,,,,,,,,,,,,,,,,,,,,,,3581,3808,4035,4261,4488
+"Lao","LAO","Subnat","LAOr101","Vientiane Municipality",,,,,,,,,,,,,,,,,,,,,,,,9059,9714,10369,11024,11680
+"Lao","LAO","Subnat","LAOr110","Vientiane Province",,,,,,,,,,,,,,,,,,,,,,,,5860,6259,6658,7056,7455
+"Lao","LAO","Subnat","LAOr109","Xiengkhuang",,,,,,,,,,,,,,,,,,,,,,,,5221,5570,5919,6268,6618
+"Lebanon","LBN","Subnat","LBNr101","Beirut",,,,,,,,,,,,,,,,,,,,,,,,12790,12306,11822,11337,10853
+"Lebanon","LBN","Subnat","LBNr104","Beqaa",,,,,,,,,,,,,,,,,,,,,,,,17517,16834,16152,15470,14788
+"Lebanon","LBN","Subnat","LBNr102","Mount Lebanon",,,,,,,,,,,,,,,,,,,,,,,,15245,14659,14072,13486,12899
+"Lebanon","LBN","Subnat","LBNr103","Northern",,,,,,,,,,,,,,,,,,,,,,,,7674,7397,7120,6843,6567
+"Lebanon","LBN","Subnat","LBNr105","Southern, Nabtieh",,,,,,,,,,,,,,,,,,,,,,,,15234,14648,14062,13476,12890
+"Lesotho","LSO","Subnat","LSOr103","Berea",,,,,,,,,,,,,,,,,,,,,,,,3879,3898,3917,3937,3956
+"Lesotho","LSO","Subnat","LSOr101","Butha-Buthe",,,,,,,,,,,,,,,,,,,,,,,,2818,2831,2845,2858,2872
+"Lesotho","LSO","Subnat","LSOr102","Leribe",,,,,,,,,,,,,,,,,,,,,,,,3257,3273,3289,3305,3321
+"Lesotho","LSO","Subnat","LSOr105","Mafeteng",,,,,,,,,,,,,,,,,,,,,,,,3255,3271,3287,3302,3318
+"Lesotho","LSO","Subnat","LSOr104","Maseru",,,,,,,,,,,,,,,,,,,,,,,,4436,4459,4481,4504,4526
+"Lesotho","LSO","Subnat","LSOr106","Mohale s Hoek",,,,,,,,,,,,,,,,,,,,,,,,2473,2484,2496,2508,2519
+"Lesotho","LSO","Subnat","LSOr109","Mokhotlong",,,,,,,,,,,,,,,,,,,,,,,,1881,1889,1898,1906,1915
+"Lesotho","LSO","Subnat","LSOr108","Qasha s Nek",,,,,,,,,,,,,,,,,,,,,,,,2501,2513,2525,2537,2548
+"Lesotho","LSO","Subnat","LSOr107","Quthing",,,,,,,,,,,,,,,,,,,,,,,,2777,2790,2803,2816,2830
+"Lesotho","LSO","Subnat","LSOr110","Thaba-Tseka",,,,,,,,,,,,,,,,,,,,,,,,1820,1828,1836,1845,1853
+"Liberia","LBR","Subnat","LBRr101","Bomi",,,,,,,,,,,,,,,,,,,,,,,,937,903,870,837,803
+"Liberia","LBR","Subnat","LBRr102","Bong",,,,,,,,,,,,,,,,,,,,,,,,850,820,791,761,731
+"Liberia","LBR","Subnat","LBRr103","Gbarpolu",,,,,,,,,,,,,,,,,,,,,,,,835,805,776,747,718
+"Liberia","LBR","Subnat","LBRr104","Grand Bassa",,,,,,,,,,,,,,,,,,,,,,,,889,857,826,795,763
+"Liberia","LBR","Subnat","LBRr105","Grand Cape Mount",,,,,,,,,,,,,,,,,,,,,,,,909,877,845,813,780
+"Liberia","LBR","Subnat","LBRr106","Grand Gedeh",,,,,,,,,,,,,,,,,,,,,,,,949,915,882,848,814
+"Liberia","LBR","Subnat","LBRr107","Grand Kru",,,,,,,,,,,,,,,,,,,,,,,,813,784,756,728,699
+"Liberia","LBR","Subnat","LBRr108","Lofa",,,,,,,,,,,,,,,,,,,,,,,,905,873,841,809,777
+"Liberia","LBR","Subnat","LBRr109","Margibi",,,,,,,,,,,,,,,,,,,,,,,,1242,1196,1150,1105,1059
+"Liberia","LBR","Subnat","LBRr110","Maryland",,,,,,,,,,,,,,,,,,,,,,,,1049,1011,973,935,898
+"Liberia","LBR","Subnat","LBRr111","Montserrado",,,,,,,,,,,,,,,,,,,,,,,,1925,1850,1775,1701,1626
+"Liberia","LBR","Subnat","LBRr112","Nimba",,,,,,,,,,,,,,,,,,,,,,,,1040,1002,965,927,890
+"Liberia","LBR","Subnat","LBRr113","River Cess",,,,,,,,,,,,,,,,,,,,,,,,748,722,696,670,644
+"Liberia","LBR","Subnat","LBRr114","River Gee",,,,,,,,,,,,,,,,,,,,,,,,905,873,841,809,777
+"Liberia","LBR","Subnat","LBRr115","Sinoe",,,,,,,,,,,,,,,,,,,,,,,,804,776,748,720,692
+"Libya","LBY","Subnat","LBYr101","Cyrenaica",,,,,,,,,,,,,,,,,,,,,,,,8281,8913,9544,10176,10807
+"Libya","LBY","Subnat","LBYr103","Fezzan",,,,,,,,,,,,,,,,,,,,,,,,7974,8579,9184,9788,10393
+"Libya","LBY","Subnat","LBYr102","Tripolitania",,,,,,,,,,,,,,,,,,,,,,,,9465,10200,10936,11671,12406
+"Madagascar","MDG","Subnat","MDGr112","Alaotra Mangoro",,,,,,,,,,,,,,,,,,,,,,,,1280,1303,1327,1350,1374
+"Madagascar","MDG","Subnat","MDGr101","Analamanga",,,,,,,,,,,,,,,,,,,,,,,,2016,2076,2137,2197,2258
+"Madagascar","MDG","Subnat","MDGr111","Analanjirofo",,,,,,,,,,,,,,,,,,,,,,,,1238,1316,1395,1473,1552
+"Madagascar","MDG","Subnat","MDGr106","Anamoroni Mania",,,,,,,,,,,,,,,,,,,,,,,,1057,1074,1092,1110,1127
+"Madagascar","MDG","Subnat","MDGr118","Androy",,,,,,,,,,,,,,,,,,,,,,,,978,983,988,993,998
+"Madagascar","MDG","Subnat","MDGr119","Anosy",,,,,,,,,,,,,,,,,,,,,,,,1068,1069,1070,1071,1072
+"Madagascar","MDG","Subnat","MDGr117","Atsimo Andrefana",,,,,,,,,,,,,,,,,,,,,,,,1086,1084,1083,1082,1081
+"Madagascar","MDG","Subnat","MDGr109","Atsimo Atsinanana",,,,,,,,,,,,,,,,,,,,,,,,987,988,989,991,992
+"Madagascar","MDG","Subnat","MDGr110","Atsinanana",,,,,,,,,,,,,,,,,,,,,,,,1407,1439,1472,1504,1537
+"Madagascar","MDG","Subnat","MDGr115","Betsiboka",,,,,,,,,,,,,,,,,,,,,,,,1177,1206,1234,1263,1292
+"Madagascar","MDG","Subnat","MDGr113","Boeny",,,,,,,,,,,,,,,,,,,,,,,,1378,1384,1391,1397,1403
+"Madagascar","MDG","Subnat","MDGr104","Bongolava",,,,,,,,,,,,,,,,,,,,,,,,1211,1247,1283,1319,1355
+"Madagascar","MDG","Subnat","MDGr121","Diana",,,,,,,,,,,,,,,,,,,,,,,,1436,1518,1600,1683,1765
+"Madagascar","MDG","Subnat","MDGr105","Haute Matsiatra",,,,,,,,,,,,,,,,,,,,,,,,1116,1129,1142,1155,1168
+"Madagascar","MDG","Subnat","MDGr108","Ihorombe",,,,,,,,,,,,,,,,,,,,,,,,1129,1134,1139,1144,1149
+"Madagascar","MDG","Subnat","MDGr103","Itasy",,,,,,,,,,,,,,,,,,,,,,,,1170,1203,1235,1267,1299
+"Madagascar","MDG","Subnat","MDGr116","Melaky",,,,,,,,,,,,,,,,,,,,,,,,1004,1031,1057,1084,1111
+"Madagascar","MDG","Subnat","MDGr120","Menabe",,,,,,,,,,,,,,,,,,,,,,,,1110,1107,1104,1101,1098
+"Madagascar","MDG","Subnat","MDGr122","Sava",,,,,,,,,,,,,,,,,,,,,,,,1207,1302,1398,1493,1588
+"Madagascar","MDG","Subnat","MDGr114","Sofia",,,,,,,,,,,,,,,,,,,,,,,,1280,1328,1377,1426,1474
+"Madagascar","MDG","Subnat","MDGr102","Vakinankaratra",,,,,,,,,,,,,,,,,,,,,,,,1226,1263,1300,1337,1374
+"Madagascar","MDG","Subnat","MDGr107","Vatovavy Fitovinany",,,,,,,,,,,,,,,,,,,,,,,,1019,1035,1051,1067,1083
+"Malawi","MWI","Subnat","MWIr101","Blantyre",,,,,,,,,,,,,,,,,,,,,,,,1659,1676,1692,1709,1725
+"Malawi","MWI","Subnat","MWIr102","Kasungu",,,,,,,,,,,,,,,,,,,,,,,,1018,1027,1037,1046,1056
+"Malawi","MWI","Subnat","MWIr109","Lilongwe",,,,,,,,,,,,,,,,,,,,,,,,1322,1335,1347,1360,1373
+"Malawi","MWI","Subnat","MWIr103","Machinga",,,,,,,,,,,,,,,,,,,,,,,,928,936,945,953,962
+"Malawi","MWI","Subnat","MWIr104","Mangochi",,,,,,,,,,,,,,,,,,,,,,,,1021,1030,1039,1049,1058
+"Malawi","MWI","Subnat","MWIr110","Mulanje",,,,,,,,,,,,,,,,,,,,,,,,1058,1068,1078,1088,1098
+"Malawi","MWI","Subnat","MWIr105","Mzimba",,,,,,,,,,,,,,,,,,,,,,,,1289,1301,1313,1325,1338
+"Malawi","MWI","Subnat","MWIr112","Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",,,,,,,,,,,,,,,,,,,,,,,,973,982,991,1000,1009
+"Malawi","MWI","Subnat","MWIr111","Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",,,,,,,,,,,,,,,,,,,,,,,,1238,1250,1262,1273,1285
+"Malawi","MWI","Subnat","MWIr113","Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",,,,,,,,,,,,,,,,,,,,,,,,1014,1023,1033,1042,1051
+"Malawi","MWI","Subnat","MWIr106","Salima",,,,,,,,,,,,,,,,,,,,,,,,994,1003,1012,1022,1031
+"Malawi","MWI","Subnat","MWIr107","Thyolo",,,,,,,,,,,,,,,,,,,,,,,,984,993,1002,1011,1020
+"Malawi","MWI","Subnat","MWIr108","Zomba",,,,,,,,,,,,,,,,,,,,,,,,1114,1125,1135,1146,1156
+"Malaysia","MYS","Subnat","MYSr101","Johor",,,,,,,,,,,,,,,,,,,,,,,,30522,31377,32232,33087,33942
+"Malaysia","MYS","Subnat","MYSr102","Kedah",,,,,,,,,,,,,,,,,,,,,,,,25139,25829,26518,27208,27897
+"Malaysia","MYS","Subnat","MYSr103","Kelantan",,,,,,,,,,,,,,,,,,,,,,,,16110,16531,16951,17372,17793
+"Malaysia","MYS","Subnat","MYSr114","Kuala Lumpur Federal Territory",,,,,,,,,,,,,,,,,,,,,,,,32868,33795,34723,35651,36579
+"Malaysia","MYS","Subnat","MYSr115","Labuan Federal Territory",,,,,,,,,,,,,,,,,,,,,,,,21592,22175,22757,23340,23922
+"Malaysia","MYS","Subnat","MYSr104","Melaka",,,,,,,,,,,,,,,,,,,,,,,,31923,32821,33719,34618,35516
+"Malaysia","MYS","Subnat","MYSr105","Negeri Sembilan",,,,,,,,,,,,,,,,,,,,,,,,32191,33098,34005,34912,35818
+"Malaysia","MYS","Subnat","MYSr106","Pahang",,,,,,,,,,,,,,,,,,,,,,,,25093,25781,26469,27158,27846
+"Malaysia","MYS","Subnat","MYSr108","Perak",,,,,,,,,,,,,,,,,,,,,,,,29204,30019,30833,31647,32461
+"Malaysia","MYS","Subnat","MYSr109","Perlis",,,,,,,,,,,,,,,,,,,,,,,,24874,25556,26238,26919,27601
+"Malaysia","MYS","Subnat","MYSr107","Pulau Pinang",,,,,,,,,,,,,,,,,,,,,,,,33036,33969,34902,35835,36768
+"Malaysia","MYS","Subnat","MYSr112","Sabah",,,,,,,,,,,,,,,,,,,,,,,,10556,10819,11081,11344,11606
+"Malaysia","MYS","Subnat","MYSr113","Sarawak",,,,,,,,,,,,,,,,,,,,,,,,14257,14624,14991,15359,15726
+"Malaysia","MYS","Subnat","MYSr110","Selangor",,,,,,,,,,,,,,,,,,,,,,,,33866,34825,35783,36742,37701
+"Malaysia","MYS","Subnat","MYSr111","Terengganu",,,,,,,,,,,,,,,,,,,,,,,,21814,22403,22992,23581,24170
+"Maldives","MDV","Subnat","MDVr104","Central",,,,,,,,,,,,,,,,,,,,,,,,10061,10339,10617,10894,11172
+"Maldives","MDV","Subnat","MDVr101","Male",,,,,,,,,,,,,,,,,,,,,,,,13137,13511,13885,14260,14634
+"Maldives","MDV","Subnat","MDVr102","North",,,,,,,,,,,,,,,,,,,,,,,,10129,10409,10689,10968,11248
+"Maldives","MDV","Subnat","MDVr103","North Central",,,,,,,,,,,,,,,,,,,,,,,,10126,10405,10685,10965,11244
+"Maldives","MDV","Subnat","MDVr106","South",,,,,,,,,,,,,,,,,,,,,,,,10603,10897,11191,11486,11780
+"Maldives","MDV","Subnat","MDVr105","South Central",,,,,,,,,,,,,,,,,,,,,,,,10308,10593,10878,11163,11449
+"Mali","MLI","Subnat","MLIr108","Bamako",,,,,,,,,,,,,,,,,,,,,,,,4739,4676,4614,4551,4488
+"Mali","MLI","Subnat","MLIr107","Gao and Kidal",,,,,,,,,,,,,,,,,,,,,,,,1338,1317,1295,1273,1252
+"Mali","MLI","Subnat","MLIr101","Kayes",,,,,,,,,,,,,,,,,,,,,,,,1806,1785,1763,1741,1719
+"Mali","MLI","Subnat","MLIr102","Koulikoro",,,,,,,,,,,,,,,,,,,,,,,,1859,1868,1876,1884,1893
+"Mali","MLI","Subnat","MLIr105","Mopti",,,,,,,,,,,,,,,,,,,,,,,,1482,1476,1469,1463,1456
+"Mali","MLI","Subnat","MLIr104","Segou",,,,,,,,,,,,,,,,,,,,,,,,1703,1721,1739,1757,1775
+"Mali","MLI","Subnat","MLIr103","Sikasso",,,,,,,,,,,,,,,,,,,,,,,,1861,1878,1895,1912,1929
+"Mali","MLI","Subnat","MLIr106","Tombouctou",,,,,,,,,,,,,,,,,,,,,,,,1301,1302,1303,1304,1306
+"Mauritania","MRT","Subnat","MRTr107","Adrar",,,,,,,,,,,,,,,,,,,,,,,,3616,3683,3750,3817,3883
+"Mauritania","MRT","Subnat","MRTr103","Assaba",,,,,,,,,,,,,,,,,,,,,,,,2657,2704,2751,2798,2845
+"Mauritania","MRT","Subnat","MRTr105","Brakna",,,,,,,,,,,,,,,,,,,,,,,,3069,3124,3180,3235,3291
+"Mauritania","MRT","Subnat","MRTr104","Gorgol",,,,,,,,,,,,,,,,,,,,,,,,2430,2472,2515,2557,2600
+"Mauritania","MRT","Subnat","MRTr110","Guidimagha",,,,,,,,,,,,,,,,,,,,,,,,2356,2397,2438,2479,2520
+"Mauritania","MRT","Subnat","MRTr101","Hodh Charghi",,,,,,,,,,,,,,,,,,,,,,,,2177,2214,2252,2289,2327
+"Mauritania","MRT","Subnat","MRTr102","Hodh Gharbi",,,,,,,,,,,,,,,,,,,,,,,,1976,2009,2043,2077,2110
+"Mauritania","MRT","Subnat","MRTr112","Inchiri",,,,,,,,,,,,,,,,,,,,,,,,4991,5087,5182,5278,5374
+"Mauritania","MRT","Subnat","MRTr108","Nouadhibou",,,,,,,,,,,,,,,,,,,,,,,,8953,9138,9323,9508,9692
+"Mauritania","MRT","Subnat","MRTr109","Tagant",,,,,,,,,,,,,,,,,,,,,,,,2927,2980,3032,3085,3137
+"Mauritania","MRT","Subnat","MRTr111","Tiris-Zemmour",,,,,,,,,,,,,,,,,,,,,,,,7134,7278,7421,7564,7708
+"Mauritania","MRT","Subnat","MRTr106","Trarza incl Nouakchott",,,,,,,,,,,,,,,,,,,,,,,,5202,5302,5403,5504,5604
+"Mauritius","MUS","Subnat","MUSr101","North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",,,,,,,,,,,,,,,,,,,,,,,,19222,19961,20699,21437,22176
+"Mauritius","MUS","Subnat","MUSr103","Rodrigues",,,,,,,,,,,,,,,,,,,,,,,,13432,13927,14422,14917,15412
+"Mauritius","MUS","Subnat","MUSr102","South (Grand Port, Savanne, Plaines Wilhems, Black River)",,,,,,,,,,,,,,,,,,,,,,,,20613,21411,22210,23008,23806
+"Mexico","MEX","Subnat","MEXr101","Aguascalientes",,,,,,,,,,,,,,,,,,,,,,,,20711,20828,20945,21062,21179
+"Mexico","MEX","Subnat","MEXr102","Baja California",,,,,,,,,,,,,,,,,,,,,,,,19639,19749,19859,19970,20080
+"Mexico","MEX","Subnat","MEXr103","Baja California Sur",,,,,,,,,,,,,,,,,,,,,,,,18824,18929,19034,19140,19245
+"Mexico","MEX","Subnat","MEXr104","Campeche",,,,,,,,,,,,,,,,,,,,,,,,14192,14269,14346,14423,14500
+"Mexico","MEX","Subnat","MEXr107","Chiapas",,,,,,,,,,,,,,,,,,,,,,,,8966,9012,9058,9104,9151
+"Mexico","MEX","Subnat","MEXr108","Chihuahua",,,,,,,,,,,,,,,,,,,,,,,,19900,20012,20124,20236,20347
+"Mexico","MEX","Subnat","MEXr105","Coahuila",,,,,,,,,,,,,,,,,,,,,,,,20263,20377,20491,20605,20719
+"Mexico","MEX","Subnat","MEXr106","Colima",,,,,,,,,,,,,,,,,,,,,,,,18219,18321,18422,18524,18625
+"Mexico","MEX","Subnat","MEXr109","Distrito Federal",,,,,,,,,,,,,,,,,,,,,,,,20094,20207,20321,20434,20547
+"Mexico","MEX","Subnat","MEXr110","Durango",,,,,,,,,,,,,,,,,,,,,,,,17174,17269,17364,17460,17555
+"Mexico","MEX","Subnat","MEXr111","Guanajuato",,,,,,,,,,,,,,,,,,,,,,,,17055,17150,17244,17338,17433
+"Mexico","MEX","Subnat","MEXr112","Guerrero",,,,,,,,,,,,,,,,,,,,,,,,9830,9881,9933,9984,10035
+"Mexico","MEX","Subnat","MEXr113","Hidalgo",,,,,,,,,,,,,,,,,,,,,,,,13684,13758,13832,13906,13980
+"Mexico","MEX","Subnat","MEXr114","Jalisco",,,,,,,,,,,,,,,,,,,,,,,,20754,20871,20989,21106,21223
+"Mexico","MEX","Subnat","MEXr115","Mexico",,,,,,,,,,,,,,,,,,,,,,,,16178,16267,16356,16445,16534
+"Mexico","MEX","Subnat","MEXr116","Michoacan de Ocampo",,,,,,,,,,,,,,,,,,,,,,,,15464,15548,15633,15718,15802
+"Mexico","MEX","Subnat","MEXr117","Morelos",,,,,,,,,,,,,,,,,,,,,,,,15287,15371,15455,15538,15622
+"Mexico","MEX","Subnat","MEXr118","Nayarit",,,,,,,,,,,,,,,,,,,,,,,,16733,16825,16917,17010,17102
+"Mexico","MEX","Subnat","MEXr119","Nuevo Leon",,,,,,,,,,,,,,,,,,,,,,,,21191,21311,21431,21551,21671
+"Mexico","MEX","Subnat","MEXr120","Oaxaca",,,,,,,,,,,,,,,,,,,,,,,,8805,8850,8896,8941,8987
+"Mexico","MEX","Subnat","MEXr121","Puebla",,,,,,,,,,,,,,,,,,,,,,,,12484,12551,12618,12685,12752
+"Mexico","MEX","Subnat","MEXr122","Queretaro",,,,,,,,,,,,,,,,,,,,,,,,17806,17905,18004,18103,18202
+"Mexico","MEX","Subnat","MEXr123","Quintana Roo",,,,,,,,,,,,,,,,,,,,,,,,16738,16831,16923,17016,17108
+"Mexico","MEX","Subnat","MEXr124","San Luis Potosi",,,,,,,,,,,,,,,,,,,,,,,,13996,14072,14148,14224,14300
+"Mexico","MEX","Subnat","MEXr125","Sinaloa",,,,,,,,,,,,,,,,,,,,,,,,18378,18481,18583,18685,18788
+"Mexico","MEX","Subnat","MEXr126","Sonora",,,,,,,,,,,,,,,,,,,,,,,,19127,19234,19341,19448,19556
+"Mexico","MEX","Subnat","MEXr127","Tabasco",,,,,,,,,,,,,,,,,,,,,,,,13741,13815,13889,13964,14038
+"Mexico","MEX","Subnat","MEXr128","Tamaulipas",,,,,,,,,,,,,,,,,,,,,,,,17955,18055,18155,18255,18355
+"Mexico","MEX","Subnat","MEXr129","Tlaxcala",,,,,,,,,,,,,,,,,,,,,,,,14436,14514,14593,14671,14750
+"Mexico","MEX","Subnat","MEXr130","Veracruz",,,,,,,,,,,,,,,,,,,,,,,,12235,12301,12366,12431,12497
+"Mexico","MEX","Subnat","MEXr131","Yucatan",,,,,,,,,,,,,,,,,,,,,,,,16094,16182,16271,16359,16448
+"Mexico","MEX","Subnat","MEXr132","Zacatecas",,,,,,,,,,,,,,,,,,,,,,,,17524,17621,17718,17816,17913
+"Moldova","MDA","Subnat","MDAr102","Center",,,,,,,,,,,,,,,,,,,,,,,,5109,5305,5500,5696,5891
+"Moldova","MDA","Subnat","MDAr104","Chisinau",,,,,,,,,,,,,,,,,,,,,,,,9736,10141,10546,10951,11356
+"Moldova","MDA","Subnat","MDAr101","North",,,,,,,,,,,,,,,,,,,,,,,,5078,5272,5467,5661,5855
+"Moldova","MDA","Subnat","MDAr103","South",,,,,,,,,,,,,,,,,,,,,,,,5797,6022,6248,6473,6699
+"Mongolia","MNG","Subnat","MNGr103","Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",,,,,,,,,,,,,,,,,,,,,,,,7158,8041,8925,9809,10693
+"Mongolia","MNG","Subnat","MNGr104","Eastern (Dornod, Sukhbaatar, Khentii)",,,,,,,,,,,,,,,,,,,,,,,,5525,6179,6833,7487,8141
+"Mongolia","MNG","Subnat","MNGr102","Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",,,,,,,,,,,,,,,,,,,,,,,,4666,5203,5740,6277,6814
+"Mongolia","MNG","Subnat","MNGr105","Ulaanbaatar",,,,,,,,,,,,,,,,,,,,,,,,11819,13401,14982,16563,18145
+"Mongolia","MNG","Subnat","MNGr101","Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",,,,,,,,,,,,,,,,,,,,,,,,4364,4860,5357,5853,6350
+"Monte Negro","MNE","Subnat","MNEr102","Centre",,,,,,,,,,,,,,,,,,,,,,,,15436,16119,16803,17486,18169
+"Monte Negro","MNE","Subnat","MNEr101","North",,,,,,,,,,,,,,,,,,,,,,,,13017,13581,14145,14710,15274
+"Monte Negro","MNE","Subnat","MNEr103","South",,,,,,,,,,,,,,,,,,,,,,,,16128,16845,17563,18280,18998
+"Morocco","MAR","Subnat","MARr103","Centre",,,,,,,,,,,,,,,,,,,,,,,,7369,7517,7665,7813,7961
+"Morocco","MAR","Subnat","MARr102","Centre north",,,,,,,,,,,,,,,,,,,,,,,,6589,6720,6850,6981,7111
+"Morocco","MAR","Subnat","MARr105","Centre south",,,,,,,,,,,,,,,,,,,,,,,,6606,6737,6868,6999,7130
+"Morocco","MAR","Subnat","MARr104","Eastern",,,,,,,,,,,,,,,,,,,,,,,,6182,6304,6425,6547,6669
+"Morocco","MAR","Subnat","MARr101","North west",,,,,,,,,,,,,,,,,,,,,,,,7220,7365,7510,7654,7799
+"Morocco","MAR","Subnat","MARr107","South",,,,,,,,,,,,,,,,,,,,,,,,6938,7077,7215,7353,7492
+"Morocco","MAR","Subnat","MARr106","Tensift",,,,,,,,,,,,,,,,,,,,,,,,6792,6927,7062,7197,7332
+"Mozambique","MOZ","Subnat","MOZr102","Cabo delgado",,,,,,,,,,,,,,,,,,,,,,,,861,872,883,894,905
+"Mozambique","MOZ","Subnat","MOZr109","Gaza",,,,,,,,,,,,,,,,,,,,,,,,1045,1059,1072,1086,1100
+"Mozambique","MOZ","Subnat","MOZr108","Inhambane",,,,,,,,,,,,,,,,,,,,,,,,921,933,945,957,969
+"Mozambique","MOZ","Subnat","MOZr106","Manica",,,,,,,,,,,,,,,,,,,,,,,,1299,1317,1335,1353,1370
+"Mozambique","MOZ","Subnat","MOZr111","Maputo Cidade",,,,,,,,,,,,,,,,,,,,,,,,3099,3146,3194,3242,3290
+"Mozambique","MOZ","Subnat","MOZr110","Maputo Provincia",,,,,,,,,,,,,,,,,,,,,,,,1751,1776,1801,1826,1851
+"Mozambique","MOZ","Subnat","MOZr103","Nampula",,,,,,,,,,,,,,,,,,,,,,,,967,980,993,1005,1018
+"Mozambique","MOZ","Subnat","MOZr101","Niassa",,,,,,,,,,,,,,,,,,,,,,,,920,932,944,956,968
+"Mozambique","MOZ","Subnat","MOZr107","Sofala",,,,,,,,,,,,,,,,,,,,,,,,1339,1357,1375,1394,1412
+"Mozambique","MOZ","Subnat","MOZr105","Tete",,,,,,,,,,,,,,,,,,,,,,,,896,907,919,931,942
+"Mozambique","MOZ","Subnat","MOZr104","Zambezia",,,,,,,,,,,,,,,,,,,,,,,,1002,1015,1028,1041,1054
+"Myanmar","MMR","Subnat","MMRr114","Ayeyarwaddy",,,,,,,,,,,,,,,,,,,,,,,,3031,3235,3440,3644,3849
+"Myanmar","MMR","Subnat","MMRr107","Bago",,,,,,,,,,,,,,,,,,,,,,,,3951,4228,4506,4783,5060
+"Myanmar","MMR","Subnat","MMRr104","Chin",,,,,,,,,,,,,,,,,,,,,,,,4491,4812,5134,5455,5776
+"Myanmar","MMR","Subnat","MMRr101","Kachin",,,,,,,,,,,,,,,,,,,,,,,,6206,6672,7138,7604,8070
+"Myanmar","MMR","Subnat","MMRr102","Kayah",,,,,,,,,,,,,,,,,,,,,,,,5173,5551,5929,6307,6685
+"Myanmar","MMR","Subnat","MMRr103","Kayin",,,,,,,,,,,,,,,,,,,,,,,,4610,4941,5272,5604,5935
+"Myanmar","MMR","Subnat","MMRr108","Magway",,,,,,,,,,,,,,,,,,,,,,,,4054,4340,4626,4911,5197
+"Myanmar","MMR","Subnat","MMRr109","Mandalay, NayPyitaw",,,,,,,,,,,,,,,,,,,,,,,,4960,5321,5681,6041,6402
+"Myanmar","MMR","Subnat","MMRr110","Mon",,,,,,,,,,,,,,,,,,,,,,,,5409,5807,6205,6603,7001
+"Myanmar","MMR","Subnat","MMRr111","Rakhine",,,,,,,,,,,,,,,,,,,,,,,,3005,3207,3409,3612,3814
+"Myanmar","MMR","Subnat","MMRr105","Sagaing",,,,,,,,,,,,,,,,,,,,,,,,3878,4150,4421,4693,4965
+"Myanmar","MMR","Subnat","MMRr113","Shan",,,,,,,,,,,,,,,,,,,,,,,,4837,5187,5538,5888,6238
+"Myanmar","MMR","Subnat","MMRr106","Taninthayi",,,,,,,,,,,,,,,,,,,,,,,,4522,4846,5170,5494,5818
+"Myanmar","MMR","Subnat","MMRr112","Yangon",,,,,,,,,,,,,,,,,,,,,,,,7483,8060,8636,9213,9790
+"Namibia","NAM","Subnat","NAMr101","Caprivi",,,,,,,,,,,,,,,,,,,,,,,,5089,5044,4999,4954,4908
+"Namibia","NAM","Subnat","NAMr102","Erongo",,,,,,,,,,,,,,,,,,,,,,,,19938,19734,19530,19325,19121
+"Namibia","NAM","Subnat","NAMr103","Hardap",,,,,,,,,,,,,,,,,,,,,,,,16063,15902,15741,15580,15419
+"Namibia","NAM","Subnat","NAMr104","Karas",,,,,,,,,,,,,,,,,,,,,,,,15221,15069,14917,14765,14613
+"Namibia","NAM","Subnat","NAMr108","Kavango",,,,,,,,,,,,,,,,,,,,,,,,4899,4855,4812,4769,4725
+"Namibia","NAM","Subnat","NAMr105","Khomas",,,,,,,,,,,,,,,,,,,,,,,,20966,20750,20535,20319,20103
+"Namibia","NAM","Subnat","NAMr106","Kunene",,,,,,,,,,,,,,,,,,,,,,,,7351,7283,7215,7147,7079
+"Namibia","NAM","Subnat","NAMr107","Ohangwena",,,,,,,,,,,,,,,,,,,,,,,,4719,4677,4635,4594,4552
+"Namibia","NAM","Subnat","NAMr109","Omaheke",,,,,,,,,,,,,,,,,,,,,,,,8646,8564,8483,8402,8320
+"Namibia","NAM","Subnat","NAMr110","Omusati",,,,,,,,,,,,,,,,,,,,,,,,5524,5475,5425,5376,5326
+"Namibia","NAM","Subnat","NAMr111","Oshana",,,,,,,,,,,,,,,,,,,,,,,,9098,9012,8926,8840,8754
+"Namibia","NAM","Subnat","NAMr112","Oshikoto",,,,,,,,,,,,,,,,,,,,,,,,7149,7083,7017,6951,6885
+"Namibia","NAM","Subnat","NAMr113","Otjozondjupa",,,,,,,,,,,,,,,,,,,,,,,,14118,13978,13838,13698,13558
+"Nepal","NPL","Subnat","NPLr102","Central",,,,,,,,,,,,,,,,,,,,,,,,2433,2548,2664,2780,2896
+"Nepal","NPL","Subnat","NPLr101","Eastern",,,,,,,,,,,,,,,,,,,,,,,,2222,2326,2430,2535,2639
+"Nepal","NPL","Subnat","NPLr105","Far-western",,,,,,,,,,,,,,,,,,,,,,,,1915,2003,2091,2179,2267
+"Nepal","NPL","Subnat","NPLr104","Mid-western",,,,,,,,,,,,,,,,,,,,,,,,1855,1940,2025,2109,2194
+"Nepal","NPL","Subnat","NPLr103","Western",,,,,,,,,,,,,,,,,,,,,,,,2722,2854,2986,3117,3249
+"Nicaragua","NIC","Subnat","NICr103","Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",,,,,,,,,,,,,,,,,,,,,,,,2814,2707,2600,2493,2385
+"Nicaragua","NIC","Subnat","NICr102","Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",,,,,,,,,,,,,,,,,,,,,,,,4525,4343,4162,3981,3800
+"Nicaragua","NIC","Subnat","NICr101","Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",,,,,,,,,,,,,,,,,,,,,,,,7511,7194,6878,6562,6245
+"Niger","NER","Subnat","NERr101","Agadez",,,,,,,,,,,,,,,,,,,,,,,,1241,1258,1275,1292,1310
+"Niger","NER","Subnat","NERr102","Diffa",,,,,,,,,,,,,,,,,,,,,,,,1003,1017,1030,1044,1057
+"Niger","NER","Subnat","NERr103","Dosso",,,,,,,,,,,,,,,,,,,,,,,,780,790,800,810,820
+"Niger","NER","Subnat","NERr104","Maradi",,,,,,,,,,,,,,,,,,,,,,,,833,844,855,866,876
+"Niger","NER","Subnat","NERr106","Tahoua",,,,,,,,,,,,,,,,,,,,,,,,779,789,799,809,819
+"Niger","NER","Subnat","NERr105","Tillabery (incl Niamey)",,,,,,,,,,,,,,,,,,,,,,,,1237,1254,1271,1288,1305
+"Niger","NER","Subnat","NERr107","Zinder",,,,,,,,,,,,,,,,,,,,,,,,735,744,754,763,773
+"Nigeria","NGA","Subnat","NGAr122","Abia",,,,,,,,,,,,,,,,,,,,,,,,7702,7945,8187,8430,8672
+"Nigeria","NGA","Subnat","NGAr137","Abuja FCT",,,,,,,,,,,,,,,,,,,,,,,,11332,10709,10086,9463,8840
+"Nigeria","NGA","Subnat","NGAr108","Adamawa",,,,,,,,,,,,,,,,,,,,,,,,4707,4522,4336,4151,3965
+"Nigeria","NGA","Subnat","NGAr101","Akwa Ibom",,,,,,,,,,,,,,,,,,,,,,,,7139,6983,6828,6673,6517
+"Nigeria","NGA","Subnat","NGAr102","Anambra",,,,,,,,,,,,,,,,,,,,,,,,10472,10013,9555,9096,8637
+"Nigeria","NGA","Subnat","NGAr103","Bauchi",,,,,,,,,,,,,,,,,,,,,,,,3142,3135,3129,3122,3116
+"Nigeria","NGA","Subnat","NGAr131","Bayelsa",,,,,,,,,,,,,,,,,,,,,,,,6093,5767,5440,5114,4787
+"Nigeria","NGA","Subnat","NGAr105","Benue",,,,,,,,,,,,,,,,,,,,,,,,3847,4033,4220,4407,4594
+"Nigeria","NGA","Subnat","NGAr106","Borno",,,,,,,,,,,,,,,,,,,,,,,,4513,4500,4487,4475,4462
+"Nigeria","NGA","Subnat","NGAr107","Cross River",,,,,,,,,,,,,,,,,,,,,,,,4969,4890,4811,4732,4653
+"Nigeria","NGA","Subnat","NGAr123","Delta",,,,,,,,,,,,,,,,,,,,,,,,7417,7363,7308,7254,7199
+"Nigeria","NGA","Subnat","NGAr132","Ebonyi",,,,,,,,,,,,,,,,,,,,,,,,4001,3946,3891,3836,3781
+"Nigeria","NGA","Subnat","NGAr104","Edo",,,,,,,,,,,,,,,,,,,,,,,,8161,7763,7364,6966,6568
+"Nigeria","NGA","Subnat","NGAr133","Ekiti",,,,,,,,,,,,,,,,,,,,,,,,7443,6865,6287,5709,5131
+"Nigeria","NGA","Subnat","NGAr124","Enugu",,,,,,,,,,,,,,,,,,,,,,,,6130,6102,6074,6047,6019
+"Nigeria","NGA","Subnat","NGAr134","Gombe",,,,,,,,,,,,,,,,,,,,,,,,4130,3983,3836,3688,3541
+"Nigeria","NGA","Subnat","NGAr109","Imo",,,,,,,,,,,,,,,,,,,,,,,,8012,8094,8175,8256,8337
+"Nigeria","NGA","Subnat","NGAr125","Jigawa",,,,,,,,,,,,,,,,,,,,,,,,3260,3147,3033,2920,2807
+"Nigeria","NGA","Subnat","NGAr110","Kaduna",,,,,,,,,,,,,,,,,,,,,,,,6129,5915,5702,5488,5275
+"Nigeria","NGA","Subnat","NGAr111","Kano",,,,,,,,,,,,,,,,,,,,,,,,4742,4590,4439,4288,4137
+"Nigeria","NGA","Subnat","NGAr112","Katsina",,,,,,,,,,,,,,,,,,,,,,,,3879,3820,3762,3704,3646
+"Nigeria","NGA","Subnat","NGAr126","Kebbi",,,,,,,,,,,,,,,,,,,,,,,,3345,3275,3205,3136,3066
+"Nigeria","NGA","Subnat","NGAr127","Kogi",,,,,,,,,,,,,,,,,,,,,,,,5707,5485,5262,5040,4817
+"Nigeria","NGA","Subnat","NGAr113","Kwara",,,,,,,,,,,,,,,,,,,,,,,,7749,7166,6584,6001,5418
+"Nigeria","NGA","Subnat","NGAr114","Lagos",,,,,,,,,,,,,,,,,,,,,,,,11322,10765,10207,9649,9091
+"Nigeria","NGA","Subnat","NGAr135","Nassarawa",,,,,,,,,,,,,,,,,,,,,,,,5679,5744,5809,5874,5939
+"Nigeria","NGA","Subnat","NGAr115","Niger",,,,,,,,,,,,,,,,,,,,,,,,5071,4978,4885,4792,4700
+"Nigeria","NGA","Subnat","NGAr116","Ogun",,,,,,,,,,,,,,,,,,,,,,,,6144,6467,6790,7114,7437
+"Nigeria","NGA","Subnat","NGAr117","Ondo",,,,,,,,,,,,,,,,,,,,,,,,6549,6257,5965,5673,5381
+"Nigeria","NGA","Subnat","NGAr128","Osun",,,,,,,,,,,,,,,,,,,,,,,,6982,6490,5997,5505,5013
+"Nigeria","NGA","Subnat","NGAr118","Oyo",,,,,,,,,,,,,,,,,,,,,,,,6828,6671,6514,6356,6199
+"Nigeria","NGA","Subnat","NGAr119","Plateau",,,,,,,,,,,,,,,,,,,,,,,,4665,4582,4499,4415,4332
+"Nigeria","NGA","Subnat","NGAr120","Rivers",,,,,,,,,,,,,,,,,,,,,,,,7775,7760,7744,7729,7713
+"Nigeria","NGA","Subnat","NGAr121","Sokoto",,,,,,,,,,,,,,,,,,,,,,,,3396,3256,3117,2978,2838
+"Nigeria","NGA","Subnat","NGAr129","Taraba",,,,,,,,,,,,,,,,,,,,,,,,3344,3317,3290,3263,3235
+"Nigeria","NGA","Subnat","NGAr130","Yobe",,,,,,,,,,,,,,,,,,,,,,,,2926,2805,2684,2563,2442
+"Nigeria","NGA","Subnat","NGAr136","Zamfora",,,,,,,,,,,,,,,,,,,,,,,,3091,3091,3091,3091,3091
+"North Macedonia","MKD","Subnat","MKDr108","East",,,,,,,,,,,,,,,,,,,,,,,,9370,9608,9845,10083,10320
+"North Macedonia","MKD","Subnat","MKDr104","North East",,,,,,,,,,,,,,,,,,,,,,,,10256,10518,10781,11044,11307
+"North Macedonia","MKD","Subnat","MKDr102","Pelagoniski",,,,,,,,,,,,,,,,,,,,,,,,11843,12151,12460,12768,13077
+"North Macedonia","MKD","Subnat","MKDr107","Poloski",,,,,,,,,,,,,,,,,,,,,,,,12806,13142,13479,13816,14153
+"North Macedonia","MKD","Subnat","MKDr101","Skopski",,,,,,,,,,,,,,,,,,,,,,,,12910,13249,13589,13929,14269
+"North Macedonia","MKD","Subnat","MKDr106","South East",,,,,,,,,,,,,,,,,,,,,,,,11516,11815,12114,12413,12713
+"North Macedonia","MKD","Subnat","MKDr105","South West",,,,,,,,,,,,,,,,,,,,,,,,12448,12774,13101,13427,13753
+"North Macedonia","MKD","Subnat","MKDr103","Vardarski",,,,,,,,,,,,,,,,,,,,,,,,10074,10332,10589,10847,11104
+"Pakistan","PAK","Subnat","PAKr107","AJK",,,,,,,,,,,,,,,,,,,,,,,,5452,5547,5643,5738,5834
+"Pakistan","PAK","Subnat","PAKr104","Balochistan",,,,,,,,,,,,,,,,,,,,,,,,3073,3462,3850,4239,4628
+"Pakistan","PAK","Subnat","PAKr108","FATA",,,,,,,,,,,,,,,,,,,,,,,,2360,2397,2434,2471,2509
+"Pakistan","PAK","Subnat","PAKr106","Gilgit Baltistan",,,,,,,,,,,,,,,,,,,,,,,,4061,4758,5455,6152,6849
+"Pakistan","PAK","Subnat","PAKr105","Islamabad (ICT)",,,,,,,,,,,,,,,,,,,,,,,,8836,8759,8682,8605,8527
+"Pakistan","PAK","Subnat","PAKr103","Khyber Pakhtunkhwa (NWFrontier)",,,,,,,,,,,,,,,,,,,,,,,,3740,3887,4034,4181,4328
+"Pakistan","PAK","Subnat","PAKr101","Punjab",,,,,,,,,,,,,,,,,,,,,,,,4954,5091,5229,5366,5503
+"Pakistan","PAK","Subnat","PAKr102","Sindh",,,,,,,,,,,,,,,,,,,,,,,,4202,4272,4343,4413,4483
+"Palestine","PSE","Subnat","PSEr104","Bethlehem, Hebron",,,,,,,,,,,,,,,,,,,,,,,,5793,5826,5860,5893,5926
+"Palestine","PSE","Subnat","PSEr106","Deir El-Balah, Khan Yunis, Rafah",,,,,,,,,,,,,,,,,,,,,,,,3973,3995,4017,4039,4061
+"Palestine","PSE","Subnat","PSEr101","Jenin, Tubas, Tulkarm, Nablus, Qalqiliya",,,,,,,,,,,,,,,,,,,,,,,,5953,5987,6021,6056,6090
+"Palestine","PSE","Subnat","PSEr103","Jerusalem",,,,,,,,,,,,,,,,,,,,,,,,6588,6626,6665,6703,6741
+"Palestine","PSE","Subnat","PSEr105","North Gaza, Gaza",,,,,,,,,,,,,,,,,,,,,,,,3994,4016,4038,4060,4082
+"Palestine","PSE","Subnat","PSEr102","Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar",,,,,,,,,,,,,,,,,,,,,,,,6517,6555,6593,6631,6669
+"Panama","PAN","Subnat","PANr101","Bocas del Toro",,,,,,,,,,,,,,,,,,,,,,,,11767,11997,12226,12456,12685
+"Panama","PAN","Subnat","PANr104","Chiriqui",,,,,,,,,,,,,,,,,,,,,,,,19841,20251,20661,21071,21482
+"Panama","PAN","Subnat","PANr102","Cocle",,,,,,,,,,,,,,,,,,,,,,,,15280,15587,15894,16201,16508
+"Panama","PAN","Subnat","PANr103","Colon",,,,,,,,,,,,,,,,,,,,,,,,20575,21002,21429,21856,22283
+"Panama","PAN","Subnat","PANr105","Darien",,,,,,,,,,,,,,,,,,,,,,,,9197,9371,9545,9720,9894
+"Panama","PAN","Subnat","PANr111","Embera Wounaan",,,,,,,,,,,,,,,,,,,,,,,,3641,3703,3764,3826,3888
+"Panama","PAN","Subnat","PANr106","Herrera",,,,,,,,,,,,,,,,,,,,,,,,19699,20106,20512,20919,21326
+"Panama","PAN","Subnat","PANr110","Kuna Yala",,,,,,,,,,,,,,,,,,,,,,,,3500,3559,3618,3677,3735
+"Panama","PAN","Subnat","PANr107","Los Santos",,,,,,,,,,,,,,,,,,,,,,,,19955,20368,20781,21194,21607
+"Panama","PAN","Subnat","PANr112","Ngobe Bugle",,,,,,,,,,,,,,,,,,,,,,,,2525,2566,2607,2647,2688
+"Panama","PAN","Subnat","PANr108","Panama",,,,,,,,,,,,,,,,,,,,,,,,24157,24667,25177,25687,26197
+"Panama","PAN","Subnat","PANr109","Veraguas",,,,,,,,,,,,,,,,,,,,,,,,10786,10994,11202,11411,11619
+"Papua New Guinea","PNG","Subnat","PNGr120","Autonomous Region of Bougainville",,,,,,,,,,,,,,,,,,,,,,,,4004,3925,3846,3767,3689
+"Papua New Guinea","PNG","Subnat","PNGr103","Central",,,,,,,,,,,,,,,,,,,,,,,,4622,4529,4437,4345,4252
+"Papua New Guinea","PNG","Subnat","PNGr110","Chimbu, Simbu",,,,,,,,,,,,,,,,,,,,,,,,4590,4499,4407,4315,4224
+"Papua New Guinea","PNG","Subnat","PNGr118","East New Britain",,,,,,,,,,,,,,,,,,,,,,,,4641,4548,4455,4362,4270
+"Papua New Guinea","PNG","Subnat","PNGr114","East Sepik",,,,,,,,,,,,,,,,,,,,,,,,3795,3720,3646,3572,3498
+"Papua New Guinea","PNG","Subnat","PNGr111","Eastern Highlands",,,,,,,,,,,,,,,,,,,,,,,,3311,3247,3183,3120,3056
+"Papua New Guinea","PNG","Subnat","PNGr108","Enga",,,,,,,,,,,,,,,,,,,,,,,,3293,3230,3167,3103,3040
+"Papua New Guinea","PNG","Subnat","PNGr102","Gulf",,,,,,,,,,,,,,,,,,,,,,,,3361,3296,3232,3167,3102
+"Papua New Guinea","PNG","Subnat","PNGr121","Hela",,,,,,,,,,,,,,,,,,,,,,,,2528,2481,2434,2387,2339
+"Papua New Guinea","PNG","Subnat","PNGr122","Jiwaka",,,,,,,,,,,,,,,,,,,,,,,,3366,3301,3236,3171,3107
+"Papua New Guinea","PNG","Subnat","PNGr113","Madang",,,,,,,,,,,,,,,,,,,,,,,,3719,3647,3574,3502,3429
+"Papua New Guinea","PNG","Subnat","PNGr116","Manus",,,,,,,,,,,,,,,,,,,,,,,,4803,4707,4610,4514,4418
+"Papua New Guinea","PNG","Subnat","PNGr105","Milne Bay",,,,,,,,,,,,,,,,,,,,,,,,3722,3650,3577,3504,3432
+"Papua New Guinea","PNG","Subnat","PNGr112","Morobe",,,,,,,,,,,,,,,,,,,,,,,,5910,5789,5668,5546,5425
+"Papua New Guinea","PNG","Subnat","PNGr104","National Capital District",,,,,,,,,,,,,,,,,,,,,,,,26141,25520,24899,24278,23657
+"Papua New Guinea","PNG","Subnat","PNGr117","New Ireland",,,,,,,,,,,,,,,,,,,,,,,,3923,3846,3769,3692,3615
+"Papua New Guinea","PNG","Subnat","PNGr106","Northern, Oro",,,,,,,,,,,,,,,,,,,,,,,,3965,3887,3809,3731,3653
+"Papua New Guinea","PNG","Subnat","PNGr107","Southern Highlands",,,,,,,,,,,,,,,,,,,,,,,,3007,2949,2892,2835,2778
+"Papua New Guinea","PNG","Subnat","PNGr119","West New Britain",,,,,,,,,,,,,,,,,,,,,,,,4971,4871,4771,4671,4571
+"Papua New Guinea","PNG","Subnat","PNGr115","West Sepik, Sandaun",,,,,,,,,,,,,,,,,,,,,,,,3232,3170,3108,3046,2983
+"Papua New Guinea","PNG","Subnat","PNGr101","Western",,,,,,,,,,,,,,,,,,,,,,,,3529,3461,3392,3324,3255
+"Papua New Guinea","PNG","Subnat","PNGr109","Western Highlands",,,,,,,,,,,,,,,,,,,,,,,,4466,4377,4288,4199,4110
+"Paraguay","PRY","Subnat","PRYr105","Central (Asuncion, Central)",,,,,,,,,,,,,,,,,,,,,,,,14004,14401,14798,15195,15592
+"Paraguay","PRY","Subnat","PRYr102","North-East (Caaguazu, Alto Parana, Canideyu)",,,,,,,,,,,,,,,,,,,,,,,,9141,9388,9634,9881,10127
+"Paraguay","PRY","Subnat","PRYr101","North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",,,,,,,,,,,,,,,,,,,,,,,,8055,8269,8483,8697,8911
+"Paraguay","PRY","Subnat","PRYr104","South-East (Guaira, Misiones, Paraguari, Neembucu)",,,,,,,,,,,,,,,,,,,,,,,,10261,10541,10822,11102,11383
+"Paraguay","PRY","Subnat","PRYr103","South-West (Caazapa, Itapua)",,,,,,,,,,,,,,,,,,,,,,,,9310,9561,9813,10064,10316
+"Peru","PER","Subnat","PERr106","Central (Huancavelica, Huanuco, Junin, Pasco)",,,,,,,,,,,,,,,,,,,,,,,,7555,7775,7996,8217,8437
+"Peru","PER","Subnat","PERr103","East (Madre de Dios, Cusco, Puno, Apurimac)",,,,,,,,,,,,,,,,,,,,,,,,6636,6827,7017,7208,7399
+"Peru","PER","Subnat","PERr101","North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",,,,,,,,,,,,,,,,,,,,,,,,9175,9450,9724,9999,10273
+"Peru","PER","Subnat","PERr102","North East (Amazonas, Loreto, San Martin, Ucayali)",,,,,,,,,,,,,,,,,,,,,,,,7518,7737,7957,8176,8395
+"Peru","PER","Subnat","PERr104","South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",,,,,,,,,,,,,,,,,,,,,,,,11510,11864,12217,12571,12925
+"Peru","PER","Subnat","PERr105","West (Ancash, Lima, Callao)",,,,,,,,,,,,,,,,,,,,,,,,17412,17974,18535,19097,19658
+"Philippines","PHL","Subnat","PHLr117","ARMM",,,,,,,,,,,,,,,,,,,,,,,,3415,3572,3728,3885,4041
+"Philippines","PHL","Subnat","PHLr102","Cordillera Admin Region",,,,,,,,,,,,,,,,,,,,,,,,8253,8679,9106,9532,9959
+"Philippines","PHL","Subnat","PHLr103","I-Ilocos",,,,,,,,,,,,,,,,,,,,,,,,8760,9216,9672,10129,10585
+"Philippines","PHL","Subnat","PHLr104","II-Cagayan Valley",,,,,,,,,,,,,,,,,,,,,,,,7069,7427,7785,8143,8501
+"Philippines","PHL","Subnat","PHLr105","III-Central Luzon",,,,,,,,,,,,,,,,,,,,,,,,9931,10457,10982,11508,12034
+"Philippines","PHL","Subnat","PHLr106","IVA-CALABARZON",,,,,,,,,,,,,,,,,,,,,,,,10297,10845,11392,11940,12488
+"Philippines","PHL","Subnat","PHLr107","IVB-MIMAROPA",,,,,,,,,,,,,,,,,,,,,,,,6171,6478,6785,7092,7399
+"Philippines","PHL","Subnat","PHLr112","IX-Zamboanga Peninsula",,,,,,,,,,,,,,,,,,,,,,,,5846,6135,6423,6712,7001
+"Philippines","PHL","Subnat","PHLr101","National Capital Region",,,,,,,,,,,,,,,,,,,,,,,,12049,12703,13357,14011,14665
+"Philippines","PHL","Subnat","PHLr108","V-Bicol",,,,,,,,,,,,,,,,,,,,,,,,6020,6318,6617,6915,7213
+"Philippines","PHL","Subnat","PHLr109","VI-Western Visayas",,,,,,,,,,,,,,,,,,,,,,,,6397,6716,7036,7356,7675
+"Philippines","PHL","Subnat","PHLr110","VII-Central Visayas",,,,,,,,,,,,,,,,,,,,,,,,7330,7703,8076,8449,8822
+"Philippines","PHL","Subnat","PHLr111","VIII-Eastern Visayas",,,,,,,,,,,,,,,,,,,,,,,,6575,6905,7235,7565,7895
+"Philippines","PHL","Subnat","PHLr113","X-Northern Mindanao",,,,,,,,,,,,,,,,,,,,,,,,6676,7012,7347,7683,8018
+"Philippines","PHL","Subnat","PHLr114","XI-Davao",,,,,,,,,,,,,,,,,,,,,,,,5878,6169,6459,6750,7040
+"Philippines","PHL","Subnat","PHLr115","XII-SOCCSKSARGEN",,,,,,,,,,,,,,,,,,,,,,,,5646,5923,6201,6478,6756
+"Philippines","PHL","Subnat","PHLr116","XIII-Caraga",,,,,,,,,,,,,,,,,,,,,,,,7185,7549,7914,8279,8643
+"Rwanda","RWA","Subnat","RWAr101","City of Kigali",,,,,,,,,,,,,,,,,,,,,,,,3088,3339,3591,3842,4094
+"Rwanda","RWA","Subnat","RWAr105","East",,,,,,,,,,,,,,,,,,,,,,,,1462,1567,1672,1777,1882
+"Rwanda","RWA","Subnat","RWAr104","North",,,,,,,,,,,,,,,,,,,,,,,,1385,1483,1582,1681,1779
+"Rwanda","RWA","Subnat","RWAr102","South",,,,,,,,,,,,,,,,,,,,,,,,1293,1384,1475,1566,1657
+"Rwanda","RWA","Subnat","RWAr103","West",,,,,,,,,,,,,,,,,,,,,,,,1392,1491,1590,1689,1789
+"Sao Tome & Principe","STP","Subnat","STPr101","Regiao Centro",,,,,,,,,,,,,,,,,,,,,,,,3385,3411,3437,3464,3490
+"Sao Tome & Principe","STP","Subnat","STPr104","Regiao do Principe",,,,,,,,,,,,,,,,,,,,,,,,2841,2863,2884,2906,2927
+"Sao Tome & Principe","STP","Subnat","STPr103","Regiao Norte",,,,,,,,,,,,,,,,,,,,,,,,2202,2218,2234,2250,2266
+"Sao Tome & Principe","STP","Subnat","STPr102","Regiao Sul",,,,,,,,,,,,,,,,,,,,,,,,2057,2072,2087,2102,2117
+"Saudi Arabia","SAU","Subnat","SAUr101","Center (Riadh, Qassim)",,,,,,,,,,,,,,,,,,,,,,,,55058,55022,54986,54949,54913
+"Saudi Arabia","SAU","Subnat","SAUr104","Eastern province",,,,,,,,,,,,,,,,,,,,,,,,53425,53390,53355,53320,53285
+"Saudi Arabia","SAU","Subnat","SAUr105","North (Northern Borders, Al Jawf, Hail)",,,,,,,,,,,,,,,,,,,,,,,,66844,66799,66754,66709,66664
+"Saudi Arabia","SAU","Subnat","SAUr103","South (Bahah, Jizan, Asir, Najran)",,,,,,,,,,,,,,,,,,,,,,,,51277,51243,51209,51176,51142
+"Saudi Arabia","SAU","Subnat","SAUr102","West (Makka, Madinah, Tabuk)",,,,,,,,,,,,,,,,,,,,,,,,42424,42397,42369,42342,42315
+"Senegal","SEN","Subnat","SENr101","Dakar",,,,,,,,,,,,,,,,,,,,,,,,5014,5243,5471,5700,5929
+"Senegal","SEN","Subnat","SENr103","Diourbel",,,,,,,,,,,,,,,,,,,,,,,,2491,2594,2697,2800,2902
+"Senegal","SEN","Subnat","SENr109","Fatick",,,,,,,,,,,,,,,,,,,,,,,,1936,2013,2090,2167,2244
+"Senegal","SEN","Subnat","SENr106","Kaolack",,,,,,,,,,,,,,,,,,,,,,,,1918,1994,2070,2147,2223
+"Senegal","SEN","Subnat","SENr110","Kolda",,,,,,,,,,,,,,,,,,,,,,,,1275,1323,1370,1418,1466
+"Senegal","SEN","Subnat","SENr108","Louga",,,,,,,,,,,,,,,,,,,,,,,,2269,2361,2454,2546,2639
+"Senegal","SEN","Subnat","SENr104","Saint Louis",,,,,,,,,,,,,,,,,,,,,,,,2336,2431,2527,2623,2718
+"Senegal","SEN","Subnat","SENr105","Tambacounda",,,,,,,,,,,,,,,,,,,,,,,,1561,1621,1681,1742,1802
+"Senegal","SEN","Subnat","SENr107","Thies",,,,,,,,,,,,,,,,,,,,,,,,3147,3282,3416,3551,3685
+"Senegal","SEN","Subnat","SENr102","Ziguinchor",,,,,,,,,,,,,,,,,,,,,,,,2148,2235,2322,2408,2495
+"Serbia","SRB","Subnat","SRBr101","Belgrade",,,,,,,,,,,,,,,,,,,,,,,,11846,12819,13792,14765,15738
+"Serbia","SRB","Subnat","SRBr104","South and East Serbia",,,,,,,,,,,,,,,,,,,,,,,,11137,12045,12952,13859,14766
+"Serbia","SRB","Subnat","SRBr103","Sumadija and West Serbia",,,,,,,,,,,,,,,,,,,,,,,,11479,12417,13356,14295,15234
+"Serbia","SRB","Subnat","SRBr102","Vojvodina",,,,,,,,,,,,,,,,,,,,,,,,11402,12333,13265,14197,15128
+"Sierra Leone","SLE","Subnat","SLEr109","Bo",,,,,,,,,,,,,,,,,,,,,,,,1222,1241,1261,1280,1300
+"Sierra Leone","SLE","Subnat","SLEr101","Bombali",,,,,,,,,,,,,,,,,,,,,,,,1203,1222,1241,1261,1280
+"Sierra Leone","SLE","Subnat","SLEr110","Bonthe",,,,,,,,,,,,,,,,,,,,,,,,951,965,980,995,1009
+"Sierra Leone","SLE","Subnat","SLEr106","Kailahun",,,,,,,,,,,,,,,,,,,,,,,,952,966,981,996,1010
+"Sierra Leone","SLE","Subnat","SLEr102","Kambia",,,,,,,,,,,,,,,,,,,,,,,,990,1005,1021,1036,1051
+"Sierra Leone","SLE","Subnat","SLEr107","Kenema",,,,,,,,,,,,,,,,,,,,,,,,1257,1277,1297,1317,1337
+"Sierra Leone","SLE","Subnat","SLEr103","Koinadugu",,,,,,,,,,,,,,,,,,,,,,,,931,946,960,974,988
+"Sierra Leone","SLE","Subnat","SLEr108","Kono",,,,,,,,,,,,,,,,,,,,,,,,1024,1040,1056,1072,1088
+"Sierra Leone","SLE","Subnat","SLEr111","Moyamba",,,,,,,,,,,,,,,,,,,,,,,,877,891,904,917,931
+"Sierra Leone","SLE","Subnat","SLEr104","Port Loko",,,,,,,,,,,,,,,,,,,,,,,,1120,1138,1155,1173,1191
+"Sierra Leone","SLE","Subnat","SLEr112","Pujehun",,,,,,,,,,,,,,,,,,,,,,,,915,929,943,957,971
+"Sierra Leone","SLE","Subnat","SLEr105","Tonkolili",,,,,,,,,,,,,,,,,,,,,,,,799,810,822,834,846
+"Sierra Leone","SLE","Subnat","SLEr113","Western Rural",,,,,,,,,,,,,,,,,,,,,,,,1736,1765,1794,1824,1853
+"Sierra Leone","SLE","Subnat","SLEr114","Western Urban",,,,,,,,,,,,,,,,,,,,,,,,2859,2911,2962,3013,3065
+"Somalia","SOM","Subnat","SOMr102","Awdal",,,,,,,,,,,,,,,,,,,,,,,,1052,1128,1204,1280,1356
+"Somalia","SOM","Subnat","SOMr109","Bakool",,,,,,,,,,,,,,,,,,,,,,,,635,677,719,760,802
+"Somalia","SOM","Subnat","SOMr116","Banadir",,,,,,,,,,,,,,,,,,,,,,,,2066,2234,2402,2570,2738
+"Somalia","SOM","Subnat","SOMr108","Bari",,,,,,,,,,,,,,,,,,,,,,,,1436,1546,1655,1765,1875
+"Somalia","SOM","Subnat","SOMr110","Bay",,,,,,,,,,,,,,,,,,,,,,,,674,718,763,808,853
+"Somalia","SOM","Subnat","SOMr117","Galguduud",,,,,,,,,,,,,,,,,,,,,,,,717,765,813,861,910
+"Somalia","SOM","Subnat","SOMr111","Gedo",,,,,,,,,,,,,,,,,,,,,,,,759,811,863,915,966
+"Somalia","SOM","Subnat","SOMr113","Hiran",,,,,,,,,,,,,,,,,,,,,,,,748,799,849,900,951
+"Somalia","SOM","Subnat","SOMr118","Lower Juba",,,,,,,,,,,,,,,,,,,,,,,,678,724,769,814,859
+"Somalia","SOM","Subnat","SOMr115","Lower Shabelle",,,,,,,,,,,,,,,,,,,,,,,,827,885,942,999,1057
+"Somalia","SOM","Subnat","SOMr112","Middle Juba",,,,,,,,,,,,,,,,,,,,,,,,663,707,751,795,839
+"Somalia","SOM","Subnat","SOMr114","Middle Shabelle",,,,,,,,,,,,,,,,,,,,,,,,837,895,953,1011,1069
+"Somalia","SOM","Subnat","SOMr106","Mudug",,,,,,,,,,,,,,,,,,,,,,,,1079,1157,1235,1314,1392
+"Somalia","SOM","Subnat","SOMr107","Nugal",,,,,,,,,,,,,,,,,,,,,,,,944,1011,1078,1145,1212
+"Somalia","SOM","Subnat","SOMr103","Sanaag",,,,,,,,,,,,,,,,,,,,,,,,1113,1195,1276,1357,1439
+"Somalia","SOM","Subnat","SOMr104","Sool",,,,,,,,,,,,,,,,,,,,,,,,843,902,961,1019,1078
+"Somalia","SOM","Subnat","SOMr105","Togdhere",,,,,,,,,,,,,,,,,,,,,,,,733,782,832,882,931
+"Somalia","SOM","Subnat","SOMr101","W Galbeed",,,,,,,,,,,,,,,,,,,,,,,,1835,1982,2128,2275,2421
+"South Africa","ZAF","Subnat","ZAFr102","Eastern Cape",,,,,,,,,,,,,,,,,,,,,,,,9241,9162,9083,9004,8925
+"South Africa","ZAF","Subnat","ZAFr104","Free State",,,,,,,,,,,,,,,,,,,,,,,,15616,15475,15334,15193,15052
+"South Africa","ZAF","Subnat","ZAFr107","Gauteng",,,,,,,,,,,,,,,,,,,,,,,,13669,13547,13425,13303,13182
+"South Africa","ZAF","Subnat","ZAFr105","KwaZulu Natal",,,,,,,,,,,,,,,,,,,,,,,,11362,11262,11163,11064,10964
+"South Africa","ZAF","Subnat","ZAFr108","Mpumalanga",,,,,,,,,,,,,,,,,,,,,,,,9847,9762,9677,9593,9508
+"South Africa","ZAF","Subnat","ZAFr106","North West",,,,,,,,,,,,,,,,,,,,,,,,10019,9933,9846,9760,9673
+"South Africa","ZAF","Subnat","ZAFr103","Northern Cape",,,,,,,,,,,,,,,,,,,,,,,,13669,13547,13425,13303,13182
+"South Africa","ZAF","Subnat","ZAFr109","Northern Province",,,,,,,,,,,,,,,,,,,,,,,,9415,9334,9254,9173,9092
+"South Africa","ZAF","Subnat","ZAFr101","Western Cape",,,,,,,,,,,,,,,,,,,,,,,,20102,19916,19730,19544,19358
+"South Sudan","SSD","Subnat","SSDr109","Central Equatoria",,,,,,,,,,,,,,,,,,,,,,,,2114,2033,1953,1873,1793
+"South Sudan","SSD","Subnat","SSDr110","Eastern Equatoria",,,,,,,,,,,,,,,,,,,,,,,,1481,1427,1373,1319,1265
+"South Sudan","SSD","Subnat","SSDr102","Jonglei",,,,,,,,,,,,,,,,,,,,,,,,1519,1464,1408,1353,1298
+"South Sudan","SSD","Subnat","SSDr107","Lakes",,,,,,,,,,,,,,,,,,,,,,,,1913,1842,1770,1698,1626
+"South Sudan","SSD","Subnat","SSDr105","Northern Bahr El Ghazal",,,,,,,,,,,,,,,,,,,,,,,,1560,1503,1445,1388,1331
+"South Sudan","SSD","Subnat","SSDr103","Unity",,,,,,,,,,,,,,,,,,,,,,,,1700,1637,1574,1512,1449
+"South Sudan","SSD","Subnat","SSDr101","Upper Nile",,,,,,,,,,,,,,,,,,,,,,,,1952,1879,1805,1732,1659
+"South Sudan","SSD","Subnat","SSDr104","Warrap",,,,,,,,,,,,,,,,,,,,,,,,1478,1424,1371,1317,1263
+"South Sudan","SSD","Subnat","SSDr106","Western Bahr El Ghazal",,,,,,,,,,,,,,,,,,,,,,,,1894,1823,1752,1681,1610
+"South Sudan","SSD","Subnat","SSDr108","Western Equatoria",,,,,,,,,,,,,,,,,,,,,,,,1873,1803,1733,1663,1593
+"Sudan","SDN","Subnat","SDNr105","Al Gedarif",,,,,,,,,,,,,,,,,,,,,,,,3038,2953,2869,2784,2700
+"Sudan","SDN","Subnat","SDNr107","Al Gezira",,,,,,,,,,,,,,,,,,,,,,,,7437,7209,6982,6754,6526
+"Sudan","SDN","Subnat","SDNr110","Blue Nile",,,,,,,,,,,,,,,,,,,,,,,,4205,4084,3963,3841,3720
+"Sudan","SDN","Subnat","SDNr104","Kassala",,,,,,,,,,,,,,,,,,,,,,,,3632,3529,3426,3322,3219
+"Sudan","SDN","Subnat","SDNr106","Khartoum",,,,,,,,,,,,,,,,,,,,,,,,11466,11100,10734,10367,10001
+"Sudan","SDN","Subnat","SDNr102","Nahr El Nil",,,,,,,,,,,,,,,,,,,,,,,,8467,8205,7942,7680,7417
+"Sudan","SDN","Subnat","SDNr113","North Darfur",,,,,,,,,,,,,,,,,,,,,,,,2307,2245,2182,2120,2058
+"Sudan","SDN","Subnat","SDNr111","North Kordofan",,,,,,,,,,,,,,,,,,,,,,,,2845,2766,2688,2609,2531
+"Sudan","SDN","Subnat","SDNr101","Northern",,,,,,,,,,,,,,,,,,,,,,,,12461,12060,11659,11258,10857
+"Sudan","SDN","Subnat","SDNr103","Red Sea",,,,,,,,,,,,,,,,,,,,,,,,3950,3837,3724,3610,3497
+"Sudan","SDN","Subnat","SDNr109","Sinnar",,,,,,,,,,,,,,,,,,,,,,,,4473,4343,4213,4083,3953
+"Sudan","SDN","Subnat","SDNr115","South Darfur",,,,,,,,,,,,,,,,,,,,,,,,2497,2429,2361,2293,2225
+"Sudan","SDN","Subnat","SDNr112","South Kordofan",,,,,,,,,,,,,,,,,,,,,,,,2605,2534,2463,2392,2320
+"Sudan","SDN","Subnat","SDNr114","West Darfur",,,,,,,,,,,,,,,,,,,,,,,,2433,2367,2301,2235,2169
+"Sudan","SDN","Subnat","SDNr108","White Nile",,,,,,,,,,,,,,,,,,,,,,,,4117,3998,3880,3761,3643
+"Suriname","SUR","Subnat","SURr105","Brokopondo and Sipaliwini",,,,,,,,,,,,,,,,,,,,,,,,2962,3039,3116,3194,3271
+"Suriname","SUR","Subnat","SURr104","Commewijne and Marowijne",,,,,,,,,,,,,,,,,,,,,,,,8493,8747,9001,9254,9508
+"Suriname","SUR","Subnat","SURr103","Nickerie, Coronie and Saramacca",,,,,,,,,,,,,,,,,,,,,,,,12545,12938,13331,13723,14116
+"Suriname","SUR","Subnat","SURr101","Paramaribo",,,,,,,,,,,,,,,,,,,,,,,,13547,13975,14403,14831,15258
+"Suriname","SUR","Subnat","SURr102","Wanica and Para",,,,,,,,,,,,,,,,,,,,,,,,11610,11970,12330,12690,13050
+"Syria","SYR","Subnat","SYRr111","Al Hasaka",,,,,,,,,,,,,,,,,4690,4477,4265,4052,3840,3628,3415,3203,,,,
+"Syria","SYR","Subnat","SYRr106","Al Latakia",,,,,,,,,,,,,,,,,7596,7235,6875,6515,6154,5794,5433,5073,,,,
+"Syria","SYR","Subnat","SYRr114","Al Qunitara - Quneitra",,,,,,,,,,,,,,,,,6828,6507,6186,5865,5545,5224,4903,4583,,,,
+"Syria","SYR","Subnat","SYRr109","Al Raka-Raqqa",,,,,,,,,,,,,,,,,5012,4784,4555,4327,4098,3870,3641,3413,,,,
+"Syria","SYR","Subnat","SYRr112","Al Swida - Sweida",,,,,,,,,,,,,,,,,7613,7252,6890,6529,6168,5806,5445,5084,,,,
+"Syria","SYR","Subnat","SYRr101","Damascus",,,,,,,,,,,,,,,,,8963,8531,8100,7668,7236,6804,6372,5940,,,,
+"Syria","SYR","Subnat","SYRr113","Daraa",,,,,,,,,,,,,,,,,7228,6887,6545,6204,5863,5521,5180,4838,,,,
+"Syria","SYR","Subnat","SYRr110","Der El Zour - Deir Ezzor",,,,,,,,,,,,,,,,,6141,5855,5570,5284,4999,4713,4428,4142,,,,
+"Syria","SYR","Subnat","SYRr107","Edlab Idleb",,,,,,,,,,,,,,,,,6860,6538,6215,5893,5571,5248,4926,4604,,,,
+"Syria","SYR","Subnat","SYRr108","Halab - Aleppo",,,,,,,,,,,,,,,,,7130,6793,6457,6121,5785,5448,5112,4776,,,,
+"Syria","SYR","Subnat","SYRr104","Hamaa",,,,,,,,,,,,,,,,,7035,6704,6372,6041,5709,5378,5047,4715,,,,
+"Syria","SYR","Subnat","SYRr103","Homs",,,,,,,,,,,,,,,,,7742,7374,7006,6638,6270,5902,5534,5166,,,,
+"Syria","SYR","Subnat","SYRr102","Rural Damascus",,,,,,,,,,,,,,,,,7216,6876,6535,6194,5853,5513,5172,4831,,,,
+"Syria","SYR","Subnat","SYRr105","Tartous",,,,,,,,,,,,,,,,,7476,7122,6768,6413,6059,5705,5351,4997,,,,
+"Tajikistan","TJK","Subnat","TJKr104","DRS",,,,,,,,,,,,,,,,,,,,,,,,2624,2846,3068,3291,3513
+"Tajikistan","TJK","Subnat","TJKr101","Duchanbe",,,,,,,,,,,,,,,,,,,,,,,,4201,4585,4969,5354,5738
+"Tajikistan","TJK","Subnat","TJKr105","GBAO",,,,,,,,,,,,,,,,,,,,,,,,2378,2576,2775,2973,3171
+"Tajikistan","TJK","Subnat","TJKr102","Khatlon",,,,,,,,,,,,,,,,,,,,,,,,2300,2491,2682,2873,3064
+"Tajikistan","TJK","Subnat","TJKr103","Sughd (formerly Leninabad)",,,,,,,,,,,,,,,,,,,,,,,,2490,2699,2908,3117,3327
+"Tanzania","TZA","Subnat","TZAr202"," Arusha, Manyara",,,,,,,,,,,,,,,,,,,,,,,,2486,2546,2606,2666,2726
+"Tanzania","TZA","Subnat","TZAr207"," Dar Es Salam",,,,,,,,,,,,,,,,,,,,,,,,6389,6563,6738,6913,7088
+"Tanzania","TZA","Subnat","TZAr201"," Dodoma",,,,,,,,,,,,,,,,,,,,,,,,1736,1776,1816,1856,1896
+"Tanzania","TZA","Subnat","TZAr211"," Iringa, Njombe",,,,,,,,,,,,,,,,,,,,,,,,2617,2681,2744,2808,2872
+"Tanzania","TZA","Subnat","TZAr218"," Kagera",,,,,,,,,,,,,,,,,,,,,,,,1947,1992,2038,2083,2129
+"Tanzania","TZA","Subnat","TZAr216"," Kigoma",,,,,,,,,,,,,,,,,,,,,,,,1957,2003,2049,2094,2140
+"Tanzania","TZA","Subnat","TZAr203"," Kilimanjaro",,,,,,,,,,,,,,,,,,,,,,,,3974,4076,4179,4281,4384
+"Tanzania","TZA","Subnat","TZAr208"," Lindi",,,,,,,,,,,,,,,,,,,,,,,,1973,2019,2065,2112,2158
+"Tanzania","TZA","Subnat","TZAr220"," Mara",,,,,,,,,,,,,,,,,,,,,,,,2248,2302,2355,2409,2462
+"Tanzania","TZA","Subnat","TZAr212"," Mbeya",,,,,,,,,,,,,,,,,,,,,,,,2284,2338,2393,2448,2502
+"Tanzania","TZA","Subnat","TZAr205"," Morogoro",,,,,,,,,,,,,,,,,,,,,,,,2283,2338,2392,2447,2501
+"Tanzania","TZA","Subnat","TZAr209"," Mtwara",,,,,,,,,,,,,,,,,,,,,,,,2010,2057,2105,2152,2199
+"Tanzania","TZA","Subnat","TZAr219"," Mwanza, Geita",,,,,,,,,,,,,,,,,,,,,,,,2229,2282,2335,2388,2441
+"Tanzania","TZA","Subnat","TZAr224"," Pemba North",,,,,,,,,,,,,,,,,,,,,,,,3414,3500,3586,3672,3759
+"Tanzania","TZA","Subnat","TZAr225"," Pemba South",,,,,,,,,,,,,,,,,,,,,,,,3803,3901,3998,4095,4193
+"Tanzania","TZA","Subnat","TZAr206"," Pwani",,,,,,,,,,,,,,,,,,,,,,,,2356,2412,2469,2525,2582
+"Tanzania","TZA","Subnat","TZAr215"," Rukwa, Katavi",,,,,,,,,,,,,,,,,,,,,,,,1792,1834,1875,1917,1958
+"Tanzania","TZA","Subnat","TZAr210"," Ruvuma",,,,,,,,,,,,,,,,,,,,,,,,2315,2370,2425,2481,2536
+"Tanzania","TZA","Subnat","TZAr217"," Shinyanga, Simiyu",,,,,,,,,,,,,,,,,,,,,,,,2223,2276,2329,2382,2435
+"Tanzania","TZA","Subnat","TZAr213"," Singida",,,,,,,,,,,,,,,,,,,,,,,,2015,2062,2110,2157,2204
+"Tanzania","TZA","Subnat","TZAr214"," Tabora",,,,,,,,,,,,,,,,,,,,,,,,2107,2157,2207,2257,2306
+"Tanzania","TZA","Subnat","TZAr204"," Tanga",,,,,,,,,,,,,,,,,,,,,,,,3036,3111,3186,3262,3337
+"Tanzania","TZA","Subnat","TZAr221"," Zanzibar North",,,,,,,,,,,,,,,,,,,,,,,,3214,3294,3374,3455,3535
+"Tanzania","TZA","Subnat","TZAr222"," Zanzibar South",,,,,,,,,,,,,,,,,,,,,,,,4057,4162,4267,4372,4477
+"Tanzania","TZA","Subnat","TZAr223"," Zanzibar West",,,,,,,,,,,,,,,,,,,,,,,,9647,9925,10202,10480,10758
+"Thailand","THA","Subnat","THAr101","Bangkok",,,,,,,,,,,,,,,,,,,,,,,,14983,15619,16255,16890,17526
+"Thailand","THA","Subnat","THAr102","Central",,,,,,,,,,,,,,,,,,,,,,,,13951,14538,15125,15711,16298
+"Thailand","THA","Subnat","THAr103","North",,,,,,,,,,,,,,,,,,,,,,,,13643,14215,14788,15360,15933
+"Thailand","THA","Subnat","THAr104","Northeast",,,,,,,,,,,,,,,,,,,,,,,,13133,13681,14230,14778,15327
+"Thailand","THA","Subnat","THAr105","South",,,,,,,,,,,,,,,,,,,,,,,,13851,14433,15015,15597,16179
+"Timor Leste","TLS","Subnat","TLSr101","Aileu",,,,,,,,,,,,,,,,,,,,,,,,6404,6486,6569,6651,6733
+"Timor Leste","TLS","Subnat","TLSr102","Ainaro",,,,,,,,,,,,,,,,,,,,,,,,4687,4745,4803,4861,4919
+"Timor Leste","TLS","Subnat","TLSr103","Baucau",,,,,,,,,,,,,,,,,,,,,,,,6726,6813,6899,6986,7073
+"Timor Leste","TLS","Subnat","TLSr104","Bobonaro",,,,,,,,,,,,,,,,,,,,,,,,7423,7520,7617,7714,7811
+"Timor Leste","TLS","Subnat","TLSr105","Cova Lima",,,,,,,,,,,,,,,,,,,,,,,,6183,6262,6341,6420,6499
+"Timor Leste","TLS","Subnat","TLSr106","Dili",,,,,,,,,,,,,,,,,,,,,,,,15876,16102,16328,16554,16780
+"Timor Leste","TLS","Subnat","TLSr107","Ermera",,,,,,,,,,,,,,,,,,,,,,,,4911,4972,5034,5095,5156
+"Timor Leste","TLS","Subnat","TLSr109","Lautem",,,,,,,,,,,,,,,,,,,,,,,,7533,7631,7730,7829,7927
+"Timor Leste","TLS","Subnat","TLSr108","Liquica",,,,,,,,,,,,,,,,,,,,,,,,6549,6634,6718,6802,6887
+"Timor Leste","TLS","Subnat","TLSr111","Manatuto",,,,,,,,,,,,,,,,,,,,,,,,6337,6418,6499,6581,6662
+"Timor Leste","TLS","Subnat","TLSr110","Manufahi",,,,,,,,,,,,,,,,,,,,,,,,7249,7343,7438,7532,7627
+"Timor Leste","TLS","Subnat","TLSr112","Oecussi",,,,,,,,,,,,,,,,,,,,,,,,4327,4380,4433,4486,4539
+"Timor Leste","TLS","Subnat","TLSr113","Viqueque",,,,,,,,,,,,,,,,,,,,,,,,5814,5888,5962,6035,6109
+"Togo","TGO","Subnat","TGOr104","Centrale",,,,,,,,,,,,,,,,,,,,,,,,1368,1398,1428,1458,1488
+"Togo","TGO","Subnat","TGOr105","Kara",,,,,,,,,,,,,,,,,,,,,,,,1236,1263,1290,1317,1343
+"Togo","TGO","Subnat","TGOr101","Lome",,,,,,,,,,,,,,,,,,,,,,,,2789,2857,2925,2993,3061
+"Togo","TGO","Subnat","TGOr102","Maritime",,,,,,,,,,,,,,,,,,,,,,,,1556,1591,1625,1660,1695
+"Togo","TGO","Subnat","TGOr103","Plateaux",,,,,,,,,,,,,,,,,,,,,,,,1096,1119,1142,1166,1189
+"Togo","TGO","Subnat","TGOr106","Savanes",,,,,,,,,,,,,,,,,,,,,,,,1039,1061,1082,1104,1126
+"Trinidad & Tobago","TTO","Subnat","TTOr103","Central",,,,,,,,,,,,,,,,,,,,,,,,30972,30669,30367,30064,29762
+"Trinidad & Tobago","TTO","Subnat","TTOr102","East",,,,,,,,,,,,,,,,,,,,,,,,24217,23986,23755,23524,23293
+"Trinidad & Tobago","TTO","Subnat","TTOr101","North West",,,,,,,,,,,,,,,,,,,,,,,,29111,28829,28546,28263,27981
+"Trinidad & Tobago","TTO","Subnat","TTOr104","South West",,,,,,,,,,,,,,,,,,,,,,,,29930,29639,29347,29056,28764
+"Trinidad & Tobago","TTO","Subnat","TTOr105","Tobago",,,,,,,,,,,,,,,,,,,,,,,,30529,30231,29933,29636,29338
+"Tunisia","TUN","Subnat","TUNr105","Centre Est (Sousse, Monastir, Mahdia, Sfax)",,,,,,,,,,,,,,,,,,,,,,,,10728,10778,10828,10879,10929
+"Tunisia","TUN","Subnat","TUNr104","Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",,,,,,,,,,,,,,,,,,,,,,,,7353,7730,8107,8483,8860
+"Tunisia","TUN","Subnat","TUNr101","Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",,,,,,,,,,,,,,,,,,,,,,,,12369,12338,12306,12275,12243
+"Tunisia","TUN","Subnat","TUNr102","Nord Est (Nabeul, Zaghouan, Bizerte)",,,,,,,,,,,,,,,,,,,,,,,,10651,10559,10467,10376,10284
+"Tunisia","TUN","Subnat","TUNr103","Nord Ouest (Beja, Jendouba, Kef, Siliana)",,,,,,,,,,,,,,,,,,,,,,,,8289,8711,9132,9554,9976
+"Tunisia","TUN","Subnat","TUNr107","Sud Est (Gabes, Medinine, Tataouine)",,,,,,,,,,,,,,,,,,,,,,,,9681,9854,10026,10199,10371
+"Tunisia","TUN","Subnat","TUNr106","Sud Ouest (Gafsa, Tozeur, Kebili)",,,,,,,,,,,,,,,,,,,,,,,,10336,10235,10134,10033,9932
+"Turkey","TUR","Subnat","TURr103","Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",,,,,,,,,,,,,,,,,,,,,,,,23371,23568,23765,23962,24159
+"Turkey","TUR","Subnat","TURr107","Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)",,,,,,,,,,,,,,,,,,,,,,,,23203,23399,23594,23790,23985
+"Turkey","TUR","Subnat","TURr111","Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",,,,,,,,,,,,,,,,,,,,,,,,21941,22125,22309,22493,22676
+"Turkey","TUR","Subnat","TURr109","East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)",,,,,,,,,,,,,,,,,,,,,,,,20012,20178,20345,20511,20677
+"Turkey","TUR","Subnat","TURr104","East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)",,,,,,,,,,,,,,,,,,,,,,,,24751,24961,25171,25381,25591
+"Turkey","TUR","Subnat","TURr101","Istanbul",,,,,,,,,,,,,,,,,,,,,,,,28042,28283,28524,28765,29006
+"Turkey","TUR","Subnat","TURr106","Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)",,,,,,,,,,,,,,,,,,,,,,,,23128,23323,23517,23712,23907
+"Turkey","TUR","Subnat","TURr110","North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",,,,,,,,,,,,,,,,,,,,,,,,18201,18350,18500,18649,18799
+"Turkey","TUR","Subnat","TURr112","South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",,,,,,,,,,,,,,,,,,,,,,,,21026,21202,21377,21553,21728
+"Turkey","TUR","Subnat","TURr105","West Anatolia (Ankara, Konya, Karaman)",,,,,,,,,,,,,,,,,,,,,,,,26355,26580,26805,27030,27255
+"Turkey","TUR","Subnat","TURr108","West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)",,,,,,,,,,,,,,,,,,,,,,,,23287,23483,23680,23876,24072
+"Turkey","TUR","Subnat","TURr102","West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",,,,,,,,,,,,,,,,,,,,,,,,22747,22938,23130,23321,23512
+"Turkmenistan","TKM","Subnat","TKMr102","Akhal",,,,,,,,,,,,,,,,,,,,,,,,12744,13391,14039,14686,15334
+"Turkmenistan","TKM","Subnat","TKMr101","Ashgabat City",,,,,,,,,,,,,,,,,,,,,,,,18109,19069,20030,20990,21951
+"Turkmenistan","TKM","Subnat","TKMr103","Balkan",,,,,,,,,,,,,,,,,,,,,,,,15502,16309,17116,17923,18730
+"Turkmenistan","TKM","Subnat","TKMr104","Dashoguz",,,,,,,,,,,,,,,,,,,,,,,,13463,14151,14840,15529,16217
+"Turkmenistan","TKM","Subnat","TKMr105","Lebap",,,,,,,,,,,,,,,,,,,,,,,,12928,13586,14244,14902,15560
+"Turkmenistan","TKM","Subnat","TKMr106","Mary",,,,,,,,,,,,,,,,,,,,,,,,11896,12495,13094,13693,14292
+"Uganda","UGA","Subnat","UGAr101","Central 1 (Central South)",,,,,,,,,,,,,,,,,,,,,,,,2547,2589,2631,2672,2714
+"Uganda","UGA","Subnat","UGAr102","Central 2 (Central North)",,,,,,,,,,,,,,,,,,,,,,,,1869,1898,1928,1957,1986
+"Uganda","UGA","Subnat","UGAr104","East Central (Busoga)",,,,,,,,,,,,,,,,,,,,,,,,1616,1641,1666,1691,1716
+"Uganda","UGA","Subnat","UGAr105","Eastern (Bukedi, Bugishu, Teso)",,,,,,,,,,,,,,,,,,,,,,,,1379,1400,1421,1441,1462
+"Uganda","UGA","Subnat","UGAr103","Kampala",,,,,,,,,,,,,,,,,,,,,,,,4113,4185,4257,4329,4401
+"Uganda","UGA","Subnat","UGAr106","North (Karamoja, Lango, Acholi)",,,,,,,,,,,,,,,,,,,,,,,,1184,1202,1219,1236,1254
+"Uganda","UGA","Subnat","UGAr109","Southwest (Ankole, Kigezi)",,,,,,,,,,,,,,,,,,,,,,,,1502,1525,1548,1571,1594
+"Uganda","UGA","Subnat","UGAr107","West Nile",,,,,,,,,,,,,,,,,,,,,,,,1202,1220,1237,1255,1273
+"Uganda","UGA","Subnat","UGAr108","Western (Bunyoro, Tooro)",,,,,,,,,,,,,,,,,,,,,,,,1480,1502,1525,1547,1570
+"Ukraine","UKR","Subnat","UKRr102","Central",,,,,,,,,,,,,,,,,,,,,,,,5903,6184,6465,6746,7026
+"Ukraine","UKR","Subnat","UKRr103","East",,,,,,,,,,,,,,,,,,,,,,,,7321,7680,8038,8397,8755
+"Ukraine","UKR","Subnat","UKRr101","North",,,,,,,,,,,,,,,,,,,,,,,,6486,6799,7112,7424,7737
+"Ukraine","UKR","Subnat","UKRr104","South",,,,,,,,,,,,,,,,,,,,,,,,7305,7662,8020,8377,8735
+"Ukraine","UKR","Subnat","UKRr105","West",,,,,,,,,,,,,,,,,,,,,,,,6022,6309,6597,6884,7171
+"Uruguay","URY","Subnat","URYr105","Centro (Durazno and Tacuarembo)",,,,,,,,,,,,,,,,,,,,,,,,19245,19279,19313,19348,19382
+"Uruguay","URY","Subnat","URYr106","Centro Sur (Flores, Florida and Lavalleja)",,,,,,,,,,,,,,,,,,,,,,,,18862,18895,18929,18962,18996
+"Uruguay","URY","Subnat","URYr103","Costa Este (Canelones, Maldonado and Rocha)",,,,,,,,,,,,,,,,,,,,,,,,19864,19900,19935,19971,20006
+"Uruguay","URY","Subnat","URYr107","Litoral Norte (Paysandu, Salto and Rio Negro)",,,,,,,,,,,,,,,,,,,,,,,,18888,18921,18955,18988,19022
+"Uruguay","URY","Subnat","URYr104","Litoral Sur (Soriano, Colonia and San Jose)",,,,,,,,,,,,,,,,,,,,,,,,18708,18742,18775,18808,18841
+"Uruguay","URY","Subnat","URYr101","Montevideo and Metropolitan area",,,,,,,,,,,,,,,,,,,,,,,,19522,19557,19592,19627,19661
+"Uruguay","URY","Subnat","URYr102","Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",,,,,,,,,,,,,,,,,,,,,,,,18436,18469,18502,18534,18567
+"Uzbekistan","UZB","Subnat","UZBr102","Central (Navoi, Bukhara, Samarkand)",,,,,,,,,,,,,,,,,,,,,,,,5199,5461,5723,5985,6248
+"Uzbekistan","UZB","Subnat","UZBr104","Central-East (Dzhizak, Syrdarya)",,,,,,,,,,,,,,,,,,,,,,,,5475,5753,6032,6310,6588
+"Uzbekistan","UZB","Subnat","UZBr105","East (Namangan, Fergana, Andizhan)",,,,,,,,,,,,,,,,,,,,,,,,4655,4886,5117,5349,5580
+"Uzbekistan","UZB","Subnat","UZBr103","South (Kashkadarya, Surkhandarya)",,,,,,,,,,,,,,,,,,,,,,,,4119,4320,4521,4722,4923
+"Uzbekistan","UZB","Subnat","UZBr106","Tashkent",,,,,,,,,,,,,,,,,,,,,,,,12307,13003,13698,14394,15089
+"Uzbekistan","UZB","Subnat","UZBr101","West (Karakalpakstan, Khorezm)",,,,,,,,,,,,,,,,,,,,,,,,5756,6050,6345,6639,6933
+"Vanuatu","VUT","Subnat","VUTr108","Luganville",,,,,,,,,,,,,,,,,,,,,,,,5858,5878,5898,5918,5938
+"Vanuatu","VUT","Subnat","VUTr103","Malampa",,,,,,,,,,,,,,,,,,,,,,,,1861,1866,1872,1877,1883
+"Vanuatu","VUT","Subnat","VUTr104","Penama",,,,,,,,,,,,,,,,,,,,,,,,1706,1711,1716,1721,1726
+"Vanuatu","VUT","Subnat","VUTr107","Port Vila",,,,,,,,,,,,,,,,,,,,,,,,7653,7679,7706,7733,7760
+"Vanuatu","VUT","Subnat","VUTr105","Sanma",,,,,,,,,,,,,,,,,,,,,,,,2003,2009,2015,2021,2027
+"Vanuatu","VUT","Subnat","VUTr102","Shefa",,,,,,,,,,,,,,,,,,,,,,,,3428,3439,3450,3461,3472
+"Vanuatu","VUT","Subnat","VUTr101","Tafea",,,,,,,,,,,,,,,,,,,,,,,,1916,1922,1928,1933,1939
+"Vanuatu","VUT","Subnat","VUTr106","Torba",,,,,,,,,,,,,,,,,,,,,,,,1596,1600,1605,1609,1614
+"Venezuela","VEN","Subnat","VENr110","Amacuros Delta Federal Territory",,,,,,,,,,,,,,,,,,,,,,,,12166,10928,9689,8451,7213
+"Venezuela","VEN","Subnat","VENr102","Amazonas Federal Territory",,,,,,,,,,,,,,,,,,,,,,,,13187,11837,10488,9138,7789
+"Venezuela","VEN","Subnat","VENr103","Anzoategui",,,,,,,,,,,,,,,,,,,,,,,,15745,14114,12483,10853,9222
+"Venezuela","VEN","Subnat","VENr104","Apure",,,,,,,,,,,,,,,,,,,,,,,,8296,7474,6652,5831,5009
+"Venezuela","VEN","Subnat","VENr105","Aragua",,,,,,,,,,,,,,,,,,,,,,,,18183,16282,14381,12480,10579
+"Venezuela","VEN","Subnat","VENr106","Barinas",,,,,,,,,,,,,,,,,,,,,,,,10860,9763,8667,7570,6473
+"Venezuela","VEN","Subnat","VENr107","Bolivar",,,,,,,,,,,,,,,,,,,,,,,,14991,13444,11896,10349,8801
+"Venezuela","VEN","Subnat","VENr108","Carabobo",,,,,,,,,,,,,,,,,,,,,,,,17776,15921,14065,12209,10353
+"Venezuela","VEN","Subnat","VENr109","Cojedes",,,,,,,,,,,,,,,,,,,,,,,,12998,11669,10340,9011,7682
+"Venezuela","VEN","Subnat","VENr111","Falcon",,,,,,,,,,,,,,,,,,,,,,,,13936,12504,11072,9641,8209
+"Venezuela","VEN","Subnat","VENr101","Federal District",,,,,,,,,,,,,,,,,,,,,,,,22038,19705,17373,15040,12707
+"Venezuela","VEN","Subnat","VENr112","Guarico",,,,,,,,,,,,,,,,,,,,,,,,11189,10057,8925,7792,6660
+"Venezuela","VEN","Subnat","VENr113","Lara",,,,,,,,,,,,,,,,,,,,,,,,13169,11821,10474,9126,7778
+"Venezuela","VEN","Subnat","VENr114","Merida",,,,,,,,,,,,,,,,,,,,,,,,14925,13384,11844,10304,8764
+"Venezuela","VEN","Subnat","VENr115","Miranda",,,,,,,,,,,,,,,,,,,,,,,,19708,17637,15566,13494,11423
+"Venezuela","VEN","Subnat","VENr116","Monagas",,,,,,,,,,,,,,,,,,,,,,,,13831,12411,10991,9571,8151
+"Venezuela","VEN","Subnat","VENr117","Nueva Esparta",,,,,,,,,,,,,,,,,,,,,,,,18428,16499,14571,12643,10715
+"Venezuela","VEN","Subnat","VENr118","Portuguesa",,,,,,,,,,,,,,,,,,,,,,,,11086,9965,8844,7723,6602
+"Venezuela","VEN","Subnat","VENr119","Sucre",,,,,,,,,,,,,,,,,,,,,,,,12673,11379,10086,8792,7499
+"Venezuela","VEN","Subnat","VENr120","Tachira",,,,,,,,,,,,,,,,,,,,,,,,16105,14435,12764,11094,9423
+"Venezuela","VEN","Subnat","VENr121","Trujillo",,,,,,,,,,,,,,,,,,,,,,,,12509,11233,9957,8682,7406
+"Venezuela","VEN","Subnat","VENr124","Vargas",,,,,,,,,,,,,,,,,,,,,,,,17746,15893,14041,12189,10336
+"Venezuela","VEN","Subnat","VENr122","Yaracuy",,,,,,,,,,,,,,,,,,,,,,,,12376,11115,9854,8593,7332
+"Venezuela","VEN","Subnat","VENr123","Zulia",,,,,,,,,,,,,,,,,,,,,,,,14481,12990,11498,10007,8515
+"Vietnam","VNM","Subnat","VNMr104","Central Highlands",,,,,,,,,,,,,,,,,,,,,,,,4165,4412,4659,4906,5153
+"Vietnam","VNM","Subnat","VNMr106","Mekong River Delta",,,,,,,,,,,,,,,,,,,,,,,,4273,4527,4782,5036,5290
+"Vietnam","VNM","Subnat","VNMr103","North Central Coast and South Central Coast",,,,,,,,,,,,,,,,,,,,,,,,4634,4913,5192,5471,5750
+"Vietnam","VNM","Subnat","VNMr102","North East, North West",,,,,,,,,,,,,,,,,,,,,,,,3939,4171,4403,4634,4866
+"Vietnam","VNM","Subnat","VNMr101","Red River Delta",,,,,,,,,,,,,,,,,,,,,,,,5978,6352,6725,7098,7471
+"Vietnam","VNM","Subnat","VNMr105","South East",,,,,,,,,,,,,,,,,,,,,,,,6612,7031,7449,7868,8287
+"Yemen","YEM","Subnat","YEMr102","Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",,,,,,,,,,,,,,,,,,,,,,,,2385,2278,2171,2064,1957
+"Yemen","YEM","Subnat","YEMr104","Beida (Al Bayda), Dhamar, Raimah",,,,,,,,,,,,,,,,,,,,,,,,1352,1295,1238,1181,1125
+"Yemen","YEM","Subnat","YEMr107","Hajja, Sada, Amran (Omran)",,,,,,,,,,,,,,,,,,,,,,,,1097,1052,1007,963,918
+"Yemen","YEM","Subnat","YEMr108","Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",,,,,,,,,,,,,,,,,,,,,,,,1236,1185,1134,1082,1031
+"Yemen","YEM","Subnat","YEMr101","Ibb",,,,,,,,,,,,,,,,,,,,,,,,1762,1686,1609,1533,1457
+"Yemen","YEM","Subnat","YEMr106","Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",,,,,,,,,,,,,,,,,,,,,,,,2794,2667,2539,2412,2285
+"Yemen","YEM","Subnat","YEMr103","Sana a (capital; Al Amana), Sana a (governorate)",,,,,,,,,,,,,,,,,,,,,,,,3068,2927,2785,2644,2503
+"Yemen","YEM","Subnat","YEMr105","Taiz",,,,,,,,,,,,,,,,,,,,,,,,1612,1543,1474,1405,1336
+"Zambia","ZMB","Subnat","ZMBr101","Central",,,,,,,,,,,,,,,,,,,,,,,,3010,3061,3111,3162,3213
+"Zambia","ZMB","Subnat","ZMBr102","Copperbelt",,,,,,,,,,,,,,,,,,,,,,,,6897,6716,6535,6355,6174
+"Zambia","ZMB","Subnat","ZMBr103","Eastern",,,,,,,,,,,,,,,,,,,,,,,,2331,2405,2479,2554,2628
+"Zambia","ZMB","Subnat","ZMBr104","Luapula",,,,,,,,,,,,,,,,,,,,,,,,2052,2141,2230,2319,2408
+"Zambia","ZMB","Subnat","ZMBr105","Lusaka",,,,,,,,,,,,,,,,,,,,,,,,7523,7430,7337,7244,7151
+"Zambia","ZMB","Subnat","ZMBr107","North-Western",,,,,,,,,,,,,,,,,,,,,,,,2173,2347,2521,2695,2869
+"Zambia","ZMB","Subnat","ZMBr106","Northern",,,,,,,,,,,,,,,,,,,,,,,,2091,2151,2210,2270,2329
+"Zambia","ZMB","Subnat","ZMBr108","Southern",,,,,,,,,,,,,,,,,,,,,,,,2998,3054,3111,3167,3224
+"Zambia","ZMB","Subnat","ZMBr109","Western",,,,,,,,,,,,,,,,,,,,,,,,1822,1855,1887,1920,1953
+"Zimbabwe","ZWE","Subnat","ZWEr110","Bulawayo",,,,,,,,,,,,,,,,,,,,,,,,2976,3978,4980,5982,6984
+"Zimbabwe","ZWE","Subnat","ZWEr109","Harare",,,,,,,,,,,,,,,,,,,,,,,,2149,2809,3469,4128,4788
+"Zimbabwe","ZWE","Subnat","ZWEr101","Manicaland",,,,,,,,,,,,,,,,,,,,,,,,1104,1386,1667,1949,2230
+"Zimbabwe","ZWE","Subnat","ZWEr102","Mashonaland Central",,,,,,,,,,,,,,,,,,,,,,,,949,1180,1412,1644,1876
+"Zimbabwe","ZWE","Subnat","ZWEr103","Mashonaland East",,,,,,,,,,,,,,,,,,,,,,,,1142,1435,1729,2022,2316
+"Zimbabwe","ZWE","Subnat","ZWEr104","Mashonaland West",,,,,,,,,,,,,,,,,,,,,,,,1200,1513,1826,2140,2453
+"Zimbabwe","ZWE","Subnat","ZWEr108","Masvingo",,,,,,,,,,,,,,,,,,,,,,,,1093,1371,1649,1927,2204
+"Zimbabwe","ZWE","Subnat","ZWEr105","Matebeleland North",,,,,,,,,,,,,,,,,,,,,,,,949,1180,1412,1644,1876
+"Zimbabwe","ZWE","Subnat","ZWEr106","Matebeleland South",,,,,,,,,,,,,,,,,,,,,,,,1105,1387,1669,1951,2232
+"Zimbabwe","ZWE","Subnat","ZWEr107","Midlands",,,,,,,,,,,,,,,,,,,,,,,,1204,1518,1833,2147,2461
