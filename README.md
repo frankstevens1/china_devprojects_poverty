@@ -5,6 +5,21 @@ Python 3.8 on Windows is used for the data wrangling/cleaning process & for gene
 
 Stata 15 with additional packages is used for running the analysis and generating regression tables.
 
+## Data:
+The dataset used in the analysis was created by merging variables from the followinng datasources:
+* [AidData's Geocoded Global Chinese Official Finance Dataset](https://www.aiddata.org/data/geocoded-chinese-global-official-finance-dataset): tracks Chinese development projects over 15 year period (2000-2014)
+  1. Number of projects per sub-national region by CRS sector & flow type (count variable)
+  2. Presence of a project per sub-national region by CRS sector & flow type (bianry variables)
+  3. Region's probability of receiving a project (fraction of years a region received a project over the total period tracked)
+* [Global Data Lab's (GDL) subnational socio-economic indicators](https://globaldatalab.org/areadata/)
+  1. Mean international wealth index (IWI) score of region
+  2. Percentage poorer households (with IWI value under 35/50/70)
+  3. Total area population in millions
+* [Chinese Steel Production Figures](https://www.worldsteel.org/steel-by-topic/statistics/steel-statistical-yearbook.html)
+  1. Total production of crude steel in thousand tonnes
+ 
+ The process of wrangling and cleaning the data can be viewed here: 
+
 ## Dependencies:
 
 ### A. Python Packages
