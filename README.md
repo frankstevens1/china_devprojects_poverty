@@ -1,12 +1,12 @@
 # china_devprojects_poverty
-A study determining the effects of Chinese development projects on sub-national poverty levels around the world.
+Studying the influence of Chinese development projects on sub-national poverty levels around the world.
 Python 3.8 on Windows is used for the data wrangling/cleaning process & for generating visualizations.
 Stata 15 with additional packages is used for running the regression analysis and generating regression tables.
 
 ## Contents
 
 ## Introduction
-The rapid expansion of China's aid programme to become one of the largest financiers on international development stage has been met with significant international attention. As Chinese engagement with low- and middle income countries intensifies, so does criticism of China's development practices. 
+A rapidly expanding aid programme has positioned China amongst the largest international development financiers, has been met with significant international attention. As Chinese engagement with low- and middle income countries intensifies, so does criticism of China's development practices. 
 
 
 ## Data:
