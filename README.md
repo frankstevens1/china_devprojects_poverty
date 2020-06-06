@@ -4,7 +4,6 @@ Python 3.8 on Windows is used for the data wrangling/cleaning process & for gene
 Stata 15 with additional packages is used for running the regression analysis and generating regression tables.
 
 ## Contents
-0d4d18aa20a237fc6a160e86557c535bb240af15
 
 ## Introduction
 The rapid expansion of China's aid programme to become one of the largest financiers on international development stage has been met with significant international attention. As Chinese engagement with low- and middle income countries intensifies, so does criticism of China's development practices. 
@@ -24,8 +23,8 @@ The dataset used in the analysis was created by merging variables from the follo
   1. Total production of crude steel in thousand tonnes
  
 Two seperate datasets are used, the notebooks detailing the process of wrangling and cleaning the data can be viewed using the links:
-1. Region level dataset *data.dta*: [data.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
-2. Country level dataset *data_iso.dta*: [data_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
+1. Region level dataset *data.dta*: [dataset_prep.ipynb](dataset_prep.ipynb) or using nbviewer [dataset_prep.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
+2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using nbviewer[dataset_prep_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
 
 ## Empirical strategy
 Following the approach [Dreher et al. (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3051044) who use a similar approach to study the impact of Chinese infrastructure projects on the diffusion of economic activity. The goal of Chinese development finance is to benefit ‘as many needy people as possible’ - (Information Office of the State Council, 2011), {!!add link to source!!} the sub-national allocation of development projects is expected to be endogenous to poverty rates across and within regions. Using a two stage least squares (2SLS) instrumental variable strategy the endogeneity issue is addressed. Chinese development projects are instrumented by a shift-share style instrument which leverages variation in cross-sectional exposure (share) to exogenous temporal changes (shift). Chinese development projects are primarily large infrastructure projects requiring physical inputs. To proxy for these physical inputs Bluhm et al. (2018) propose the use of China's annual steel production, of which overproduction is used to supply development projects in developing countries. The interaction of annual Chinese steel production and the region’s probability of receiving a development project then makes up the shift-share instrument. The share component is region's exposure to - or the probability of receiving a Chinese financed development project. Calculated as the fraction of the number of years a region had an active project over the total period Chinese development projects are tracked (2000-2014).
