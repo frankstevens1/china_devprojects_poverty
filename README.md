@@ -6,12 +6,10 @@ Stata 15 with additional packages is used for running the regression analysis an
 ## Contents
 
 ## Introduction
-A rapidly expanding aid programme has positioned China amongst the largest international development financiers, has been met with significant international attention. As Chinese engagement with low- and middle income countries intensifies, so does criticism of China's development practices. 
-
 
 ## Data:
-The dataset used in the analysis was created by merging variables from the followinng datasources:
-* [AidData's Geocoded Global Chinese Official Finance Dataset](https://www.aiddata.org/data/geocoded-chinese-global-official-finance-dataset): tracks global Chinese development projects between 2000-2014
+The dataset used in the analysis was created by merging variables from the following datasources:
+* [AidData's Geocoded Global Chinese Official Finance Dataset](https://www.aiddata.org/data/geocoded-chinese-global-official-finance-dataset) - *tracking global Chinese development projects committed between 2000-2014*
   1. Number of projects per sub-national region by CRS sector & flow type (count variable)
   2. Presence of a project per sub-national region by CRS sector & flow type (bianry variables)
   3. Region's probability of receiving a project (fraction of years a region received a project over the total period tracked)
@@ -27,9 +25,6 @@ Two seperate datasets are used, the notebooks detailing the process of wrangling
 2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using nbviewer[dataset_prep_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
 
 ## Empirical strategy
-Following the approach [Dreher et al. (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3051044) who use a similar approach to study the impact of Chinese infrastructure projects on the diffusion of economic activity. The goal of Chinese development finance is to benefit ‘as many needy people as possible’ - (Information Office of the State Council, 2011), {!!add link to source!!} the sub-national allocation of development projects is expected to be endogenous to poverty rates across and within regions. Using a two stage least squares (2SLS) instrumental variable strategy the endogeneity issue is addressed. Chinese development projects are instrumented by a shift-share style instrument which leverages variation in cross-sectional exposure (share) to exogenous temporal changes (shift). Chinese development projects are primarily large infrastructure projects requiring physical inputs. To proxy for these physical inputs Bluhm et al. (2018) propose the use of China's annual steel production, of which overproduction is used to supply development projects in developing countries. The interaction of annual Chinese steel production and the region’s probability of receiving a development project then makes up the shift-share instrument. The share component is region's exposure to - or the probability of receiving a Chinese financed development project. Calculated as the fraction of the number of years a region had an active project over the total period Chinese development projects are tracked (2000-2014).
-
-{!!} have requirements that goods purchased for them be at least 50 percent of Chinese origin {RAND Report}
 
 ## Results
 
