@@ -42,6 +42,8 @@ Studying the influence of Chinese development projects on sub-national poverty l
 ## Empirical strategy
 This study follows the approach developed by [Dreher et al. (2017)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3051044) to investigate the effects of Chinese aid projects on economic growth.
 
+... to be added
+
 ## Results
 
 ... to be added.
@@ -105,6 +107,10 @@ python -m ipykernel install --name=cdpenv
 #### Stata Packages:
 The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
+## Reproducing the analysis:
+The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
+
+### Dependencies: Stata Packages
 1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE:
 ```
 cd C:\Users\...\china_devprojects_poverty
