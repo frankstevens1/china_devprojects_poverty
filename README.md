@@ -1,11 +1,17 @@
 # china_devprojects_poverty
 Studying the influence of Chinese development projects on sub-national poverty levels around the world.
-Python 3.8 on Windows is used for the data wrangling/cleaning process & for generating visualizations.
-Stata 15 with additional packages is used for running the regression analysis and generating regression tables.
 
 ## Contents
+- intro
+- data
+- empirical strategy
+- results
+- reproducing the dataset
+- reproducing the analysis
 
 ## Introduction
+
+... to be added
 
 ## Data:
 The dataset used in the analysis was created by merging variables from the following datasources:
@@ -19,21 +25,23 @@ The dataset used in the analysis was created by merging variables from the follo
   3. Total area population in millions
 * [Chinese Steel Production Figures](https://www.worldsteel.org/steel-by-topic/statistics/steel-statistical-yearbook.html)
   1. Total production of crude steel in thousand tonnes
- 
+
+## Empirical strategy
+
+... to be added
+
+## Results
+
+... to be added
+
+## Reproducing the dataset:
+Data wrangling is done using Python 3.8 on Windows, the packages required to reproduce or modify the dataset used for the analysis are listed in *requirements.txt*. The instructions below detail installation of these packages.
+
 Two seperate datasets are used, the notebooks detailing the process of wrangling and cleaning the data can be viewed using the links:
 1. Region level dataset *data.dta*: [dataset_prep.ipynb](dataset_prep.ipynb) or using nbviewer [dataset_prep.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
 2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using nbviewer[dataset_prep_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
 
-## Empirical strategy
-
-## Results
-
-## Dependencies:
-
-### Python Packages
-The steps in the data wrangling/cleaning process are detailed in the Jupyter notebook: *dataset_prep.ipynb*
-
-To run *dataset_prep.ipynb*, the packages in *requirements.txt* need to the installed.
+### Dependencies: Python Packages
 
 From the command prompt (cmd):
 1. Install virtual environment manager:
@@ -82,9 +90,11 @@ pip install .\dependencies\Rtree-0.9.4-cp38-cp38-win_amd64.whl
 ```
 python -m ipykernel install --name=cdpenv
 ```
-### Stata Packages:
+
+## Reproducing the analysis:
 The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
+### Dependencies: Stata Packages
 1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE:
 ```
 cd C:\Users\...\china_devprojects_poverty
