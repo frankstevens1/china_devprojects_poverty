@@ -2,12 +2,12 @@
 Studying the influence of Chinese development projects on sub-national poverty levels around the world.
 
 ## Contents
-- intro
-- data
-- empirical strategy
-- results
-- reproducing the dataset
-- reproducing the analysis
+- Introduction
+- Data
+- Empirical strategy
+- Results
+- Reproducing the dataset
+- Reproducing the analysis
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Data wrangling is done using Python 3.8 on Windows, the packages required to rep
 
 Two seperate datasets are used, the notebooks detailing the process of wrangling and cleaning the data can be viewed using the links:
 1. Region level dataset *data.dta*: [dataset_prep.ipynb](dataset_prep.ipynb) or using nbviewer [dataset_prep.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
-2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using nbviewer[dataset_prep_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
+2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using nbviewer [dataset_prep_iso.ipynb](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
 
 ### Dependencies: Python Packages
 
@@ -92,7 +92,7 @@ python -m ipykernel install --name=cdpenv
 ```
 
 ## Reproducing the analysis:
-The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
+The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
 ### Dependencies: Stata Packages
 1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE:
