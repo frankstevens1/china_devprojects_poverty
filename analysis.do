@@ -8,7 +8,7 @@
 * import dataset
 clear
 est clear
-cd C:\Users\fstev\mthesis
+cd C:\Users\fstev\china_devprojects_poverty
 use data.dta
 encode GDLCODE, g(gdlcode)
 xtset gdlcode year
@@ -40,7 +40,7 @@ estpost summarize ///
  total_p oda_p oof_p transport_p health_p educ_p energy_p comms_p ///
  amount_total amount_oda amount_oof amount_transport
 est store summarytable
-esttab summarytable using summary-stats.rtf, replace cells("count mean sd min max") noobs nonum
+esttab summarytable, replace cells("count mean sd min max") noobs nonum
 
 
 *****
@@ -100,13 +100,13 @@ estimates store model16
 
 * Table 1: OLS & Reduced Form (Main Regressions)
 estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model1 model2 model3 model4 model5 model6 model7 model8 using table-1.rtf, ///
+esttab model1 model2 model3 model4 model5 model6 model7 model8, ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se ///
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a N_clust) order(ln_pop)
  
 * Table 2: 2SLS & 1st Stage (Main Regressions)
 estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model9 model10 model11 model12 model13 model14 model15 model16 using table-2.rtf, ///
+esttab model9 model10 model11 model12 model13 model14 model15 model16, ///
  replace indicate(`r(indicate_fe)') nocons obslast depvars se /// 
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(ln_pop)
  
@@ -190,7 +190,7 @@ esttab model25 model26 model27 model28 model29 model30 model31 model32 using tab
 * import dataset
 clear
 est clear
-cd C:\Users\fstev\mthesis
+cd C:\Users\fstev\china_devprojects_poverty
 use data_iso.dta
 encode iso_code, g(country)
 xtset country year
