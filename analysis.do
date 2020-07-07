@@ -1,11 +1,20 @@
-/// china_devprojects_poverty
+*******************************
+** china_devprojects_poverty **
+*******************************
 
-* 2SLS strategy for determining effect of Chinese development projects on poverty
-* Repository: https://github.com/frankstevens1/china_devprojects_poverty
-* June 2020, Frank Stevens: fstevens92@gmail.com
+* 2SLS strategy for determining effect of Chinese development projects on poverty in the short run
 
-/// Prepare dataset (Regional Level):
-* import dataset
+* Strategy adopted from Dreher et al. (2017;
+*		https://www.aiddata.org/publications/aid-china-and-growth-evidence-from-a-new-global-development-finance-dataset
+
+* https://github.com/frankstevens1/china_devprojects_poverty
+* July 2020, Frank Stevens: fstevens92@gmail.com
+
+*******************************************************************************
+** A. Main Regressions: OLS, Reduced Form, 2SLS & 1st Stage (Regional Level) **
+*******************************************************************************
+
+*** Prepare dataset & variables (Regional Level):
 clear
 est clear
 cd C:\Users\fstev\china_devprojects_poverty
@@ -14,180 +23,88 @@ encode GDLCODE, g(gdlcode)
 xtset gdlcode year
 encode ISO_Code, g(country)
 drop index
+egen regyear = concat(GDLCODE year)
 
-* drop unused variables
-drop iwi agri bank budget business civil commod debt emergency environment ///
- food_aid industry multisector ngo_support pop_policy social_infra ///
- trade_tourism unspecified vague water women agri_d bank_d budget_d ///
- business_d civil_d commod_d debt_d emergency_d environment_d food_aid_d ///
- industry_d multisector_d ngo_support_d pop_policy_d social_infra_d ///
- trade_tourism_d unspecified_d vague_d water_d women_d bank_p budget_p ///
- business_p civil_p commod_p debt_p emergency_p environment_p food_aid_p ///
- industry_p multisector_p ngo_support_p pop_policy_p social_infra_p ///
- agri_p trade_tourism_p unspecified_p vague_p water_p women_p iwipov35 iwipov70 ///
- hhpov35 hhpov70 ln_hhpov35 ln_hhpov70 poppov35 poppov70 ln_poppov35 ln_poppov70
- 
+* Ouliers, influence is minimal!
+*drop if regyear == "BWAr1102001"
+*drop if regyear == "BWAr1022001"
+*drop if regyear == "SENr1082015"
+*drop if regyear == "KGZr1042014"
+*drop if regyear == "KGZr1022014"
+*drop if regyear == "MUSr1012011"
 
-*****
- 
- 
-/// Summary Statistics:
-estpost summarize ///
- iwipov50 regpopm poppov50 hhpov50 hhsize steel ///
- ln_pop ln_hhpov50 ln_steel /// 
- total oda oof transport health educ energy comms ///
- total_d oda_d oof_d transport_d health_d educ_d energy_d comms_d ///
- total_p oda_p oof_p transport_p health_p educ_p energy_p comms_p ///
- amount_total amount_oda amount_oof amount_transport
-est store summarytable
-esttab summarytable, replace cells("count mean sd min max") noobs nonum
+* Histogram of independant variable: iwipov50
+hist iwipov50
 
-
-*****
-
-
-/// A. Main Regressions: OLS, Reduced Form, 2SLS & 1st Stage (Regional Level)
-** Independent variable: Project Presence or Absence (Dummy)
-
-** 2SLS Stages:
-** Stage 1: 𝐶𝑛𝐴𝑖𝑑𝑖𝑟(𝑡−2)=(𝑆𝑡𝑒𝑒𝑙𝑡−3×𝑝𝑖𝑟)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝑢𝑖𝑟+𝜔𝑖(𝑡−2)+𝑣𝑖𝑟(𝑡−2)
-** Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
-
-* A1. OLS
-reghdfe iwipov50 L2.total_d L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+** A1. OLS
+reghdfe iwipov50 L2.total L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model1
-reghdfe iwipov50 L2.oda_d L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+reghdfe iwipov50 L2.oda L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model2
-reghdfe iwipov50 L2.oof_d L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+reghdfe iwipov50 L2.oof L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model3
-reghdfe iwipov50 L2.transport_d L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+
+** A2. reduced form
+reghdfe iwipov50 c.L3.ln_steel#c.total_p L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model4
-
-* A2. reduced form
-reghdfe iwipov50 c.L3.ln_steel#c.total_p L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+reghdfe iwipov50 c.L3.ln_steel#c.oda_p L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model5
-reghdfe iwipov50 c.L3.ln_steel#c.oda_p L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
+reghdfe iwipov50 c.L3.ln_steel#c.oof_p L1.iwipov50 , absorb(gdlcode year) vce(cluster country)
 estimates store model6
-reghdfe iwipov50 c.L3.ln_steel#c.oof_p L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
-estimates store model7
-reghdfe iwipov50 c.L3.ln_steel#c.transport_p L1.iwipov50, absorb(gdlcode i.country#i.year) vce(cluster country)
-estimates store model8
-
-* A3. 2SLS
-ivreghdfe iwipov50 (L2.total_d = c.L3.ln_steel#c.total_p) L1.iwipov50, absorb(gdlcode country#year, resid(r1)) cluster(country) first
-estimates store model9
-predict yhat1
-ivreghdfe iwipov50 (L2.oda_d = c.L3.ln_steel#c.oda_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model10
-ivreghdfe iwipov50 (L2.oof_d = c.L3.ln_steel#c.oof_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model11
-ivreghdfe iwipov50 (L2.transport_d = c.L3.ln_steel#c.transport_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model12
-
-* A4. 1st stage regression
-reghdfe L2.total_d c.L3.ln_steel#c.total_p L1.iwipov50, absorb(gdlcode country#year) cluster(country) resid
-estimates store model13
-predict yhat2
-predict r2, resid
-reghdfe L2.oda_d c.L3.ln_steel#c.oda_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model14
-reghdfe L2.oof_d c.L3.ln_steel#c.oof_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model15
-reghdfe L2.transport_d c.L3.ln_steel#c.transport_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model16
-
-* A. Output Tables and Plots:
 
 * Table 1: OLS & Reduced Form (Main Regressions)
-estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model1 model2 model3 model4 model5 model6 model7 model8, ///
+estfe model*, labels(gdlcode "Region FE" year "Year FE")
+esttab model1 model2 model3 model4 model5 model6, ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se ///
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a N_clust) order(L.iwipov50)
+
+** A3. 2SLS
+* Stage 1: 𝐶𝑛𝐴𝑖𝑑𝑖𝑟(𝑡−2)=(𝑆𝑡𝑒𝑒𝑙𝑡−3×𝑝𝑖𝑟)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝑢𝑖𝑟+𝜔𝑖(𝑡−2)+𝑣𝑖𝑟(𝑡−2)
+* Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
+ivreghdfe iwipov50 (L2.total = c.L3.ln_steel#c.total_p) L1.iwipov50 , absorb(gdlcode year, resid(r1)) cluster(country) first
+estimates store model7
+predict yhat1, xb
+ivreghdfe iwipov50 (L2.oda = c.L3.ln_steel#c.oda_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model8
+ivreghdfe iwipov50 (L2.oof = c.L3.ln_steel#c.oof_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model9
+* DEPVAR = SHDI
+ivreghdfe shdi (L2.total = c.L3.ln_steel#c.total_p) L1.shdi , absorb(gdlcode year, resid(r2)) cluster(country) first
+predict yhat2, xb
+estimates store model10
+ivreghdfe shdi (L2.oda = c.L3.ln_steel#c.oda_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model11
+ivreghdfe shdi (L2.oof = c.L3.ln_steel#c.oof_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model12
+
+** A4. 1st stage regression
+reghdfe L2.total c.L3.ln_steel#c.total_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model13
+reghdfe L2.oda c.L3.ln_steel#c.oda_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model14
+reghdfe L2.oof c.L3.ln_steel#c.oof_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model15
  
 * Table 2: 2SLS & 1st Stage (Main Regressions)
-estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model9 model10 model11 model12 model13 model14 model15 model16, ///
- replace indicate(`r(indicate_fe)') nocons obslast depvars se /// 
- star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(L.iwipov50)
- 
-* Plot 1 & 2: Residuals vs Predicted Values Plots:
-*** 1st stage:
-scatter r2 yhat2, xline(0) yline(0)
-*** 2nd stage:
+estfe model*, labels(gdlcode "Region FE" year "Year FE")
+esttab model7 model8 model9 model10 model11 model12 model13 model14 model15, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf N_clust) order(L.iwipov50 L.shdi) 
+
+** Plot 1 & 2: Residuals- & Actual vs Predicted Values:
+*** iwipov50
 scatter r1 yhat1, xline(0) yline(0)
+scatter iwipov50 yhat1 || lfit iwipov50 yhat1
+*** shdi
+scatter r2 yhat2, xline(0) yline(0)
+scatter shdi yhat2 || lfit shdi yhat2
 
 
-*****
+************************************************************************************
+** B. Secondary Regressions: OLS, Reduced Form, 2SLS & 1st Stage (National Level) **
+************************************************************************************
 
-
-/// C. Secondary Regression 1: 2SLS & 1st Stage
-** Independent variable: Project Counts
-
-* 2SLS (counts)
-ivreghdfe iwipov50 (L2.total = c.L3.ln_steel#c.total_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model17
-ivreghdfe iwipov50 (L2.oda = c.L3.ln_steel#c.oda_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model18
-ivreghdfe iwipov50 (L2.oof = c.L3.ln_steel#c.oof_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model19
-ivreghdfe iwipov50 (L2.transport = c.L3.ln_steel#c.transport_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model20
-
-* 1st stage regression (counts)
-reghdfe L2.total c.L3.ln_steel#c.total_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model21
-reghdfe L2.oda c.L3.ln_steel#c.oda_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model22
-reghdfe L2.oof c.L3.ln_steel#c.oof_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model23
-reghdfe L2.transport c.L3.ln_steel#c.transport_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model24
-
-* Table 5: project counts
-estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model17 model18 model19 model20 model21 model22 model23 model24, ///
- replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
- star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(L.iwipov50)
-
- 
-*****
-
-
-/// D. Secondary Regression 2: Top4 sectors after transport - 2SLS & 1st Stage 
-** Independent variable: Project Dummies
-
-* 2SLS (next 4 sectors)
-ivreghdfe iwipov50 (L2.health_d = c.L3.ln_steel#c.health_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model25
-ivreghdfe iwipov50 (L2.educ_d = c.L3.ln_steel#c.educ_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model26
-ivreghdfe iwipov50 (L2.energy_d = c.L3.ln_steel#c.energy_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model27
-ivreghdfe iwipov50 (L2.comms_d = c.L3.ln_steel#c.comms_p) L1.iwipov50, absorb(gdlcode country#year) cluster(country) first
-estimates store model28
-
-* 1st stage regresssions (next 4 sectors)
-reghdfe L2.health_d c.L3.ln_steel#c.health_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model29
-reghdfe L2.educ_d c.L3.ln_steel#c.educ_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model30
-reghdfe L2.energy_d c.L3.ln_steel#c.energy_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model31
-reghdfe L2.comms_d c.L3.ln_steel#c.comms_p L1.iwipov50, absorb(gdlcode country#year) cluster(country)
-estimates store model32
-
-* Table 6: 2SLS & 1st Stage (health, educ, energy & comms)
-estfe model*, labels(gdlcode "Region FE" country#year "Country-Year FE")
-esttab model25 model26 model27 model28 model29 model30 model31 model32, /// 
- replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
- star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(L.iwipov50)
-
-
-*****
-
-
-/// Prepare dataset (Country Level):
-* import dataset
+*** Prepare dataset & variables (National Level):
 clear
 est clear
 cd C:\Users\fstev\china_devprojects_poverty
@@ -195,89 +112,171 @@ use data_iso.dta
 encode iso_code, g(country)
 xtset country year
 drop index
+egen countryyear = concat(country year)
 
-* drop unused variables
-drop iwi iwipov70 iwipov35 hhpov35 hhpov70 ln_hhpov35 ln_hhpov70 poppov35 poppov70 ln_poppov35 ln_poppov70 ///
- agri bank budget business civil commod debt emergency food_aid health industry multisector ngo_support /// 
- pop_policy social_infra trade_tourism civil_d commod_d debt_d emergency_d environment_d food_aid_d /// 
- health_d industry_d multisector_d ngo_support_d pop_policy_d social_infra_d trade_tourism_d unspecified_d /// 
- vague_d water_d women_d unspecified vague water women agri_d bank_d budget_d business_d civil_d /// 
- commod_d debt_d emergency_d environment_d food_aid_d industry_d multisector_d ngo_support_d pop_policy_d /// 
- social_infra_d trade_tourism_d unspecified_d vague_d water_d women_d bank_p budget_p business_p civil_p /// 
- commod_p debt_p emergency_p environment_p food_aid_p industry_p multisector_p ngo_support_p pop_policy_p /// 
- social_infra_p agri_p trade_tourism_p unspecified_p vague_p water_p women_p
- 
+* Histogram of independant variable: iwipov50
+hist iwipov50
 
-*****
- 
- 
-/// Summary Statistics:
-estpost summarize ///
- iwipov50 regpopm hhsize ln_pop hhpov50 ln_hhpov50 /// 
- steel exports ln_steel oda oof total transport /// 
- oda_d oof_d total_d transport_d oda_p oof_p transport_p
-est store summarytable
-esttab summarytable, replace cells("count mean sd min max") noobs nonum
-
-
-*****
-
-
-/// B. Main Regressions: OLS, Reduced Form, 2SLS & 1st Stage (Country Level)
-** Independent variable: Project Presence or Absence (Dummy)
-
-* B1. OLS
-reghdfe ln_hhpov50 L2.total_d ln_pop, absorb(i.country i.year) vce(robust)
+** B1. OLS
+xtreg iwipov50 L2.total L1.iwipov50, fe vce(cluster country)
 estimates store model1
-reghdfe ln_hhpov50 L2.oda_d ln_pop, absorb(i.country i.year) vce(robust)
+xtreg iwipov50 L2.oda L1.iwipov50, fe vce(cluster country)
 estimates store model2
-reghdfe ln_hhpov50 L2.oof_d ln_pop, absorb(i.country i.year) vce(robust)
+xtreg iwipov50 L2.oof L1.iwipov50, fe vce(cluster country)
 estimates store model3
-reghdfe ln_hhpov50 L2.transport_d ln_pop, absorb(i.country i.year) vce(robust)
+
+** B2. reduced form
+xtreg iwipov50 c.L3.ln_steel#c.total_p L1.iwipov50, fe vce(cluster country)
 estimates store model4
-
-* B2. reduced form
-reghdfe ln_hhpov50 c.L3.ln_steel#c.total_p ln_pop, absorb(i.country i.year) vce(robust)
+xtreg iwipov50 c.L3.ln_steel#c.oda_p L1.iwipov50, fe vce(cluster country)
 estimates store model5
-reghdfe ln_hhpov50 c.L3.ln_steel#c.oda_p ln_pop, absorb(i.country i.year) vce(robust)
+xtreg iwipov50 c.L3.ln_steel#c.oof_p L1.iwipov50, fe vce(cluster country)
 estimates store model6
-reghdfe ln_hhpov50 c.L3.ln_steel#c.oof_p ln_pop, absorb(i.country i.year) vce(robust)
-estimates store model7
-reghdfe ln_hhpov50 c.L3.ln_steel#c.transport_p ln_pop, absorb(i.country i.year) vce(robust)
-estimates store model8
 
-* B3. 2SLS
-ivreghdfe ln_hhpov50 (L2.total_d = c.L3.ln_steel#c.total_p) ln_pop, absorb(country year) cluster(country) first
+* Table 3: OLS & Reduced Form (National Regressions)
+esttab model1 model2 model3 model4 model5 model6, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se ///
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a N_clust) order(L.iwipov50)
+
+** B3. 2SLS
+* Stage 1: 𝐶𝑛𝐴𝑖𝑑𝑖𝑟(𝑡−2)=(𝑆𝑡𝑒𝑒𝑙𝑡−3×𝑝𝑖𝑟)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝑢𝑖𝑟+𝜔𝑖(𝑡−2)+𝑣𝑖𝑟(𝑡−2)
+* Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
+ivreghdfe iwipov50 (L2.total = c.L3.ln_steel#c.total_p) L1.iwipov50, absorb(country year, resid(r1)) cluster(country) first
+predict yhat1, xb
+estimates store model7
+ivreghdfe iwipov50 (L2.oda = c.L3.ln_steel#c.oda_p) L1.iwipov50, absorb(country year) cluster(country) first
+estimates store model8
+ivreghdfe iwipov50 (L2.oof = c.L3.ln_steel#c.oof_p) L1.iwipov50, absorb(country year) cluster(country) first
 estimates store model9
-ivreghdfe ln_hhpov50 (L2.oda_d = c.L3.ln_steel#c.oda_p) ln_pop, absorb(country year) cluster(country) first
+* DEPVAR = SHDI
+ivreghdfe shdi (L2.total = c.L3.ln_steel#c.total_p) L1.shdi, absorb(country year, resid(r2) cluster(country) first
+predict yhat2, xb
 estimates store model10
-ivreghdfe ln_hhpov50 (L2.oof_d = c.L3.ln_steel#c.oof_p) ln_pop, absorb(country year) cluster(country) first
+ivreghdfe shdi (L2.oda = c.L3.ln_steel#c.oda_p) L1.shdi, absorb(country year) cluster(country) first
 estimates store model11
-ivreghdfe ln_hhpov50 (L2.transport_d = c.L3.ln_steel#c.transport_p) ln_pop, absorb(country year) cluster(country) first
+ivreghdfe shdi (L2.oof = c.L3.ln_steel#c.oof_p) L1.shdi, absorb(country year) cluster(country) first
 estimates store model12
 
-* B4. 1st stage regression
-reghdfe L2.total_d c.L3.ln_steel#c.total_p ln_pop, absorb(country year) cluster(country)
+** B4. 1st stage regression
+reghdfe L2.total c.L3.ln_steel#c.total_p L1.iwipov50, absorb(country year) cluster(country)
 estimates store model13
-reghdfe L2.oda_d c.L3.ln_steel#c.oda_p ln_pop, absorb(country year) cluster(country)
+reghdfe L2.oda c.L3.ln_steel#c.oda_p L1.iwipov50, absorb(country year) cluster(country)
 estimates store model14
-reghdfe L2.oof_d c.L3.ln_steel#c.oof_p ln_pop, absorb(country year) cluster(country)
+reghdfe L2.oof c.L3.ln_steel#c.oof_p L1.iwipov50, absorb(country year) cluster(country)
 estimates store model15
-reghdfe L2.transport_d c.L3.ln_steel#c.transport_p ln_pop, absorb(country year) cluster(country)
+ 
+* Table 4: 2SLS & 1st Stage (National Regressions)
+esttab model7 model8 model9 model10 model11 model12 model13 model14 model15, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(L.iwipov50 L.shdi) 
+
+** Plot 1 & 2: Residuals- & Actual vs Predicted Values:
+scatter r2 yhat2, xline(0) yline(0)
+scatter iwipov50 yhat2 || lfit iwipov50 yhat2
+
+
+********************************************************************************
+** C. Secondary Regressions (Top5 Sectors): 2SLS & 1st Stage (Regional Level) **
+********************************************************************************
+
+*** Prepare dataset & variables (Regional Level):
+clear
+est clear
+cd C:\Users\fstev\china_devprojects_poverty
+use data.dta
+encode GDLCODE, g(gdlcode)
+xtset gdlcode year
+encode ISO_Code, g(country)
+drop index
+egen regyear = concat(GDLCODE year)
+
+** C1. 2SLS
+* Stage 1: 𝐶𝑛𝐴𝑖𝑑𝑖𝑟(𝑡−2)=(𝑆𝑡𝑒𝑒𝑙𝑡−3×𝑝𝑖𝑟)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝑢𝑖𝑟+𝜔𝑖(𝑡−2)+𝑣𝑖𝑟(𝑡−2)
+* Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
+ivreghdfe iwipov50 (L2.transport = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model7
+ivreghdfe iwipov50 (L2.health = c.L3.ln_steel#c.health_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model8
+ivreghdfe iwipov50 (L2.educ = c.L3.ln_steel#c.educ_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model9
+ivreghdfe iwipov50 (L2.energy = c.L3.ln_steel#c.energy_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model10
+ivreghdfe iwipov50 (L2.comms = c.L3.ln_steel#c.comms_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model11
+* DEPVAR = SHDI
+ivreghdfe shdi (L2.transport = c.L3.ln_steel#c.transport_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model12
+ivreghdfe shdi (L2.health = c.L3.ln_steel#c.health_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model13
+ivreghdfe shdi (L2.educ = c.L3.ln_steel#c.educ_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model14
+ivreghdfe shdi (L2.energy = c.L3.ln_steel#c.energy_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model15
+ivreghdfe shdi (L2.comms = c.L3.ln_steel#c.comms_p) L1.shdi , absorb(gdlcode year) cluster(country) first
 estimates store model16
 
-* B. Output Tables and Plots:
-
-* Table 3: OLS & Reduced Form (Main Regressions, National Level)
-estfe model*, labels(country "Country FE" year "Year FE")
-esttab model1 model2 model3 model4 model5 model6 model7 model8, ///
- replace indicate(`r(indicate_fe)') nocons obslast compress se ///
- star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a N_clust) order(ln_pop)
+* Table 5: 2SLS (Top5 Regressions)
+estfe model*, labels(gdlcode "Region FE" year "Year FE")
+esttab model7 model8 model9 model10 model11 model12 model13 model14 model15 model16, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf N_clust) order(L.iwipov50 L.shdi)
  
-* Table 4: 2SLS & 1st Stage (Main Regressions, National Level)
-estfe model*, labels(country "Country FE" year "Year FE")
-esttab model9 model10 model11 model12 model13 model14 model15 model16, ///
- replace indicate(`r(indicate_fe)') nocons obslast depvars se /// 
- star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf cdf N_clust) order(ln_pop)
+ ** C2. 1st stage regression
+reghdfe L2.transport c.L3.ln_steel#c.transport_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model17
+reghdfe L2.health c.L3.ln_steel#c.health_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model18
+reghdfe L2.educ c.L3.ln_steel#c.educ_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model19
+reghdfe L2.energy c.L3.ln_steel#c.energy_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model20
+reghdfe L2.comms c.L3.ln_steel#c.comms_p L1.iwipov50 , absorb(gdlcode year) cluster(country)
+estimates store model21
 
+* Table 6: 1st Stage (Top5 Regressions)
+estfe model*, labels(gdlcode "Region FE" year "Year FE")
+esttab model17 model18 model19 model20 model21, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf N_clust) order(L.iwipov50)
+ 
+********************************************************************************
+** D. Secondary Regressions (Project Values): 2SLS & 1st Stage (Regional Level) **
+********************************************************************************
 
+*** Prepare dataset & variables (Regional Level):
+clear
+est clear
+cd C:\Users\fstev\china_devprojects_poverty
+use data.dta
+encode GDLCODE, g(gdlcode)
+xtset gdlcode year
+encode ISO_Code, g(country)
+drop index
+egen regyear = concat(GDLCODE year)
+
+** C1. 2SLS
+* Stage 1: 𝐶𝑛𝐴𝑖𝑑𝑖𝑟(𝑡−2)=(𝑆𝑡𝑒𝑒𝑙𝑡−3×𝑝𝑖𝑟)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝑢𝑖𝑟+𝜔𝑖(𝑡−2)+𝑣𝑖𝑟(𝑡−2)
+* Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
+ivreghdfe iwipov50 (L2.ln_total_amount = c.L3.ln_steel#c.total_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model7
+ivreghdfe iwipov50 (L2.ln_oda_amount = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model8
+ivreghdfe iwipov50 (L2.ln_oof_amount = c.L3.ln_steel#c.oof_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model9
+ivreghdfe iwipov50 (L2.ln_transport_amount = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model10
+* DEPVAR = SHDI
+ivreghdfe shdi (L2.ln_total_amount = c.L3.ln_steel#c.total_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model11
+ivreghdfe shdi (L2.ln_oda_amount = c.L3.ln_steel#c.oda_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model12
+ivreghdfe shdi (L2.ln_oof_amount = c.L3.ln_steel#c.oof_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model13
+ivreghdfe shdi (L2.ln_transport_amount = c.L3.ln_steel#c.transport_p) L1.shdi , absorb(gdlcode year) cluster(country) first
+estimates store model14
+
+* Table 2: 2SLS (Amount Regressions)
+estfe model*, labels(gdlcode "Region FE" year "Year FE")
+esttab model7 model8 model9 model10 model11 model12 model13 model14, ///
+ replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
+ star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a rkf N_clust) order(L.iwipov50 L.shdi)

@@ -29,6 +29,7 @@ Studying the influence of Chinese development projects on sub-national poverty l
   - *hhsize <sub>irt</sub>* : Mean household size in region *r* of country *i* in year *t*
   - *hhpov50 <sub>irt</sub>* = (*regpopm <sub>irt</sub>* / *hhsize <sub>irt</sub>*) x *iwipov50 <sub>irt</sub>*: Total households under the IWI poverty level of 50 in region *r* of country *i* in year *t* (millions).
 
+[SHDI](https://www.nature.com/articles/sdata201938)
 
 3. [World Steel Association Statistical Yearbooks](https://www.worldsteel.org/steel-by-topic/statistics/steel-statistical-yearbook.html) - Presents a cross-section of steel industry statistics. Yearbooks  2000, 2010, 2018 & 2019 were used.
   - *steel <sub>t</sub>* : Total production of crude steel in year *t* (thousand tonnes)
@@ -116,7 +117,7 @@ The analysis is done using Stata 15, the regession results can be reproduced usi
 The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
 ### Dependencies: Stata Packages
-1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE:
+1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE & (!)XTIVREG2:
 ```
 cd C:\Users\...\china_devprojects_poverty
 do stata_req.do
