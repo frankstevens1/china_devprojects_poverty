@@ -1,3 +1,5 @@
+![alt text](https://steelguru.com/uploads/news/belt_and_road_development_initiate_between_china_and_africa_59480.jpg)
+
 # china_devprojects_poverty
 Studying the influence of Chinese development projects on sub-national poverty levels around the world.
 
