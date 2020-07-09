@@ -122,6 +122,7 @@ estimates store model6
 
 * Table 3: OLS (National Regressions)
 cd C:\Users\fstev\china_devprojects_poverty\tables
+estfe model*, labels(country "Country FE" year "Year FE")
 esttab model1 model2 model3 model4 model5 model6 using table3.rtf, ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se ///
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_within N_clust N_full) order(L.iwipov50)
@@ -146,6 +147,7 @@ estimates store model12
  
 * Table 4: 2SLS & 1st Stage (National Regressions)
 cd C:\Users\fstev\china_devprojects_poverty\tables
+estfe model*, labels(country "Country FE" year "Year FE")
 esttab model7 model8 model9 model10 model11 model12 using table4.rtf, ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(rkf N_clust N_full) order(L.iwipov50) 
