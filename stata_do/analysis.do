@@ -29,7 +29,14 @@ do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
 xtset gdlcode year
 drop index
 
-* Histogram of independant variable: iwipov50
+* summary statistics
+estpost summarize iwipov50 total oda transport health educ energy comms steel ln_steel /// 
+	total_amount oda_amount transport_amount /// 
+	total_p oda_p transport_p health_p educ_p energy_p comms_p
+cd C:\Users\fstev\china_devprojects_poverty\tables
+esttab . using sumstat.rtf, cells("count mean sd min max") nonumber noobs replace
+
+* histogram dependant variable
 hist iwipov50
 
 ** A1. OLS
@@ -101,7 +108,14 @@ do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers_iso.do
 xtset country year
 drop index
 
-* Histogram of independant variable: iwipov50
+* summary statistics
+estpost summarize iwipov50 total oda transport health educ energy comms steel ln_steel /// 
+	total_amount oda_amount transport_amount /// 
+	total_p oda_p transport_p health_p educ_p energy_p comms_p
+cd C:\Users\fstev\china_devprojects_poverty\tables
+esttab . using sumstat_iso.rtf, cells("count mean sd min max") nonumber noobs replace
+
+* histogram independant variable
 hist iwipov50
 
 ** B1. OLS 
@@ -167,12 +181,11 @@ est clear
 cd C:\Users\fstev\china_devprojects_poverty
 use data.dta
 encode GDLCODE, g(gdlcode)
-xtset gdlcode year
 encode ISO_Code, g(country)
-drop index
 egen regyear = concat(GDLCODE year)
-
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
+xtset gdlcode year
+drop index
 
 ** C1. 2SLS
 * Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
@@ -211,12 +224,11 @@ est clear
 cd C:\Users\fstev\china_devprojects_poverty
 use data.dta
 encode GDLCODE, g(gdlcode)
-xtset gdlcode year
 encode ISO_Code, g(country)
-drop index
 egen regyear = concat(GDLCODE year)
-
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
+xtset gdlcode year
+drop index
 
 ** D1. Amounts
 * Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
