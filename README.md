@@ -54,16 +54,18 @@ Where equation 2 is the main equation of interest and *iwipov50<sub>irt</sub>* i
 
 ## Results
 
-Table 3 & 4 present the main results of this paper, the specifications estimating the effects of all Chinese development projects, those that are classified as ODA and those within the transport sector. First, the OLS models in table 3 columns 1-3, foreshadow a negative relationship although they are all insignificant and suffer from an expected simultaneity bias. Columns 4-6 report the reduced form estimates, in which the instrument of lagged Chinese steel production interacted with the regional probability of receiving a project is regressed directly on the poverty indicator. Similarly, the direction of the effect is negative though the effect size is increased by an order of magnitude. Significance is also improved, the instrument for all projects and ODA projects are significant at the 10% level while for transport is significant at the 5% level. This is impressive given the restrictive two-way fixed effects while controlling for initial poverty levels with a lagged dependant variable. Tentatively suggesting that the OLS estimates are indeed upwardly biased due to simultaneity, contingent on the strength of our instrument. Table 4 columns 1-3 present the results of the joint estimation of the first and second stage, which sees the effect of total and ODA projects turn insignificant. Transport projects, however, remains quantitively and qualitatively similar to the reduced form estimate. The Kleibergen-Paap F-statistic of 36.79 is well above the rule of thumb 10% critical value of 16.38. Indicating that we can reject the null hypothesis that the maximum bias relative to OLS due to a weak instrument is below 10% (Stock & Yogo, 2005). Additionally, the first stage regression shows that our instrument is significant at the 1% level and strongest for transport projects with a positive relationship of 0.706. Indicating that a 10% annual growth in Chinese steel production translates to an increase in a regular recipient region’s probability of hosting a project by 7% (0.706×0.10) or by 3.5% in regions that only receive projects in half the years ((0.706×0.5)×0.10). The first stage coefficient of total projects and ODA projects are both about 0.3, still relevant but clearly less highly correlated. Encouragingly, the first stage results are similar in magnitude to those found by Bluhm et al., (2018) despite our smaller sample size. Considering the strength of the instrument, our results suggest that subnational regions that receive a Chinese transportation project can expect a regional reduction in poverty levels of around 3.4%. Translating to approximately 18 thousand households for the average region with a household population of 600 thousand.
+All results are reported in the regressions tables saved in [china_devprojects_poverty/tables/](china_devprojects_poverty/tables/)
+
+Tables 3 & 4 present the main results of this paper, the specifications estimating the effects of all Chinese development projects, those that are classified as ODA and those within the transport sector. First, the OLS models in table 3 columns 1-3, foreshadow a negative relationship although they are all insignificant and suffer from an expected simultaneity bias. Columns 4-6 report the reduced form estimates, in which the instrument of lagged Chinese steel production interacted with the regional probability of receiving a project is regressed directly on the poverty indicator. Similarly, the direction of the effect is negative though the effect size is increased by an order of magnitude. Significance is also improved, the instrument for all projects and ODA projects are significant at the 10% level while for transport is significant at the 5% level. This is impressive given the restrictive two-way fixed effects while controlling for initial poverty levels with a lagged dependant variable. Tentatively suggesting that the OLS estimates are indeed upwardly biased due to simultaneity, contingent on the strength of our instrument. Table 4 columns 1-3 present the results of the joint estimation of the first and second stage, which sees the effect of total and ODA projects turn insignificant. Transport projects, however, remains quantitively and qualitatively similar to the reduced form estimate. The Kleibergen-Paap F-statistic of 36.79 is well above the rule of thumb 10% critical value of 16.38. Indicating that we can reject the null hypothesis that the maximum bias relative to OLS due to a weak instrument is below 10% [(Stock & Yogo, 2005)](https://doi.org/10.1017/CBO9780511614491.006). Additionally, the first stage regression shows that our instrument is significant at the 1% level and strongest for transport projects with a positive relationship of 0.706. Indicating that a 10% annual growth in Chinese steel production translates to an increase in a regular recipient region’s probability of hosting a project by 7% (0.706×0.10) or by 3.5% in regions that only receive projects in half the years ((0.706×0.5)×0.10). The first stage coefficient of total projects and ODA projects are both about 0.3, still relevant but clearly less highly correlated. Encouragingly, the first stage results are similar in magnitude to those found by [Bluhm et al. (2018)](https://www.aiddata.org/publications/connective-finance-chinese-infrastructure-projects) despite the smaller sample size. Considering the strength of the instrument, our results suggest that subnational regions that receive a Chinese transportation project can expect a regional reduction in poverty levels of around 3.4%. Translating to approximately 18 thousand households for the average region with a household population of 600 thousand.
 
 ## Reproducing the dataset
 
 Notebooks detailing the process of wrangling and cleaning the data to produce the final dataset can be viewed using the links:
-  1. Region level dataset *data.dta*: [dataset_prep.ipynb](dataset_prep.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
-  2. Country level dataset *data_iso.dta*: [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
+  1. Region level dataset [data.dta](data.dta): [dataset_prep.ipynb](dataset_prep.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
+  2. Country level dataset [data_iso.dta](data_iso.dta): [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
 
-#### Python Packages
-Python 3.8 on Windows was used to create the dataset used in the analysis. Reproducing the dataset requires the packages listed in *requirements.txt*.
+### Installing Dependencies: Python
+Python 3.8 on Windows was used to create the dataset used in the analysis. Reproducing the dataset requires the packages listed in [requirements.txt](requirements.txt).
 
 From the command prompt (cmd):
 1. Install virtual environment manager:
@@ -86,7 +88,7 @@ vitualenv cdpenv
 ```
 .\cdpenv\Scripts\activate
 ```
-6. Install all packages from *requirements.txt*:
+6. Install all packages from [requirements.txt](requirements.txt):
 ```
 pip install -r requirements.txt --upgrade
 ```
@@ -112,15 +114,13 @@ pip install .\dependencies\Rtree-0.9.4-cp38-cp38-win_amd64.whl
 ```
 python -m ipykernel install --name=cdpenv
 ```
-#### Stata Packages:
-The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
 ## Reproducing the analysis:
-The analysis is done using Stata 15, the regession results can be reproduced using *analysis.do*. The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
+The analysis is done using Stata 15, all output reported in the report [china_devprojects_poverty.pdf]() can be reproduced using [analysis.do](stata_do/analysis.do). The analysis requires adding multiple levels of fixed effects, this has been made possible by Sergio Correia's (IV)REGHDFE, more info can be found on the developer's [page](http://scorreia.com/software/reghdfe/index.html).
 
-### Dependencies: Stata Packages
-1. (IV)REGHDFE and requirements can be installed from SSC *stata_req.do* contains all the package requirements to install & use (IV)REGHDFE:
+### Installing Dependencies: Stata
+1. (IV)REGHDFE and requirements can be installed from SSC [stata_req.do](stata_do/stata_req.do) contains all the package requirements to install & use (IV)REGHDFE:
 ```
-cd C:\Users\...\china_devprojects_poverty
+cd C:\Users\...\china_devprojects_poverty\stata_do
 do stata_req.do
 ```
