@@ -17,6 +17,9 @@ Studying the influence of Chinese development projects on sub-national poverty l
 
 ## Data
 
+The dataset used in the study consists of data from 3 different sources used to construct a panel of 1202 regions over 14 years. 
+The variables from the various sources are defined below.
+
 1. [AidData's Geocoded Global Chinese Official Finance](https://www.aiddata.org/data/geocoded-chinese-global-official-finance-dataset) - A dataset of 3,485 Chinese development projects committed between 2000-2014 globally. Comprising largely of infrastructure projects, primarily in the transport sector. The following variables are generated from this data:
   - *CnAid <sub>irt</sub>* : Commitment in year *t* destined for sub-national region *r* in country *i*, classified by CRS<sup>[1](#CRS)</sup> sectors & flow types. The variable can take 3 forms; a dummy indicating the presence of atleast 1 project, a count variable indicating the number of projects, or an estimated dollar value of the commitments. The preferred variable is a dummy.
   - *p<sub>ir</sub>* : The probability of region *r* in country *i* receiving a project, calculated as the fraction of years a region received a project over the period 2000-2014. This variable varies only across regions not over time, and is used as the share in the shift-share instrument employed. Interpreted as a region's local exposure to Chinese development projects.
