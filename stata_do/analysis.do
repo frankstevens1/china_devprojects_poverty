@@ -13,7 +13,7 @@
 
 * Written for Stata 15.1
 * Install requirements:
-do C:\Users\fstev\china_devprojects_poverty\stata_do\stata_req.do
+// do C:\Users\fstev\china_devprojects_poverty\stata_do\stata_req.do
 
 **********************************************************************************************
 ** A. Main Regressions (tables 3 & 4): OLS, Reduced Form, 2SLS & 1st Stage (Regional Level) **
@@ -29,6 +29,11 @@ encode ISO_Code, g(country)
 egen regyear = concat(GDLCODE year)
 *** outliers (62)
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
+
+** reduce to time period with observed values
+drop if year < 2000
+drop if year > 2014
+
 xtset gdlcode year
 drop index
 
@@ -73,14 +78,14 @@ estimates store model13
 ** OUPUT ** Table 3: OLS & Reduced Form (Subnational Regressions)
 cd C:\Users\fstev\china_devprojects_poverty\tables
 estfe model*, labels(gdlcode "Region FE" year "Year FE")
-esttab model1 model2 model3 model4 model5 model6, ///
+esttab model1 model2 model3 model4 model5 model6 , ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se ///
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(r2_a_within N_clust N_full) order(L.iwipov50)
 
 ** OUPUT ** Table 4: 2SLS & 1st Stage (Subnational Regressions)
 cd C:\Users\fstev\china_devprojects_poverty\tables
 estfe model*, labels(gdlcode "Region FE" year "Year FE")
-esttab model7 model8 model9 model10 model11 model12, ///
+esttab model7 model8 model9 model10 model11 model12 , ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(rkf N_clust N_full) order(L.iwipov50)
 
@@ -89,7 +94,7 @@ quietly estpost summarize iwipov50 total_d oda_d transport_d total oda transport
 	total_amount oda_amount transport_amount /// 
 	total_p oda_p transport_p health_p educ_p energy_p comms_p
 cd C:\Users\fstev\china_devprojects_poverty\tables
-esttab ., cells("count mean sd min max") nonumber noobs replace
+esttab . , cells("count mean sd min max") nonumber noobs replace
 
 ** OUTPUT ** Table 10: Predicted values < 0
 cd C:\Users\fstev\china_devprojects_poverty\tables
@@ -118,9 +123,15 @@ encode iso_code, g(country)
 egen countryyear = concat(iso_code year)
 *** outliers (27)
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers_iso.do
+
+** reduce to time period with observed values
+drop if year < 2000
+drop if year > 2014
+
 xtset country year
 drop index
 g ln_fdi = log(fdi)
+
 
 ** Table 5 Columns 1-3: OLS 
 reghdfe iwipov50 L2.total_d L1.iwipov50 , absorb(country year) vce(cluster country)
@@ -199,6 +210,11 @@ encode GDLCODE, g(gdlcode)
 encode ISO_Code, g(country)
 egen regyear = concat(GDLCODE year)
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
+
+** reduce to time period with observed values
+drop if year < 2000
+drop if year > 2014
+
 xtset gdlcode year
 drop index
 
@@ -243,6 +259,11 @@ encode GDLCODE, g(gdlcode)
 encode ISO_Code, g(country)
 egen regyear = concat(GDLCODE year)
 do C:\Users\fstev\china_devprojects_poverty\stata_do\outliers.do
+
+** reduce to time period with observed values
+drop if year < 2000
+drop if year > 2014
+
 xtset gdlcode year
 drop index
 
