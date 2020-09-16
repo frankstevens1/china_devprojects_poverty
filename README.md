@@ -85,7 +85,7 @@ cd C:\Users\...\china_devprojects_poverty
 ```
 4. Create python virtual environment (cdpenv is the name given the the environment):
 ```
-vitualenv cdpenv
+virtualenv cdpenv
 ```
 5. Activate virtual environment:
 ```
