@@ -275,19 +275,23 @@ ivreghdfe iwipov50 (L2.ln_oda_amount = c.L3.ln_steel#c.transport_p) L1.iwipov50 
 estimates store model2
 ivreghdfe iwipov50 (L2.ln_transport_amount = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
 estimates store model3
+ivreghdfe iwipov50 (L2.ln_energy_amount = c.L3.ln_steel#c.energy_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model4
 ** Table 8 Columns 4-6: Counts
 *** Stage 2: 𝑖𝑤𝑖𝑝𝑜𝑣50𝑖𝑟𝑡=𝛽𝐶𝑛𝐴𝑖𝑑𝑖(𝑡−2)+𝑟𝑒𝑔𝑝𝑜𝑝𝑚𝑖𝑟𝑡+𝜇𝑖𝑟+𝜆𝑖𝑡+𝜖𝑖𝑟𝑡
 ivreghdfe iwipov50 (L2.total = c.L3.ln_steel#c.total_p) L1.iwipov50 , absorb(gdlcode year, resid(r1)) cluster(country) first
-estimates store model4
+estimates store model5
 predict yhat1, xb
 ivreghdfe iwipov50 (L2.oda = c.L3.ln_steel#c.oda_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
-estimates store model5
-ivreghdfe iwipov50 (L2.transport = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
 estimates store model6
+ivreghdfe iwipov50 (L2.transport = c.L3.ln_steel#c.transport_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model7
+ivreghdfe iwipov50 (L2.energy = c.L3.ln_steel#c.energy_p) L1.iwipov50 , absorb(gdlcode year) cluster(country) first
+estimates store model8
 
 ** OUPUT ** Table 8: 2SLS (Amounts & Counts)
 cd C:\Users\fstev\china_devprojects_poverty\tables
 estfe model*, labels(gdlcode "Region FE" year "Year FE")
-esttab model1 model2 model3 model4 model5 model6 , ///
+esttab model1 model2 model3 model4 model5 model6 model7 model8, ///
  replace indicate(`r(indicate_fe)') nocons obslast compress se /// 
  star(* 0.10 ** 0.05 *** 0.01 **** 0.001) scalars(rkf N_clust N_full) order(L.iwipov50)

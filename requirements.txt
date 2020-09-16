@@ -9,8 +9,6 @@ colorama==0.4.3
 cycler==0.10.0
 decorator==4.4.2
 descartes==1.1.0
-Fiona==1.8.13
-GDAL==3.0.4
 geopandas==0.7.0
 idna==2.9
 ipykernel==5.2.1
@@ -36,7 +34,6 @@ pytz==2020.1
 pywin32==227
 pyzmq==19.0.0
 requests==2.23.0
-Rtree @ file:///C:/Users/fstev/mthesis/dependencies/Rtree-0.9.4-cp38-cp38-win_amd64.whl
 scipy==1.4.1
 seaborn==0.10.1
 Shapely==1.7.0
