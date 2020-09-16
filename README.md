@@ -91,28 +91,28 @@ virtualenv cdpenv
 ```
 .\cdpenv\Scripts\activate
 ```
-6. Install all packages from [requirements.txt](requirements.txt):
-```
-pip install -r requirements.txt --upgrade
-```
-**For some dependencies (GDAL, fiona & Rtree) installation via pip may fail, but they can be installed from .whl files saved in** [china_devprojects_poverty/dependencies](https://github.com/frankstevens1/china_devprojects_poverty/tree/master/dependencies).
+**Some dependencies (GDAL, fiona & Rtree) can be installed from .whl files saved in** [china_devprojects_poverty/dependencies](https://github.com/frankstevens1/china_devprojects_poverty/tree/master/dependencies).
 
 *Note: the .whl files save in the dependencies directory are for windows 64bit systems, for other systems the appropriate .whl file can be downloaded from:*
 * [GDAL](https://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal)
 * [fiona](https://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)
 * [Rtree](https://www.lfd.uci.edu/~gohlke/pythonlibs/#rtree)
 
-7. Install GDAL dependency (note: change file name in path if .whl file downloaded for another system):
+6. Install GDAL dependency (note: change file name in path if .whl file downloaded for another system):
 ```
 pip install .\dependencies\GDAL-3.0.4-cp38-cp38-win_amd64.whl
 ```
-8. Install Fiona dependency (note: change file name in path if .whl file downloaded for another system):
+7. Install Fiona dependency (note: change file name in path if .whl file downloaded for another system):
 ```
 pip install .\dependencies\Fiona-1.8.13-cp38-cp38-win_amd64.whl
 ```
-9. Install Rtree dependency (note: change file name in path if .whl file downloaded for another system):
+8. Install Rtree dependency (note: change file name in path if .whl file downloaded for another system):
 ```
 pip install .\dependencies\Rtree-0.9.4-cp38-cp38-win_amd64.whl
+```
+9. Install all packages from [requirements.txt](requirements.txt):
+```
+pip install -r requirements.txt --upgrade
 ```
 10. Setup ipyknernel to recognize cdpenv, the virtual environment that now has all required dependencies to run *dataset_prep_v2.ipynb*:
 ```
