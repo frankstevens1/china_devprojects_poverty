@@ -2,8 +2,13 @@
 docs/
 cdpenv/
 analysis2/
-
+hh/
 Untitled.ipynb
 population.csv
 population.ipynb
 debug.log
+cnfin.csv
+geonames.csv
+plots1.csv
+plots2.csv
+plots3.csv
