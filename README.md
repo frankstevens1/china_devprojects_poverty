@@ -1,4 +1,5 @@
 ![alt text](https://cms.qz.com/wp-content/uploads/2018/07/RTX1WYIR-e1532408488117.jpg?quality=75&strip=all&w=1900&h=1072)
+###### REUTERS/NOOR KHAMIS
 
 # Chinese Development Projects & Subnational Poverty
 
