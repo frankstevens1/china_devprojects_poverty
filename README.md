@@ -2,7 +2,7 @@
 
 # Chinese Development Projects & Subnational Poverty
 
-This repository contains all the required files and documentation to reproduce a study of the effects of development projects financed by China on subnational poverty levels around the world. The study was conducted as a master's thesis for completion of an MSc in International Economics and Development at the Radboud University of Nijmegen. Selected sections of the thesis are provided below to summarize the study conducted, the full thesis is included in the repository as a pdf file: *MTHEC RU Frank Stevens s1031050 - Master's Thesis.pdf*.
+This repository contains all the required files and documentation to reproduce a study of the effects of development projects financed by China on subnational poverty levels around the world. The study was conducted as a master's thesis for completion of an MSc in International Economics and Development at the Radboud University of Nijmegen. Selected sections of the thesis are provided below to summarize the study conducted, the full thesis is available [here](thesis_complete.pdf).
 
 ### Skip to Section:
 - [Introduction](#INTRO)
