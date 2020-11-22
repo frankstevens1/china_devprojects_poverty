@@ -10,7 +10,6 @@ This repository contains all the required files and documentation to reproduce a
 - [Data](#DATA)
 - [Empirical Strategy](#STRAT)
 - [Results](#RES)
-- [References](#REF)
 - [Reproducing the Dataset](#RTD)
 - [Reproducing the Analysis](#RTA)
 
@@ -29,11 +28,7 @@ The aim of this repository is to provide all the required documentation to repro
 
 ## Data <a name="DATA"></a>
 
-The dataset used in the study consists of data from 3 different sources used to construct a panel of 1202 subnational regions over 15 years.
-
-![Figure 6](figures/figure6.png)
-
-The variables from the various sources are defined below.
+The dataset used in the study consists of data from 3 different sources used to construct a panel of 617 subnational regions over 15 years. The variables from the various sources are defined below.
 
 1. [AidData's Geocoded Global Chinese Official Finance](https://www.aiddata.org/data/geocoded-chinese-global-official-finance-dataset) - A dataset of 3,485 Chinese development projects committed between 2000-2014 globally. Comprising largely of infrastructure projects, primarily in the transport sector. The following variables are generated from this data:
 
@@ -50,6 +45,10 @@ The variables from the various sources are defined below.
 3. [World Steel Association Statistical Yearbooks](https://www.worldsteel.org/steel-by-topic/statistics/steel-statistical-yearbook.html) - Publisher of a cross-section of steel industry statistics. Yearbooks  2000, 2010, 2018 & 2019 are used for this study.
 
   - *steel <sub>t</sub>* : Total production of crude steel in year *t* (thousand tonnes). This time series is used as the shift in the shift-share instrument employed. Interpreted as an exogenous shock that is highly correlated with the following year's commitments in development finance from China.
+
+The surveys used to compute the *IWI* are conducted in waves at varying intervals and administrative levels, which are not always the same official administrative subdivisions. Additionally, there can be changes of subdivisions over time, therefore for this study the subnational coding system developed by GDL, gdlcodes, is used as the unit of analysis. Fortunately, AidData’s geocoding effort provides geolocation details for most Chinese development projects included in their dataset. The precision of the geolocation details vary from within a 25 km radius from the project site to first-order administrative regions. All the development projects can therefore be aggregated precisely to gdlcodes using GDL’s publicly available shapefiles. A small number of project points lie marginally outside of polygons (gdlcodes), this is expected to be due to measurement error and/or offshore projects. These projects are assigned to their nearest polygon. The resulting sample includes 4,077 unique project locations over the 15-year period with a total estimated value of US$162 billion. Projects are located within 617 unique subnational regions in 103 countries and annually there are a minimum of 86, average of 271 and maximum of 411 projects.
+
+![Figure 6](figures/figure6.png)
 
 ###### Notes:
 <a name="CRS">1</a> - [Common reporting standard](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm) used by participating donors to report their aid flows to the Development Assistance Committee (DAC) databases. China and many other non-DAC donors do not participate, but AidData researchers have classified Chinese financial flows according to these standards.
@@ -87,13 +86,14 @@ Tables 3 & 4 present the main results of this thesis, the specifications estimat
 
 Table 4 columns 1-3 present the results of the joint estimation of the first and second stage, which sees the effect of total and ODA projects remain insignificant. Transport projects, however, remains quantitively similar to the reduced form estimate and significant at the 5% level. The Kleibergen-Paap F-statistic of 16.79 is just barely above the rule of thumb 10% critical value of 16.38. Indicating that we can reject the null hypothesis that the maximum bias relative to OLS due to a weak instrument is below 10% [(Stock & Yogo, 2005)](https://doi.org/10.1017/CBO9780511614491.006) indicating 2SLS is an improved specification. Additionally, the first stage equation in table 4 columns 4-5 shows that our instrument is significant at the 1% level and strongest for transport projects with a positive relationship of 0.802. Indicating that a 10% annual growth in Chinese steel production translates to an increase in a regular recipient region’s probability of hosting a transport project by 8% (0.802×0.10) or by 1.6% in regions that only receive projects in 20% of all years ((0.802×0.20)×0.10). The first stage coefficient of total projects and ODA projects are both about 0.3, still relevant but clearly less highly correlated. Which is expected because our instrument is driven by large infrastructure projects requiring steel and other physical inputs, such as those in the transport sector. Encouragingly, the first stage results are similar in magnitude and significance to those found by [Bluhm et al. (2018)](https://www.aiddata.org/publications/connective-finance-chinese-infrastructure-projects) despite a smaller sample size. Considering the strength of the instrument, our results suggest a local average treatment effect of 2.8%. Indicating that subnational regions that receive a Chinese transportation project can expect a regional reduction in poverty levels of around 2.8% two years after the project is committed. Translating to approximately 16.8 thousand households for the average region with a population of 600 thousand households.
 
-## References <a name="REF"></a>
-
 ## Reproducing the Dataset <a name="RTD"></a>
 
 Notebooks detailing the process of wrangling and cleaning the data to produce the final dataset can be viewed using the links:
-  1. Region level dataset [data.dta](data.dta): [dataset_prep.ipynb](dataset_prep.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep.ipynb)
-  2. Country level dataset [data_iso.dta](data_iso.dta): [dataset_prep_iso.ipynb](dataset_prep_iso.ipynb) or using [nbviewer](https://nbviewer.jupyter.org/github/frankstevens1/china_devprojects_poverty/blob/master/dataset_prep_iso.ipynb)
+
+| Notebook | Dataset |
+|----------|---------|
+[Region level](dataset_prep.ipynb) | [Stata](data.dta) or [csv](data.csv)
+[Country level](dataset_prep_iso.ipynb) | [Stata](data_iso.dta) or [csv](data_iso.csv)
 
 ### Installing Dependencies: Python
 Python 3.8 on Windows was used to create the dataset used in the analysis. Reproducing the dataset requires the packages listed in [requirements.txt](requirements.txt).
