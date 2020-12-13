@@ -8,7 +8,7 @@ This repository contains all the required files and documentation to reproduce a
 ### Skip to Section:
 - [Introduction](#INTRO)
 - [Data](#DATA)
-- [Empirical Strategy](#STRAT)
+- [Instrumental Variable Strategy](#STRAT)
 - [Results](#RES)
 - [Reproducing the Dataset](#RTD)
 - [Reproducing the Analysis](#RTA)
@@ -53,7 +53,7 @@ The surveys used to compute the *IWI* are conducted in waves at varying interval
 ###### Notes:
 <a name="CRS">1</a> - [Common reporting standard](https://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/dacandcrscodelists.htm) used by participating donors to report their aid flows to the Development Assistance Committee (DAC) databases. China and many other non-DAC donors do not participate, but AidData researchers have classified Chinese financial flows according to these standards.
 
-## Empirical strategy <a name="STRAT"></a>
+## Instrumental Variable Strategy <a name="STRAT"></a>
 
 To determine the effect of Chinese development assistance on regional poverty levels, the dependant variable used is the percentage of households in a region that are below the poverty line. [Smits & Steendijk (2015)](https://link.springer.com/article/10.1007/s11205-014-0683-x) have demonstrated the effectiveness of IWI in measuring poverty, with an impressive Pearson’s correlation of 0.914 between national percentages of households with an IWI value below 50 and the World Bank’s Poverty Headcount Ratio at $2.00 a day. Therefore, we define the poverty line as IWI 50 (*iwipov50*) and examine the local average treatment effect (LATE) of Chinese development projects on subnational poverty.
 
